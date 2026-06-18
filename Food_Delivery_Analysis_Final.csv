@@ -1,0 +1,1001 @@
+Order_ID,Customer_Name,City,Order_Date,Order_Time,Food_Item,Quantity,Price,Payment_Mode,Customer_Rating,Revenue,Customer_ID,Gender,Age,Restaurant_Name,Food_Category,Delivery_Fee,Discount,Final_Bill,Delivery_Time_Minutes,Order_Status
+1001,Anitha,Trichy,2025-12-26,15:09,Noodles,2,293,Cash,3,586,1001,Male,23,Hotel Saravana Bhavan,Chinese,64,14,636,41,Delivered
+1002,Ravi,Thoothukudi,2025-12-05,11:30,Noodles,5,288,UPI,1,1440,1002,Male,34,Hotel Saravana Bhavan,Chinese,93,6,1527,35,Delivered
+1003,Ravi,Coimbatore,2025-03-23,11:53,Biryani,5,146,Cash,4,730,1003,Female,30,Pizza Hut,Chinese,92,6,816,59,Pending
+1004,Vijay,Salem,2025-08-07,11:29,Parotta,3,99,Cash,2,297,1004,Female,22,A2B,Chinese,89,31,355,50,Pending
+1005,Priya,Madurai,2025-03-07,12:06,Dosa,2,313,UPI,4,626,1005,Female,47,KFC,South Indian,64,37,653,15,Delivered
+1006,Meena,Coimbatore,2025-11-20,19:20,Shawarma,5,273,UPI,1,1365,1006,Female,41,Hotel Saravana Bhavan,Fast Food,72,42,1395,40,Pending
+1007,Anitha,Salem,2025-09-16,12:43,Biryani,1,324,Card,3,324,1007,Male,43,Pizza Hut,North Indian,67,41,350,15,Delivered
+1008,Priya,Chennai,2025-10-15,11:35,Shawarma,3,170,Cash,2,510,1008,Male,46,Hotel Saravana Bhavan,Fast Food,20,2,528,20,Cancelled
+1009,Suresh,Chennai,2025-02-04,20:57,Dosa,1,324,Cash,5,324,1009,Male,36,KFC,Chinese,28,36,316,33,Cancelled
+1010,Kumar,Tirunelveli,2025-09-05,14:53,Pizza,2,213,UPI,3,426,1010,Male,53,Hotel Saravana Bhavan,South Indian,41,22,445,21,Delivered
+1011,Divya,Coimbatore,2025-05-28,22:10,Fried Rice,1,223,Card,4,223,1011,Male,34,A2B,Chinese,81,44,260,39,Delivered
+1012,Suresh,Trichy,2025-03-04,20:35,Fried Rice,5,237,Cash,4,1185,1012,Female,31,A2B,South Indian,48,35,1198,49,Pending
+1013,Ravi,Chennai,2025-09-04,21:49,Parotta,2,328,Card,2,656,1013,Male,53,Dominos,Chinese,49,1,704,42,Pending
+1014,Arun,Trichy,2025-09-12,22:47,Dosa,2,142,Cash,1,284,1014,Female,58,A2B,North Indian,62,47,299,51,Pending
+1015,Karthik,Thoothukudi,2025-11-08,11:07,Burger,3,237,UPI,3,711,1015,Male,58,KFC,Chinese,47,6,752,30,Pending
+1016,Karthik,Thoothukudi,2025-10-17,11:42,Burger,2,185,Cash,4,370,1016,Male,57,A2B,South Indian,52,18,404,21,Delivered
+1017,Divya,Madurai,2025-10-17,19:04,Dosa,4,173,Card,4,692,1017,Male,52,A2B,Fast Food,59,46,705,51,Cancelled
+1018,Ravi,Coimbatore,2025-05-12,19:04,Burger,4,341,UPI,4,1364,1018,Male,27,KFC,South Indian,37,15,1386,47,Pending
+1019,Karthik,Tirunelveli,2025-04-13,22:27,Fried Rice,4,182,Cash,2,728,1019,Male,33,Pizza Hut,Chinese,71,43,756,55,Cancelled
+1020,Kumar,Chennai,2025-06-19,20:54,Pizza,5,207,Card,3,1035,1020,Male,28,Pizza Hut,Chinese,69,33,1071,45,Pending
+1021,Arun,Salem,2025-09-10,18:38,Pizza,3,157,UPI,4,471,1021,Female,59,Pizza Hut,Fast Food,94,3,562,18,Cancelled
+1022,Karthik,Chennai,2025-09-16,14:15,Noodles,4,114,UPI,1,456,1022,Male,42,KFC,South Indian,73,41,488,52,Delivered
+1023,Suresh,Chennai,2025-07-25,12:19,Noodles,4,209,Cash,2,836,1023,Female,23,Dominos,South Indian,80,22,894,16,Cancelled
+1024,Anitha,Trichy,2025-05-11,17:13,Shawarma,3,164,Card,3,492,1024,Female,53,KFC,North Indian,45,25,512,25,Delivered
+1025,Karthik,Salem,2025-12-04,10:18,Dosa,3,216,Card,5,648,1025,Female,52,Dominos,Fast Food,57,39,666,15,Cancelled
+1026,Meena,Coimbatore,2025-01-12,11:32,Burger,4,241,Cash,1,964,1026,Female,33,Hotel Saravana Bhavan,North Indian,49,24,989,36,Cancelled
+1027,Vijay,Salem,2025-01-04,17:43,Shawarma,5,102,Card,5,510,1027,Male,18,Hotel Saravana Bhavan,South Indian,89,8,591,38,Cancelled
+1028,Anitha,Coimbatore,2025-02-10,10:26,Fried Rice,4,167,Cash,5,668,1028,Male,48,Dominos,Chinese,87,10,745,20,Pending
+1029,Kumar,Trichy,2025-03-26,11:05,Burger,4,225,Cash,2,900,1029,Male,40,A2B,North Indian,53,18,935,48,Delivered
+1030,Karthik,Chennai,2025-06-26,18:36,Shawarma,3,261,Card,3,783,1030,Female,25,Pizza Hut,Chinese,36,5,814,36,Delivered
+1031,Karthik,Coimbatore,2025-11-12,10:14,Shawarma,5,98,Cash,2,490,1031,Male,50,KFC,Chinese,50,28,512,52,Cancelled
+1032,Vijay,Coimbatore,2025-04-13,12:35,Burger,3,181,Cash,2,543,1032,Male,51,Hotel Saravana Bhavan,South Indian,70,10,603,43,Pending
+1033,Divya,Madurai,2025-12-09,18:53,Noodles,5,284,Cash,4,1420,1033,Female,45,Hotel Saravana Bhavan,Fast Food,73,47,1446,40,Pending
+1034,Divya,Tirunelveli,2025-08-04,18:44,Biryani,4,206,Card,5,824,1034,Male,33,A2B,North Indian,55,0,879,22,Cancelled
+1035,Suresh,Thoothukudi,2025-12-28,18:22,Biryani,5,168,UPI,1,840,1035,Male,26,Hotel Saravana Bhavan,North Indian,32,6,866,41,Pending
+1036,Divya,Chennai,2025-11-23,11:21,Fried Rice,3,239,Cash,5,717,1036,Male,26,Dominos,Fast Food,28,36,709,22,Delivered
+1037,Priya,Madurai,2025-01-28,10:02,Fried Rice,5,335,UPI,4,1675,1037,Male,57,Dominos,Chinese,60,38,1697,46,Pending
+1038,Kumar,Thoothukudi,2025-06-20,19:11,Pizza,3,172,Cash,2,516,1038,Male,30,A2B,North Indian,96,35,577,23,Pending
+1039,Divya,Chennai,2025-06-01,21:54,Fried Rice,5,269,Cash,3,1345,1039,Female,55,KFC,Fast Food,24,19,1350,16,Pending
+1040,Arun,Coimbatore,2025-03-24,11:44,Shawarma,3,307,Card,4,921,1040,Male,22,A2B,Chinese,34,48,907,59,Cancelled
+1041,Vijay,Trichy,2025-07-05,19:00,Biryani,2,283,Cash,5,566,1041,Female,34,Pizza Hut,Fast Food,51,10,607,49,Pending
+1042,Divya,Salem,2025-02-05,19:25,Noodles,1,196,Cash,1,196,1042,Female,18,KFC,Fast Food,95,2,289,23,Cancelled
+1043,Ravi,Chennai,2025-01-12,20:56,Shawarma,1,138,Card,2,138,1043,Female,43,Hotel Saravana Bhavan,North Indian,90,29,199,15,Delivered
+1044,Meena,Tirunelveli,2025-02-21,22:06,Dosa,5,212,UPI,5,1060,1044,Male,51,Pizza Hut,Chinese,89,5,1144,43,Delivered
+1045,Arun,Trichy,2025-03-24,21:34,Biryani,1,190,Card,2,190,1045,Male,58,Pizza Hut,North Indian,85,44,231,28,Pending
+1046,Meena,Trichy,2025-07-04,20:29,Parotta,1,97,UPI,2,97,1046,Female,30,A2B,North Indian,26,20,103,58,Cancelled
+1047,Vijay,Tirunelveli,2025-02-12,10:45,Shawarma,5,82,UPI,5,410,1047,Female,48,KFC,North Indian,75,30,455,26,Pending
+1048,Ravi,Tirunelveli,2025-09-20,15:42,Fried Rice,1,129,UPI,1,129,1048,Female,54,Hotel Saravana Bhavan,Chinese,30,21,138,19,Cancelled
+1049,Priya,Tirunelveli,2025-07-25,18:14,Pizza,1,223,UPI,4,223,1049,Female,26,A2B,North Indian,58,31,250,27,Delivered
+1050,Priya,Thoothukudi,2025-05-11,22:09,Dosa,5,332,UPI,2,1660,1050,Male,35,Dominos,Chinese,34,38,1656,23,Cancelled
+1051,Meena,Chennai,2025-02-21,17:04,Burger,1,315,UPI,4,315,1051,Female,26,KFC,Chinese,76,34,357,58,Cancelled
+1052,Vijay,Tirunelveli,2025-05-05,19:14,Shawarma,5,219,UPI,5,1095,1052,Male,41,Hotel Saravana Bhavan,Chinese,64,33,1126,57,Pending
+1053,Meena,Madurai,2025-01-28,13:13,Biryani,5,170,UPI,5,850,1053,Male,34,Pizza Hut,North Indian,59,14,895,44,Pending
+1054,Vijay,Salem,2025-04-09,17:15,Shawarma,1,292,Card,1,292,1054,Male,27,KFC,Chinese,71,13,350,36,Pending
+1055,Arun,Coimbatore,2025-10-14,18:44,Fried Rice,4,109,UPI,3,436,1055,Female,18,KFC,Fast Food,83,21,498,41,Pending
+1056,Vijay,Trichy,2025-12-21,16:30,Biryani,1,103,UPI,2,103,1056,Male,26,A2B,Chinese,62,36,129,42,Delivered
+1057,Ravi,Coimbatore,2025-10-20,15:12,Shawarma,5,252,Card,1,1260,1057,Male,29,Pizza Hut,Chinese,53,3,1310,41,Delivered
+1058,Arun,Thoothukudi,2025-07-28,17:51,Fried Rice,1,230,Card,5,230,1058,Female,31,Dominos,South Indian,27,0,257,29,Delivered
+1059,Divya,Coimbatore,2025-01-06,19:58,Pizza,5,346,Cash,2,1730,1059,Female,49,Pizza Hut,Chinese,24,3,1751,58,Cancelled
+1060,Anitha,Thoothukudi,2025-01-17,17:15,Fried Rice,3,348,Cash,4,1044,1060,Male,38,Pizza Hut,South Indian,36,45,1035,57,Pending
+1061,Ravi,Tirunelveli,2025-06-28,20:16,Parotta,2,192,Card,2,384,1061,Male,43,KFC,South Indian,31,19,396,31,Delivered
+1062,Karthik,Coimbatore,2025-08-18,21:54,Dosa,4,294,UPI,5,1176,1062,Male,53,A2B,North Indian,30,34,1172,54,Delivered
+1063,Anitha,Madurai,2025-07-15,21:28,Fried Rice,4,181,UPI,4,724,1063,Female,42,Dominos,Chinese,81,13,792,49,Delivered
+1064,Ravi,Madurai,2025-12-21,12:47,Shawarma,2,230,Card,5,460,1064,Female,41,Pizza Hut,Fast Food,74,2,532,43,Delivered
+1065,Anitha,Tirunelveli,2025-02-07,12:35,Fried Rice,4,184,Cash,1,736,1065,Female,45,Dominos,North Indian,36,47,725,40,Cancelled
+1066,Kumar,Trichy,2025-05-25,10:15,Biryani,4,285,Cash,3,1140,1066,Male,18,Dominos,Fast Food,49,40,1149,39,Delivered
+1067,Vijay,Coimbatore,2025-10-26,21:47,Dosa,3,164,Card,5,492,1067,Male,53,A2B,North Indian,33,27,498,44,Pending
+1068,Priya,Salem,2025-12-17,20:16,Fried Rice,2,285,Card,2,570,1068,Female,26,KFC,Fast Food,78,41,607,51,Cancelled
+1069,Anitha,Chennai,2025-02-01,18:02,Fried Rice,5,146,UPI,2,730,1069,Male,56,Dominos,Fast Food,86,43,773,25,Pending
+1070,Arun,Trichy,2025-12-26,20:39,Biryani,3,174,UPI,1,522,1070,Female,32,Hotel Saravana Bhavan,South Indian,91,43,570,57,Delivered
+1071,Meena,Tirunelveli,2025-02-10,12:21,Dosa,3,128,Card,2,384,1071,Male,42,A2B,North Indian,90,36,438,29,Cancelled
+1072,Ravi,Salem,2025-10-01,21:14,Noodles,5,95,Cash,3,475,1072,Male,47,Dominos,Fast Food,92,38,529,58,Delivered
+1073,Priya,Salem,2025-03-20,17:49,Noodles,3,177,Card,5,531,1073,Female,28,Dominos,Chinese,75,4,602,21,Pending
+1074,Priya,Thoothukudi,2025-05-02,19:48,Parotta,4,186,Card,4,744,1074,Female,25,Pizza Hut,South Indian,79,4,819,51,Cancelled
+1075,Ravi,Chennai,2025-08-10,13:33,Pizza,2,265,UPI,5,530,1075,Female,21,Dominos,North Indian,77,16,591,30,Pending
+1076,Meena,Tirunelveli,2025-05-17,16:46,Burger,1,171,UPI,2,171,1076,Female,32,KFC,Fast Food,99,30,240,58,Delivered
+1077,Kumar,Tirunelveli,2025-06-22,21:47,Burger,3,325,Card,3,975,1077,Male,36,A2B,Fast Food,51,2,1024,20,Cancelled
+1078,Priya,Tirunelveli,2025-05-07,16:20,Shawarma,5,254,Cash,3,1270,1078,Female,42,Hotel Saravana Bhavan,Fast Food,33,22,1281,58,Pending
+1079,Divya,Thoothukudi,2025-06-07,15:41,Burger,5,233,Card,2,1165,1079,Male,54,Pizza Hut,North Indian,24,44,1145,52,Delivered
+1080,Priya,Chennai,2025-02-10,19:57,Dosa,1,317,Cash,5,317,1080,Male,44,Dominos,North Indian,62,30,349,39,Cancelled
+1081,Meena,Thoothukudi,2025-09-20,11:56,Pizza,3,189,Card,5,567,1081,Male,45,Dominos,North Indian,80,11,636,39,Pending
+1082,Karthik,Trichy,2025-07-04,12:12,Biryani,2,322,UPI,3,644,1082,Male,29,Dominos,Fast Food,48,9,683,40,Cancelled
+1083,Priya,Madurai,2025-07-04,11:31,Pizza,2,143,UPI,1,286,1083,Female,19,KFC,North Indian,61,30,317,29,Delivered
+1084,Suresh,Tirunelveli,2025-12-24,21:12,Burger,2,104,UPI,1,208,1084,Male,26,A2B,Fast Food,61,43,226,42,Pending
+1085,Anitha,Thoothukudi,2025-09-15,11:03,Shawarma,3,106,Cash,1,318,1085,Male,54,Dominos,Chinese,36,29,325,35,Cancelled
+1086,Meena,Madurai,2025-02-24,18:26,Fried Rice,3,193,UPI,4,579,1086,Male,56,A2B,South Indian,25,34,570,40,Cancelled
+1087,Suresh,Trichy,2025-03-19,12:52,Noodles,2,85,Card,4,170,1087,Male,19,Hotel Saravana Bhavan,South Indian,42,1,211,19,Delivered
+1088,Kumar,Salem,2025-10-24,17:49,Burger,5,306,Card,3,1530,1088,Male,37,Hotel Saravana Bhavan,Chinese,67,45,1552,38,Delivered
+1089,Ravi,Madurai,2025-03-25,21:03,Burger,4,160,Cash,4,640,1089,Female,26,Dominos,South Indian,69,0,709,18,Cancelled
+1090,Divya,Coimbatore,2025-12-21,20:51,Biryani,5,114,Card,1,570,1090,Male,28,Pizza Hut,Chinese,97,3,664,24,Cancelled
+1091,Priya,Trichy,2025-04-26,18:16,Parotta,3,177,Cash,3,531,1091,Female,29,KFC,South Indian,25,3,553,36,Delivered
+1092,Arun,Tirunelveli,2025-09-09,10:27,Burger,4,139,UPI,1,556,1092,Female,42,Hotel Saravana Bhavan,South Indian,93,48,601,43,Delivered
+1093,Arun,Salem,2025-10-11,19:47,Fried Rice,5,115,UPI,3,575,1093,Female,20,Dominos,Fast Food,52,2,625,51,Pending
+1094,Kumar,Madurai,2025-04-17,13:41,Fried Rice,3,98,Card,1,294,1094,Female,33,Hotel Saravana Bhavan,Fast Food,58,47,305,30,Cancelled
+1095,Arun,Chennai,2025-02-15,17:13,Burger,2,169,Card,5,338,1095,Male,19,KFC,North Indian,41,12,367,44,Pending
+1096,Ravi,Madurai,2025-11-03,19:10,Burger,3,166,Cash,2,498,1096,Male,23,A2B,Fast Food,43,27,514,15,Pending
+1097,Suresh,Tirunelveli,2025-12-16,16:51,Parotta,2,347,UPI,3,694,1097,Male,22,Hotel Saravana Bhavan,Chinese,82,20,756,15,Cancelled
+1098,Priya,Tirunelveli,2025-02-22,15:06,Biryani,1,210,Cash,5,210,1098,Male,35,Dominos,North Indian,85,6,289,39,Cancelled
+1099,Suresh,Chennai,2025-12-11,19:53,Dosa,1,107,UPI,1,107,1099,Female,41,Pizza Hut,Fast Food,56,27,136,44,Cancelled
+1100,Suresh,Tirunelveli,2025-04-11,18:59,Shawarma,2,257,Cash,2,514,1100,Male,56,A2B,Chinese,21,21,514,58,Cancelled
+1101,Priya,Trichy,2025-06-18,21:00,Burger,5,261,Cash,4,1305,1101,Male,55,Dominos,North Indian,40,20,1325,52,Pending
+1102,Divya,Thoothukudi,2025-06-11,10:39,Parotta,5,103,Card,5,515,1102,Female,31,KFC,Chinese,91,19,587,56,Delivered
+1103,Ravi,Tirunelveli,2025-08-26,14:11,Parotta,2,135,Cash,3,270,1103,Female,39,KFC,North Indian,64,13,321,56,Delivered
+1104,Divya,Thoothukudi,2025-03-14,15:00,Dosa,4,311,UPI,3,1244,1104,Male,24,KFC,South Indian,51,35,1260,35,Pending
+1105,Arun,Chennai,2025-01-13,16:35,Burger,1,194,Card,3,194,1105,Male,44,Hotel Saravana Bhavan,Fast Food,82,37,239,24,Pending
+1106,Arun,Tirunelveli,2025-09-21,11:17,Dosa,3,244,Cash,1,732,1106,Female,24,A2B,North Indian,31,12,751,56,Cancelled
+1107,Vijay,Madurai,2025-09-26,22:28,Pizza,1,187,Cash,5,187,1107,Male,26,KFC,Fast Food,66,29,224,22,Cancelled
+1108,Anitha,Chennai,2025-01-16,15:36,Pizza,4,287,Card,2,1148,1108,Male,29,Pizza Hut,Fast Food,22,0,1170,39,Pending
+1109,Anitha,Madurai,2025-08-12,22:48,Parotta,5,190,Cash,5,950,1109,Male,46,KFC,North Indian,93,43,1000,38,Cancelled
+1110,Suresh,Tirunelveli,2025-03-02,22:53,Dosa,3,230,Cash,2,690,1110,Male,57,Hotel Saravana Bhavan,South Indian,96,5,781,21,Delivered
+1111,Ravi,Madurai,2025-09-28,11:43,Parotta,4,152,Card,1,608,1111,Male,56,Pizza Hut,Fast Food,69,20,657,51,Cancelled
+1112,Suresh,Salem,2025-08-18,16:22,Noodles,5,218,UPI,1,1090,1112,Male,42,Dominos,Chinese,65,1,1154,35,Pending
+1113,Divya,Salem,2025-03-21,22:20,Noodles,2,209,Cash,3,418,1113,Male,37,Hotel Saravana Bhavan,North Indian,37,5,450,25,Cancelled
+1114,Vijay,Tirunelveli,2025-12-04,11:00,Shawarma,5,268,UPI,2,1340,1114,Male,31,KFC,Fast Food,80,48,1372,30,Cancelled
+1115,Arun,Thoothukudi,2025-04-14,11:45,Noodles,5,221,Card,1,1105,1115,Male,36,Hotel Saravana Bhavan,Chinese,24,14,1115,57,Delivered
+1116,Suresh,Tirunelveli,2025-07-04,21:09,Parotta,3,343,UPI,1,1029,1116,Female,21,Dominos,Fast Food,36,41,1024,23,Delivered
+1117,Priya,Chennai,2025-03-25,13:43,Burger,2,114,UPI,1,228,1117,Female,54,Dominos,North Indian,60,29,259,32,Delivered
+1118,Vijay,Chennai,2025-11-13,20:50,Noodles,4,289,UPI,4,1156,1118,Male,53,KFC,South Indian,34,29,1161,45,Pending
+1119,Karthik,Madurai,2025-12-06,22:22,Fried Rice,1,287,UPI,2,287,1119,Male,55,Hotel Saravana Bhavan,South Indian,42,48,281,29,Delivered
+1120,Anitha,Coimbatore,2025-10-02,14:27,Noodles,3,246,Cash,5,738,1120,Female,42,Dominos,Chinese,74,19,793,24,Cancelled
+1121,Vijay,Chennai,2025-07-10,21:28,Dosa,3,86,Cash,1,258,1121,Female,52,KFC,Fast Food,80,17,321,34,Cancelled
+1122,Ravi,Coimbatore,2025-08-26,18:33,Parotta,3,103,Cash,4,309,1122,Male,49,Hotel Saravana Bhavan,Fast Food,66,20,355,34,Cancelled
+1123,Arun,Madurai,2025-10-02,11:40,Noodles,1,176,Card,5,176,1123,Male,38,Hotel Saravana Bhavan,South Indian,75,34,217,20,Cancelled
+1124,Suresh,Madurai,2025-10-03,15:59,Pizza,3,235,UPI,5,705,1124,Male,21,Dominos,Chinese,26,2,729,31,Delivered
+1125,Divya,Salem,2025-12-19,13:33,Shawarma,2,317,Cash,2,634,1125,Female,34,KFC,North Indian,94,33,695,22,Cancelled
+1126,Vijay,Tirunelveli,2025-06-21,16:43,Parotta,1,316,Cash,2,316,1126,Female,39,Dominos,Fast Food,95,38,373,21,Cancelled
+1127,Anitha,Chennai,2025-09-14,17:16,Shawarma,5,282,Cash,4,1410,1127,Male,19,A2B,South Indian,23,36,1397,21,Pending
+1128,Ravi,Tirunelveli,2025-11-13,17:36,Pizza,3,253,Cash,5,759,1128,Female,25,Pizza Hut,North Indian,22,35,746,19,Delivered
+1129,Meena,Salem,2025-06-15,10:30,Dosa,1,111,Card,2,111,1129,Male,24,Pizza Hut,Fast Food,55,0,166,56,Pending
+1130,Ravi,Coimbatore,2025-12-10,19:42,Burger,1,166,Cash,3,166,1130,Male,36,A2B,Fast Food,80,46,200,30,Delivered
+1131,Meena,Thoothukudi,2025-11-03,12:03,Biryani,2,132,Card,2,264,1131,Female,57,KFC,South Indian,32,6,290,20,Cancelled
+1132,Suresh,Salem,2025-01-06,14:53,Parotta,2,210,Card,5,420,1132,Male,51,A2B,Fast Food,50,33,437,24,Pending
+1133,Meena,Madurai,2025-11-23,19:46,Burger,3,90,Card,3,270,1133,Male,36,Pizza Hut,Chinese,44,47,267,18,Pending
+1134,Arun,Trichy,2025-11-26,22:05,Pizza,2,265,Cash,1,530,1134,Male,21,Pizza Hut,Fast Food,57,8,579,44,Delivered
+1135,Vijay,Madurai,2025-05-09,22:09,Dosa,4,291,UPI,1,1164,1135,Female,46,KFC,South Indian,35,18,1181,33,Cancelled
+1136,Kumar,Thoothukudi,2025-08-20,18:13,Burger,3,234,Cash,1,702,1136,Male,51,Hotel Saravana Bhavan,South Indian,49,0,751,21,Delivered
+1137,Suresh,Chennai,2025-01-02,21:19,Pizza,2,265,Card,5,530,1137,Male,22,KFC,Fast Food,43,20,553,56,Pending
+1138,Arun,Madurai,2025-05-20,14:53,Shawarma,1,159,Card,1,159,1138,Male,41,Pizza Hut,North Indian,74,1,232,39,Pending
+1139,Ravi,Thoothukudi,2025-10-18,21:38,Shawarma,1,270,Card,2,270,1139,Female,50,Dominos,South Indian,90,18,342,39,Cancelled
+1140,Meena,Madurai,2025-03-27,11:51,Shawarma,5,155,Cash,3,775,1140,Female,24,Dominos,Fast Food,65,18,822,31,Cancelled
+1141,Kumar,Chennai,2025-01-08,20:53,Burger,2,81,Cash,1,162,1141,Female,34,A2B,North Indian,66,4,224,53,Delivered
+1142,Arun,Chennai,2025-12-03,15:38,Fried Rice,3,145,UPI,1,435,1142,Male,31,Hotel Saravana Bhavan,Chinese,86,24,497,39,Pending
+1143,Ravi,Tirunelveli,2025-12-18,16:44,Biryani,1,340,Card,4,340,1143,Female,47,Pizza Hut,South Indian,74,49,365,30,Pending
+1144,Kumar,Thoothukudi,2025-08-27,11:44,Noodles,2,134,UPI,3,268,1144,Male,24,KFC,North Indian,56,8,316,55,Delivered
+1145,Ravi,Coimbatore,2025-07-15,20:01,Noodles,4,81,Card,2,324,1145,Male,51,Dominos,North Indian,82,26,380,19,Pending
+1146,Vijay,Madurai,2025-07-21,13:36,Shawarma,2,212,UPI,5,424,1146,Male,54,Hotel Saravana Bhavan,Fast Food,64,43,445,57,Pending
+1147,Vijay,Trichy,2025-07-21,10:36,Pizza,4,223,UPI,4,892,1147,Female,40,Hotel Saravana Bhavan,Fast Food,20,47,865,59,Delivered
+1148,Meena,Salem,2025-12-16,10:57,Shawarma,4,243,UPI,1,972,1148,Female,36,Dominos,Chinese,23,27,968,47,Delivered
+1149,Priya,Coimbatore,2025-04-19,15:39,Pizza,3,300,Card,4,900,1149,Male,21,Hotel Saravana Bhavan,South Indian,34,30,904,34,Cancelled
+1150,Kumar,Thoothukudi,2025-06-27,19:02,Burger,3,228,Card,5,684,1150,Female,54,A2B,Chinese,60,3,741,53,Pending
+1151,Karthik,Salem,2025-08-06,22:08,Biryani,1,247,Card,1,247,1151,Male,54,Hotel Saravana Bhavan,Chinese,94,27,314,57,Pending
+1152,Anitha,Chennai,2025-08-05,21:52,Parotta,2,321,Cash,4,642,1152,Female,35,Dominos,Fast Food,70,2,710,38,Delivered
+1153,Divya,Madurai,2025-01-20,21:18,Parotta,5,344,Card,4,1720,1153,Male,33,Dominos,Chinese,25,32,1713,42,Delivered
+1154,Karthik,Madurai,2025-11-03,22:19,Noodles,3,231,UPI,3,693,1154,Male,32,Pizza Hut,Chinese,48,30,711,35,Pending
+1155,Divya,Chennai,2025-03-28,11:32,Burger,2,122,UPI,4,244,1155,Male,42,A2B,North Indian,55,13,286,25,Pending
+1156,Priya,Coimbatore,2025-02-28,20:58,Fried Rice,5,188,UPI,1,940,1156,Female,34,Hotel Saravana Bhavan,South Indian,60,14,986,25,Delivered
+1157,Anitha,Salem,2025-02-19,18:02,Dosa,2,136,Cash,1,272,1157,Male,52,Hotel Saravana Bhavan,South Indian,79,10,341,28,Delivered
+1158,Divya,Madurai,2025-04-21,20:19,Shawarma,2,97,UPI,3,194,1158,Male,53,KFC,North Indian,25,4,215,51,Cancelled
+1159,Karthik,Chennai,2025-02-16,19:31,Shawarma,3,207,UPI,3,621,1159,Male,55,KFC,Fast Food,66,24,663,50,Delivered
+1160,Priya,Trichy,2025-03-14,13:35,Burger,1,160,Cash,5,160,1160,Female,20,Pizza Hut,North Indian,55,22,193,24,Cancelled
+1161,Suresh,Chennai,2025-02-16,18:51,Pizza,1,177,UPI,5,177,1161,Female,53,Pizza Hut,South Indian,60,7,230,51,Pending
+1162,Arun,Trichy,2025-06-13,10:13,Parotta,1,314,UPI,3,314,1162,Female,43,Hotel Saravana Bhavan,South Indian,59,24,349,58,Delivered
+1163,Suresh,Tirunelveli,2025-12-05,14:13,Biryani,3,155,Card,2,465,1163,Male,27,Hotel Saravana Bhavan,Fast Food,83,15,533,49,Delivered
+1164,Anitha,Chennai,2025-03-02,12:58,Parotta,5,92,UPI,2,460,1164,Female,50,Pizza Hut,South Indian,37,10,487,45,Cancelled
+1165,Kumar,Coimbatore,2025-10-02,17:39,Fried Rice,4,219,UPI,2,876,1165,Male,28,A2B,Chinese,43,32,887,44,Delivered
+1166,Priya,Chennai,2025-08-15,11:56,Fried Rice,1,251,Cash,5,251,1166,Male,43,Pizza Hut,Chinese,92,32,311,25,Delivered
+1167,Priya,Madurai,2025-05-13,16:16,Biryani,4,295,Cash,3,1180,1167,Female,52,Dominos,Chinese,40,37,1183,22,Delivered
+1168,Suresh,Coimbatore,2025-07-25,19:46,Biryani,2,208,Card,4,416,1168,Female,36,Dominos,Fast Food,20,1,435,39,Delivered
+1169,Arun,Coimbatore,2025-12-01,12:06,Burger,1,143,Card,3,143,1169,Female,59,Pizza Hut,Fast Food,28,10,161,20,Delivered
+1170,Priya,Thoothukudi,2025-01-17,15:27,Parotta,4,278,Cash,4,1112,1170,Female,45,Pizza Hut,North Indian,20,24,1108,53,Cancelled
+1171,Kumar,Tirunelveli,2025-08-26,14:53,Pizza,5,141,Cash,3,705,1171,Female,36,KFC,Chinese,41,6,740,24,Pending
+1172,Kumar,Madurai,2025-02-14,21:24,Dosa,4,289,Card,1,1156,1172,Female,42,A2B,Fast Food,56,25,1187,52,Pending
+1173,Divya,Coimbatore,2025-05-22,18:25,Shawarma,2,198,UPI,1,396,1173,Male,41,KFC,Chinese,90,16,470,24,Pending
+1174,Kumar,Madurai,2025-02-20,22:24,Biryani,5,200,UPI,3,1000,1174,Female,45,A2B,North Indian,29,14,1015,31,Cancelled
+1175,Priya,Thoothukudi,2025-02-23,17:28,Pizza,1,332,Cash,5,332,1175,Female,28,Dominos,Fast Food,63,44,351,19,Delivered
+1176,Ravi,Madurai,2025-02-13,18:00,Dosa,5,155,Card,3,775,1176,Female,46,Dominos,Chinese,66,11,830,40,Cancelled
+1177,Meena,Madurai,2025-10-07,18:00,Pizza,1,243,UPI,4,243,1177,Female,45,KFC,Fast Food,47,7,283,53,Delivered
+1178,Arun,Thoothukudi,2025-05-17,15:52,Burger,5,99,Card,3,495,1178,Male,30,Pizza Hut,Fast Food,96,33,558,49,Cancelled
+1179,Arun,Madurai,2025-09-17,10:37,Biryani,2,269,UPI,2,538,1179,Male,20,Dominos,North Indian,95,32,601,52,Pending
+1180,Suresh,Thoothukudi,2025-02-11,11:34,Dosa,5,94,UPI,2,470,1180,Male,19,KFC,South Indian,57,14,513,24,Pending
+1181,Meena,Chennai,2025-01-20,14:28,Pizza,1,350,Cash,3,350,1181,Female,51,Dominos,South Indian,94,19,425,57,Cancelled
+1182,Meena,Trichy,2025-01-22,22:47,Dosa,4,164,Cash,3,656,1182,Male,56,KFC,Chinese,96,1,751,21,Delivered
+1183,Priya,Chennai,2025-11-09,11:02,Pizza,3,97,Card,2,291,1183,Female,59,Hotel Saravana Bhavan,Chinese,21,42,270,43,Pending
+1184,Karthik,Chennai,2025-09-02,15:16,Pizza,4,344,Cash,3,1376,1184,Male,36,Pizza Hut,Chinese,48,27,1397,18,Cancelled
+1185,Karthik,Thoothukudi,2025-12-27,12:07,Dosa,4,148,Card,2,592,1185,Male,32,KFC,South Indian,52,39,605,31,Pending
+1186,Ravi,Thoothukudi,2025-09-03,16:10,Pizza,5,141,UPI,3,705,1186,Male,28,Hotel Saravana Bhavan,North Indian,22,3,724,59,Delivered
+1187,Divya,Chennai,2025-05-26,20:38,Noodles,1,158,Cash,5,158,1187,Female,38,Dominos,South Indian,67,46,179,37,Delivered
+1188,Divya,Tirunelveli,2025-12-15,17:45,Dosa,3,303,Card,4,909,1188,Male,43,Dominos,Chinese,70,7,972,56,Delivered
+1189,Anitha,Tirunelveli,2025-09-21,12:50,Noodles,4,111,UPI,4,444,1189,Male,28,Dominos,Chinese,64,36,472,20,Cancelled
+1190,Suresh,Thoothukudi,2025-12-18,21:31,Pizza,2,311,UPI,3,622,1190,Male,20,Hotel Saravana Bhavan,Chinese,80,49,653,49,Pending
+1191,Kumar,Coimbatore,2025-12-01,20:13,Pizza,3,161,Cash,2,483,1191,Male,24,Dominos,North Indian,32,32,483,38,Delivered
+1192,Arun,Trichy,2025-09-13,21:16,Fried Rice,2,139,UPI,1,278,1192,Female,36,Dominos,South Indian,27,29,276,32,Pending
+1193,Arun,Salem,2025-12-14,19:03,Pizza,5,137,Card,4,685,1193,Female,58,Dominos,North Indian,25,33,677,57,Pending
+1194,Meena,Thoothukudi,2025-11-20,14:02,Biryani,4,344,UPI,2,1376,1194,Female,24,A2B,Fast Food,98,42,1432,16,Pending
+1195,Karthik,Coimbatore,2025-05-04,10:44,Burger,2,138,Cash,3,276,1195,Male,52,A2B,South Indian,78,17,337,32,Delivered
+1196,Meena,Chennai,2025-05-27,14:47,Biryani,3,106,UPI,1,318,1196,Male,36,Dominos,North Indian,34,0,352,36,Cancelled
+1197,Priya,Trichy,2025-12-25,14:06,Dosa,4,347,UPI,3,1388,1197,Female,51,Dominos,Fast Food,82,28,1442,18,Delivered
+1198,Suresh,Chennai,2025-04-15,16:36,Pizza,5,338,UPI,3,1690,1198,Female,47,Hotel Saravana Bhavan,Fast Food,82,10,1762,39,Cancelled
+1199,Divya,Tirunelveli,2025-07-18,22:33,Dosa,4,97,UPI,2,388,1199,Female,28,A2B,South Indian,60,28,420,41,Delivered
+1200,Vijay,Coimbatore,2025-11-05,22:23,Pizza,3,270,Cash,3,810,1200,Female,58,Pizza Hut,South Indian,34,18,826,41,Cancelled
+1201,Karthik,Trichy,2025-01-17,18:39,Noodles,2,256,Cash,2,512,1201,Male,58,Hotel Saravana Bhavan,Chinese,91,32,571,43,Pending
+1202,Priya,Madurai,2025-06-12,21:42,Dosa,3,190,Card,4,570,1202,Male,26,KFC,Chinese,36,21,585,49,Delivered
+1203,Anitha,Salem,2025-12-03,22:36,Dosa,3,284,Card,2,852,1203,Male,51,Pizza Hut,Chinese,55,2,905,22,Pending
+1204,Arun,Coimbatore,2025-07-20,16:46,Dosa,5,82,Card,3,410,1204,Female,52,Pizza Hut,Chinese,32,4,438,46,Delivered
+1205,Karthik,Trichy,2025-12-15,18:30,Fried Rice,5,259,UPI,4,1295,1205,Female,29,Pizza Hut,Fast Food,54,23,1326,40,Pending
+1206,Karthik,Madurai,2025-01-27,13:52,Pizza,2,349,Card,5,698,1206,Male,39,A2B,North Indian,95,12,781,53,Delivered
+1207,Ravi,Trichy,2025-08-05,10:06,Shawarma,1,225,Card,1,225,1207,Female,41,Pizza Hut,North Indian,73,23,275,23,Delivered
+1208,Karthik,Trichy,2025-01-01,17:35,Shawarma,4,334,UPI,5,1336,1208,Female,53,Hotel Saravana Bhavan,North Indian,58,47,1347,52,Delivered
+1209,Karthik,Madurai,2025-04-23,18:58,Shawarma,3,252,UPI,4,756,1209,Male,18,KFC,North Indian,39,30,765,25,Cancelled
+1210,Karthik,Chennai,2025-11-11,17:24,Fried Rice,4,160,UPI,3,640,1210,Male,22,Pizza Hut,Fast Food,63,49,654,47,Delivered
+1211,Ravi,Madurai,2025-01-24,17:32,Parotta,3,232,UPI,1,696,1211,Male,43,A2B,Chinese,68,9,755,22,Pending
+1212,Divya,Tirunelveli,2025-06-12,11:31,Pizza,4,191,Card,3,764,1212,Male,49,Hotel Saravana Bhavan,North Indian,84,24,824,59,Cancelled
+1213,Meena,Coimbatore,2025-06-16,21:46,Biryani,1,231,Card,3,231,1213,Female,31,Dominos,South Indian,93,4,320,21,Cancelled
+1214,Arun,Chennai,2025-07-18,12:39,Biryani,4,298,Cash,4,1192,1214,Male,46,Pizza Hut,Chinese,25,30,1187,15,Delivered
+1215,Arun,Thoothukudi,2025-05-10,10:26,Fried Rice,2,91,UPI,3,182,1215,Female,40,KFC,South Indian,79,36,225,38,Cancelled
+1216,Suresh,Madurai,2025-11-04,10:14,Parotta,5,296,Cash,5,1480,1216,Female,38,A2B,South Indian,58,22,1516,53,Cancelled
+1217,Priya,Chennai,2025-03-24,11:28,Shawarma,2,315,Cash,1,630,1217,Female,33,KFC,North Indian,58,45,643,42,Delivered
+1218,Divya,Tirunelveli,2025-08-24,16:48,Noodles,2,283,UPI,2,566,1218,Male,31,Dominos,Fast Food,43,4,605,18,Pending
+1219,Anitha,Chennai,2025-11-26,18:32,Dosa,5,169,Card,4,845,1219,Female,20,KFC,Chinese,74,26,893,15,Pending
+1220,Arun,Madurai,2025-07-20,13:53,Parotta,5,254,Cash,3,1270,1220,Female,47,Dominos,Fast Food,73,47,1296,45,Pending
+1221,Priya,Salem,2025-12-01,15:47,Shawarma,3,341,UPI,3,1023,1221,Male,30,Dominos,South Indian,76,7,1092,15,Pending
+1222,Priya,Salem,2025-03-27,10:25,Biryani,1,350,Cash,2,350,1222,Male,57,Pizza Hut,Fast Food,95,47,398,53,Pending
+1223,Ravi,Coimbatore,2025-01-07,10:06,Parotta,3,159,UPI,2,477,1223,Female,29,Dominos,South Indian,92,21,548,42,Delivered
+1224,Suresh,Tirunelveli,2025-10-23,18:39,Noodles,4,191,UPI,4,764,1224,Male,51,A2B,Fast Food,73,42,795,51,Delivered
+1225,Priya,Trichy,2025-06-25,10:47,Shawarma,1,99,Card,3,99,1225,Female,32,Hotel Saravana Bhavan,North Indian,85,11,173,42,Cancelled
+1226,Karthik,Trichy,2025-04-09,14:50,Burger,5,91,UPI,5,455,1226,Male,25,A2B,North Indian,94,36,513,18,Pending
+1227,Kumar,Tirunelveli,2025-08-07,20:38,Noodles,2,265,Card,4,530,1227,Female,51,Pizza Hut,South Indian,55,19,566,24,Cancelled
+1228,Arun,Thoothukudi,2025-06-27,20:47,Pizza,1,203,Cash,5,203,1228,Male,29,A2B,North Indian,56,21,238,34,Delivered
+1229,Kumar,Chennai,2025-11-12,13:49,Biryani,3,158,UPI,1,474,1229,Female,19,Dominos,South Indian,91,32,533,55,Delivered
+1230,Karthik,Chennai,2025-11-21,22:43,Fried Rice,3,216,Card,4,648,1230,Female,28,Dominos,South Indian,42,30,660,18,Delivered
+1231,Arun,Coimbatore,2025-04-04,15:41,Fried Rice,5,171,UPI,3,855,1231,Male,42,A2B,North Indian,53,44,864,33,Delivered
+1232,Priya,Tirunelveli,2025-03-10,17:49,Biryani,4,183,UPI,2,732,1232,Male,59,A2B,Fast Food,77,6,803,51,Delivered
+1233,Priya,Chennai,2025-09-17,16:47,Fried Rice,2,331,Card,5,662,1233,Male,19,A2B,North Indian,69,18,713,30,Pending
+1234,Kumar,Coimbatore,2025-12-04,19:59,Dosa,4,97,UPI,1,388,1234,Male,40,Hotel Saravana Bhavan,North Indian,89,43,434,27,Delivered
+1235,Divya,Thoothukudi,2025-09-20,21:07,Biryani,3,227,UPI,3,681,1235,Male,43,Dominos,South Indian,69,26,724,29,Delivered
+1236,Meena,Salem,2025-02-13,20:58,Biryani,3,86,UPI,3,258,1236,Female,30,A2B,North Indian,43,22,279,45,Pending
+1237,Vijay,Madurai,2025-08-07,18:12,Burger,4,109,UPI,3,436,1237,Male,58,Pizza Hut,Chinese,73,20,489,16,Pending
+1238,Karthik,Trichy,2025-11-21,18:40,Pizza,1,164,Cash,3,164,1238,Male,31,Dominos,North Indian,57,15,206,52,Pending
+1239,Anitha,Salem,2025-09-03,16:25,Burger,2,309,Cash,2,618,1239,Female,54,A2B,Fast Food,40,16,642,15,Delivered
+1240,Divya,Trichy,2025-03-10,19:46,Shawarma,1,186,Card,3,186,1240,Male,43,Pizza Hut,Chinese,42,18,210,59,Delivered
+1241,Suresh,Thoothukudi,2025-08-13,17:05,Pizza,4,200,Card,2,800,1241,Female,52,Hotel Saravana Bhavan,South Indian,30,29,801,50,Pending
+1242,Divya,Chennai,2025-12-22,11:35,Burger,4,350,Cash,1,1400,1242,Male,37,Pizza Hut,South Indian,56,20,1436,32,Cancelled
+1243,Karthik,Coimbatore,2025-11-14,12:33,Biryani,2,125,Card,2,250,1243,Male,36,KFC,South Indian,23,9,264,46,Delivered
+1244,Kumar,Trichy,2025-10-23,18:51,Burger,1,244,Cash,1,244,1244,Male,39,Dominos,Chinese,73,39,278,29,Delivered
+1245,Divya,Trichy,2025-05-07,15:20,Noodles,3,138,UPI,2,414,1245,Male,51,A2B,South Indian,53,24,443,50,Pending
+1246,Suresh,Madurai,2025-01-22,10:39,Shawarma,3,140,Cash,5,420,1246,Female,37,Pizza Hut,Fast Food,34,1,453,21,Pending
+1247,Ravi,Madurai,2025-09-26,22:52,Shawarma,2,148,Cash,5,296,1247,Male,42,KFC,Chinese,31,5,322,52,Cancelled
+1248,Priya,Thoothukudi,2025-09-28,13:18,Pizza,4,325,UPI,1,1300,1248,Female,27,Pizza Hut,Chinese,98,20,1378,54,Pending
+1249,Anitha,Chennai,2025-03-10,10:44,Noodles,3,188,Card,2,564,1249,Male,25,Hotel Saravana Bhavan,Fast Food,83,7,640,41,Delivered
+1250,Kumar,Madurai,2025-06-08,15:12,Noodles,4,335,UPI,2,1340,1250,Male,26,Dominos,Fast Food,98,19,1419,35,Cancelled
+1251,Ravi,Salem,2025-04-20,12:36,Fried Rice,4,161,Card,5,644,1251,Female,54,A2B,Chinese,60,4,700,40,Cancelled
+1252,Kumar,Tirunelveli,2025-04-05,13:55,Noodles,2,284,UPI,5,568,1252,Female,44,Dominos,Chinese,38,36,570,30,Delivered
+1253,Ravi,Thoothukudi,2025-02-01,19:40,Fried Rice,4,129,Cash,1,516,1253,Female,49,Pizza Hut,South Indian,96,44,568,48,Pending
+1254,Karthik,Thoothukudi,2025-10-01,12:08,Parotta,5,215,Card,2,1075,1254,Female,23,Hotel Saravana Bhavan,Fast Food,97,28,1144,25,Pending
+1255,Arun,Tirunelveli,2025-03-10,16:17,Biryani,4,215,Cash,4,860,1255,Female,28,Hotel Saravana Bhavan,South Indian,30,26,864,59,Cancelled
+1256,Arun,Salem,2025-12-08,16:08,Fried Rice,5,249,Cash,1,1245,1256,Male,54,Dominos,Fast Food,63,12,1296,51,Delivered
+1257,Kumar,Trichy,2025-06-03,11:22,Noodles,4,172,UPI,5,688,1257,Male,27,Hotel Saravana Bhavan,North Indian,74,45,717,40,Pending
+1258,Meena,Salem,2025-09-28,19:37,Parotta,1,289,UPI,4,289,1258,Female,44,Pizza Hut,South Indian,78,37,330,50,Delivered
+1259,Divya,Coimbatore,2025-10-02,16:06,Noodles,2,216,Cash,5,432,1259,Male,39,Dominos,South Indian,71,25,478,16,Pending
+1260,Meena,Coimbatore,2025-05-23,14:50,Noodles,5,266,Cash,3,1330,1260,Male,20,Hotel Saravana Bhavan,North Indian,69,32,1367,52,Pending
+1261,Priya,Trichy,2025-09-05,17:01,Noodles,3,163,UPI,5,489,1261,Male,26,KFC,Chinese,90,20,559,48,Pending
+1262,Ravi,Coimbatore,2025-12-19,13:03,Parotta,4,193,UPI,5,772,1262,Male,20,KFC,Fast Food,29,14,787,25,Pending
+1263,Karthik,Madurai,2025-11-25,13:37,Noodles,3,96,Cash,1,288,1263,Male,29,KFC,Chinese,72,0,360,51,Delivered
+1264,Priya,Thoothukudi,2025-01-26,15:49,Biryani,3,144,Card,3,432,1264,Male,44,KFC,Chinese,93,27,498,41,Pending
+1265,Divya,Madurai,2025-08-09,22:00,Pizza,2,337,UPI,4,674,1265,Male,42,Dominos,South Indian,39,35,678,30,Pending
+1266,Kumar,Trichy,2025-03-09,13:07,Fried Rice,4,348,Card,5,1392,1266,Male,40,Hotel Saravana Bhavan,South Indian,52,16,1428,39,Cancelled
+1267,Kumar,Thoothukudi,2025-09-10,19:18,Fried Rice,1,141,Card,2,141,1267,Female,48,Dominos,South Indian,55,30,166,53,Cancelled
+1268,Ravi,Madurai,2025-07-27,17:58,Dosa,3,202,UPI,4,606,1268,Male,33,Hotel Saravana Bhavan,North Indian,43,28,621,21,Pending
+1269,Ravi,Chennai,2025-09-11,16:11,Parotta,5,340,Cash,1,1700,1269,Female,29,KFC,South Indian,70,1,1769,52,Cancelled
+1270,Suresh,Tirunelveli,2025-10-27,14:10,Parotta,5,192,Cash,5,960,1270,Female,45,Dominos,North Indian,63,49,974,29,Delivered
+1271,Arun,Coimbatore,2025-01-03,11:38,Pizza,5,175,Cash,5,875,1271,Male,35,Pizza Hut,Fast Food,60,9,926,16,Delivered
+1272,Vijay,Thoothukudi,2025-01-21,17:16,Burger,1,124,Cash,3,124,1272,Female,44,KFC,South Indian,33,37,120,26,Pending
+1273,Divya,Coimbatore,2025-06-22,15:37,Parotta,2,338,UPI,4,676,1273,Female,40,Pizza Hut,Chinese,92,41,727,40,Pending
+1274,Anitha,Tirunelveli,2025-06-21,21:57,Burger,2,335,UPI,3,670,1274,Female,52,KFC,South Indian,97,24,743,47,Cancelled
+1275,Karthik,Tirunelveli,2025-10-27,13:46,Noodles,5,324,Cash,5,1620,1275,Female,43,KFC,Fast Food,54,39,1635,57,Delivered
+1276,Anitha,Trichy,2025-12-20,19:47,Parotta,2,116,UPI,3,232,1276,Female,18,Hotel Saravana Bhavan,Chinese,38,5,265,52,Delivered
+1277,Divya,Madurai,2025-01-24,20:03,Biryani,3,141,Card,1,423,1277,Female,20,Hotel Saravana Bhavan,North Indian,47,24,446,35,Delivered
+1278,Divya,Chennai,2025-12-16,20:42,Parotta,2,218,Card,5,436,1278,Female,21,Dominos,North Indian,25,43,418,42,Delivered
+1279,Priya,Trichy,2025-09-07,18:30,Fried Rice,3,274,Cash,5,822,1279,Female,59,Dominos,Fast Food,89,37,874,54,Pending
+1280,Meena,Salem,2025-05-04,17:20,Dosa,3,116,UPI,2,348,1280,Male,36,Dominos,North Indian,46,5,389,25,Delivered
+1281,Karthik,Trichy,2025-08-28,11:24,Biryani,1,134,Cash,2,134,1281,Female,20,KFC,North Indian,63,45,152,57,Delivered
+1282,Suresh,Salem,2025-01-07,15:01,Shawarma,3,178,Card,5,534,1282,Male,35,KFC,Fast Food,45,41,538,47,Cancelled
+1283,Ravi,Tirunelveli,2025-03-21,10:24,Fried Rice,1,315,Cash,5,315,1283,Female,24,KFC,Fast Food,69,8,376,41,Delivered
+1284,Karthik,Tirunelveli,2025-01-11,20:15,Burger,3,319,Card,1,957,1284,Female,45,KFC,North Indian,58,24,991,20,Delivered
+1285,Arun,Coimbatore,2025-09-04,14:44,Biryani,4,189,Card,2,756,1285,Female,42,KFC,North Indian,83,30,809,47,Pending
+1286,Vijay,Tirunelveli,2025-08-17,20:58,Noodles,3,320,Cash,5,960,1286,Female,23,Pizza Hut,North Indian,75,6,1029,22,Delivered
+1287,Karthik,Chennai,2025-12-15,13:05,Fried Rice,4,333,Cash,4,1332,1287,Male,47,Dominos,Chinese,46,1,1377,28,Cancelled
+1288,Anitha,Chennai,2025-09-20,20:05,Shawarma,2,215,Cash,2,430,1288,Female,55,KFC,Chinese,76,11,495,51,Pending
+1289,Karthik,Coimbatore,2025-02-19,11:27,Pizza,4,313,Card,5,1252,1289,Female,33,Hotel Saravana Bhavan,South Indian,61,49,1264,53,Cancelled
+1290,Vijay,Madurai,2025-10-04,11:19,Shawarma,1,122,Card,5,122,1290,Male,48,A2B,North Indian,37,36,123,37,Delivered
+1291,Suresh,Coimbatore,2025-06-11,16:48,Biryani,1,350,Cash,4,350,1291,Male,53,Hotel Saravana Bhavan,Chinese,63,8,405,34,Cancelled
+1292,Priya,Salem,2025-06-21,13:29,Shawarma,4,249,Card,1,996,1292,Male,40,KFC,North Indian,39,26,1009,20,Cancelled
+1293,Karthik,Chennai,2025-09-17,11:13,Biryani,1,250,Cash,5,250,1293,Female,38,Pizza Hut,Fast Food,84,11,323,36,Cancelled
+1294,Priya,Chennai,2025-10-19,21:53,Dosa,1,187,Card,4,187,1294,Female,18,Dominos,South Indian,44,13,218,19,Delivered
+1295,Vijay,Trichy,2025-06-05,18:16,Dosa,4,236,Card,5,944,1295,Female,33,KFC,Chinese,97,46,995,38,Pending
+1296,Suresh,Thoothukudi,2025-05-17,11:46,Parotta,4,230,Cash,4,920,1296,Female,25,Pizza Hut,Fast Food,46,36,930,16,Pending
+1297,Arun,Madurai,2025-01-12,22:55,Parotta,1,199,Card,3,199,1297,Female,24,Pizza Hut,North Indian,54,6,247,31,Pending
+1298,Meena,Salem,2025-08-11,18:32,Noodles,3,330,UPI,3,990,1298,Female,43,A2B,Fast Food,62,39,1013,26,Pending
+1299,Meena,Madurai,2025-12-12,15:49,Dosa,5,310,Card,2,1550,1299,Male,30,Hotel Saravana Bhavan,Fast Food,31,37,1544,30,Pending
+1300,Priya,Chennai,2025-03-08,20:17,Dosa,2,316,Cash,1,632,1300,Female,47,Dominos,South Indian,37,18,651,59,Delivered
+1301,Kumar,Thoothukudi,2025-03-05,16:08,Parotta,5,318,UPI,1,1590,1301,Male,51,A2B,Fast Food,34,37,1587,49,Pending
+1302,Vijay,Trichy,2025-06-24,15:20,Noodles,3,142,UPI,3,426,1302,Female,45,Dominos,Fast Food,56,47,435,59,Delivered
+1303,Divya,Tirunelveli,2025-10-15,16:54,Parotta,5,293,UPI,3,1465,1303,Female,33,Pizza Hut,South Indian,71,22,1514,15,Pending
+1304,Karthik,Salem,2025-07-23,15:48,Shawarma,4,114,Cash,4,456,1304,Female,28,Pizza Hut,North Indian,75,5,526,30,Cancelled
+1305,Arun,Tirunelveli,2025-02-19,16:03,Biryani,4,174,Card,1,696,1305,Female,23,A2B,Chinese,66,46,716,56,Cancelled
+1306,Vijay,Thoothukudi,2025-11-03,19:45,Biryani,3,335,Cash,2,1005,1306,Male,50,A2B,South Indian,72,5,1072,42,Cancelled
+1307,Meena,Salem,2025-03-17,18:56,Fried Rice,3,129,Cash,5,387,1307,Male,43,KFC,Chinese,59,22,424,32,Delivered
+1308,Kumar,Thoothukudi,2025-10-25,21:59,Pizza,2,196,Cash,3,392,1308,Male,57,Pizza Hut,Chinese,73,31,434,29,Delivered
+1309,Vijay,Tirunelveli,2025-06-05,15:24,Dosa,4,253,Cash,2,1012,1309,Male,19,Dominos,North Indian,56,47,1021,19,Delivered
+1310,Priya,Trichy,2025-03-11,22:22,Burger,4,232,UPI,3,928,1310,Female,22,Dominos,South Indian,35,24,939,28,Delivered
+1311,Meena,Tirunelveli,2025-08-20,13:21,Biryani,3,203,UPI,1,609,1311,Female,35,A2B,Chinese,76,42,643,51,Delivered
+1312,Karthik,Chennai,2025-08-14,17:49,Fried Rice,5,340,Cash,5,1700,1312,Female,49,Hotel Saravana Bhavan,South Indian,28,25,1703,42,Delivered
+1313,Kumar,Coimbatore,2025-07-22,15:20,Biryani,5,272,Cash,2,1360,1313,Male,57,Pizza Hut,Fast Food,90,48,1402,49,Delivered
+1314,Priya,Chennai,2025-09-16,17:21,Biryani,1,135,UPI,5,135,1314,Male,41,KFC,South Indian,26,10,151,50,Cancelled
+1315,Meena,Salem,2025-11-18,18:33,Noodles,1,92,Card,4,92,1315,Female,57,A2B,North Indian,77,44,125,52,Pending
+1316,Anitha,Tirunelveli,2025-10-10,22:11,Biryani,3,91,UPI,3,273,1316,Female,34,Pizza Hut,Chinese,71,26,318,35,Cancelled
+1317,Anitha,Coimbatore,2025-07-19,21:02,Parotta,1,124,UPI,1,124,1317,Male,28,Hotel Saravana Bhavan,North Indian,63,9,178,25,Delivered
+1318,Kumar,Trichy,2025-02-07,10:16,Noodles,4,349,Cash,1,1396,1318,Male,21,A2B,Fast Food,63,26,1433,32,Pending
+1319,Suresh,Trichy,2025-06-10,10:44,Fried Rice,4,160,Card,5,640,1319,Male,40,KFC,Fast Food,96,10,726,34,Cancelled
+1320,Arun,Chennai,2025-02-04,21:00,Burger,4,105,UPI,3,420,1320,Female,43,KFC,North Indian,25,32,413,32,Cancelled
+1321,Anitha,Madurai,2025-06-07,12:07,Biryani,5,210,Card,2,1050,1321,Female,35,KFC,Chinese,46,45,1051,40,Pending
+1322,Karthik,Coimbatore,2025-09-26,21:44,Pizza,2,200,UPI,4,400,1322,Male,30,Pizza Hut,North Indian,95,8,487,26,Cancelled
+1323,Priya,Tirunelveli,2025-08-18,10:08,Dosa,1,120,Cash,5,120,1323,Male,46,KFC,South Indian,98,23,195,35,Pending
+1324,Divya,Chennai,2025-10-25,22:15,Biryani,5,325,Cash,3,1625,1324,Male,40,Dominos,South Indian,39,15,1649,30,Cancelled
+1325,Suresh,Tirunelveli,2025-12-15,20:55,Dosa,4,137,Card,3,548,1325,Male,43,A2B,North Indian,32,30,550,40,Pending
+1326,Divya,Trichy,2025-05-01,14:23,Pizza,3,102,Cash,5,306,1326,Male,33,Pizza Hut,Fast Food,22,6,322,30,Cancelled
+1327,Karthik,Thoothukudi,2025-01-10,22:18,Biryani,1,332,Card,1,332,1327,Male,34,A2B,North Indian,78,40,370,55,Delivered
+1328,Divya,Chennai,2025-03-04,15:21,Biryani,5,252,Cash,3,1260,1328,Male,22,Dominos,North Indian,53,20,1293,36,Delivered
+1329,Ravi,Thoothukudi,2025-12-25,19:17,Pizza,3,310,UPI,1,930,1329,Male,24,Dominos,Fast Food,90,21,999,19,Delivered
+1330,Priya,Salem,2025-04-22,10:38,Shawarma,1,86,UPI,1,86,1330,Male,53,Dominos,Fast Food,99,1,184,33,Cancelled
+1331,Karthik,Salem,2025-08-27,15:43,Parotta,5,311,Card,3,1555,1331,Female,49,Pizza Hut,North Indian,93,16,1632,40,Cancelled
+1332,Anitha,Chennai,2025-01-15,14:24,Burger,4,300,UPI,2,1200,1332,Female,23,A2B,Chinese,65,30,1235,28,Delivered
+1333,Priya,Tirunelveli,2025-05-19,13:26,Biryani,1,202,Cash,4,202,1333,Female,21,A2B,Chinese,75,27,250,28,Pending
+1334,Vijay,Madurai,2025-06-28,11:50,Pizza,4,141,Cash,3,564,1334,Male,37,Pizza Hut,Chinese,39,39,564,41,Delivered
+1335,Vijay,Trichy,2025-01-01,10:47,Parotta,4,221,Cash,5,884,1335,Male,49,Dominos,North Indian,32,14,902,42,Pending
+1336,Priya,Chennai,2025-04-21,17:54,Parotta,2,297,Card,3,594,1336,Male,27,Hotel Saravana Bhavan,North Indian,65,7,652,18,Pending
+1337,Suresh,Thoothukudi,2025-03-02,21:32,Pizza,1,104,Cash,2,104,1337,Female,54,Pizza Hut,Fast Food,40,44,100,55,Cancelled
+1338,Vijay,Madurai,2025-01-20,11:10,Fried Rice,2,172,Cash,2,344,1338,Male,52,Pizza Hut,Chinese,61,25,380,55,Pending
+1339,Ravi,Coimbatore,2025-06-01,20:24,Biryani,1,318,Cash,2,318,1339,Female,52,Dominos,North Indian,67,9,376,47,Pending
+1340,Suresh,Coimbatore,2025-05-02,19:49,Burger,1,213,Cash,2,213,1340,Male,42,A2B,North Indian,30,21,222,57,Cancelled
+1341,Ravi,Chennai,2025-01-05,10:05,Fried Rice,3,289,Cash,2,867,1341,Male,26,A2B,Chinese,31,45,853,15,Delivered
+1342,Priya,Trichy,2025-10-08,16:34,Fried Rice,1,234,UPI,1,234,1342,Male,33,Pizza Hut,Chinese,29,13,250,38,Pending
+1343,Ravi,Madurai,2025-11-22,13:00,Biryani,4,127,Card,2,508,1343,Male,47,Dominos,Chinese,35,17,526,42,Cancelled
+1344,Vijay,Salem,2025-10-11,11:19,Fried Rice,2,88,Cash,2,176,1344,Female,50,Pizza Hut,Chinese,85,31,230,41,Pending
+1345,Suresh,Salem,2025-11-19,15:38,Biryani,3,304,Cash,5,912,1345,Female,43,Hotel Saravana Bhavan,Chinese,67,35,944,55,Cancelled
+1346,Priya,Salem,2025-08-21,20:16,Burger,3,344,UPI,1,1032,1346,Male,33,Dominos,South Indian,63,15,1080,53,Pending
+1347,Priya,Trichy,2025-07-22,18:15,Dosa,4,320,Cash,4,1280,1347,Female,39,A2B,Fast Food,61,20,1321,29,Pending
+1348,Karthik,Thoothukudi,2025-11-13,12:36,Noodles,5,335,UPI,3,1675,1348,Male,59,A2B,South Indian,66,17,1724,39,Pending
+1349,Vijay,Trichy,2025-06-18,14:49,Pizza,1,119,UPI,5,119,1349,Male,38,Dominos,Chinese,21,17,123,45,Delivered
+1350,Suresh,Madurai,2025-12-15,17:53,Parotta,3,156,UPI,3,468,1350,Female,38,KFC,Chinese,69,37,500,34,Delivered
+1351,Suresh,Coimbatore,2025-02-23,17:12,Fried Rice,3,205,UPI,1,615,1351,Male,46,Dominos,Fast Food,38,32,621,56,Cancelled
+1352,Anitha,Salem,2025-02-20,13:27,Parotta,1,172,Cash,4,172,1352,Male,27,Dominos,North Indian,60,10,222,49,Delivered
+1353,Anitha,Tirunelveli,2025-07-01,19:27,Fried Rice,4,238,Card,3,952,1353,Male,33,Pizza Hut,South Indian,55,13,994,32,Cancelled
+1354,Suresh,Madurai,2025-01-09,10:16,Dosa,3,219,Cash,1,657,1354,Female,29,Hotel Saravana Bhavan,South Indian,66,38,685,24,Cancelled
+1355,Vijay,Thoothukudi,2025-11-25,12:08,Parotta,4,307,Card,3,1228,1355,Male,18,Hotel Saravana Bhavan,Chinese,74,25,1277,28,Delivered
+1356,Karthik,Madurai,2025-02-23,20:30,Noodles,2,135,Cash,2,270,1356,Male,20,Pizza Hut,North Indian,40,20,290,51,Pending
+1357,Suresh,Thoothukudi,2025-08-08,22:46,Fried Rice,1,134,Cash,1,134,1357,Male,59,Dominos,Fast Food,65,44,155,44,Cancelled
+1358,Priya,Trichy,2025-11-07,16:24,Noodles,4,119,UPI,1,476,1358,Female,24,Pizza Hut,Fast Food,63,27,512,27,Cancelled
+1359,Priya,Trichy,2025-01-23,16:56,Fried Rice,5,340,Card,3,1700,1359,Female,32,A2B,South Indian,47,16,1731,29,Delivered
+1360,Priya,Thoothukudi,2025-04-13,14:33,Shawarma,1,128,Cash,2,128,1360,Male,35,KFC,Fast Food,41,34,135,44,Cancelled
+1361,Priya,Thoothukudi,2025-01-13,20:45,Noodles,1,330,UPI,1,330,1361,Male,43,A2B,North Indian,89,9,410,28,Delivered
+1362,Kumar,Chennai,2025-03-28,18:12,Noodles,2,262,Cash,2,524,1362,Male,55,A2B,Chinese,68,41,551,49,Delivered
+1363,Karthik,Salem,2025-09-26,18:25,Shawarma,1,274,Cash,1,274,1363,Female,36,Pizza Hut,Fast Food,85,3,356,35,Delivered
+1364,Kumar,Salem,2025-12-07,14:08,Dosa,1,149,UPI,3,149,1364,Female,30,A2B,North Indian,48,41,156,55,Pending
+1365,Ravi,Thoothukudi,2025-01-21,10:08,Fried Rice,3,107,Card,3,321,1365,Male,19,A2B,North Indian,65,5,381,15,Cancelled
+1366,Karthik,Chennai,2025-09-17,18:17,Parotta,2,174,UPI,4,348,1366,Female,38,A2B,North Indian,42,7,383,46,Delivered
+1367,Meena,Tirunelveli,2025-06-03,12:21,Burger,5,228,Cash,3,1140,1367,Female,36,Hotel Saravana Bhavan,Fast Food,34,22,1152,24,Delivered
+1368,Arun,Salem,2025-06-03,20:56,Burger,2,105,Card,4,210,1368,Female,20,Pizza Hut,Fast Food,32,12,230,53,Pending
+1369,Ravi,Salem,2025-03-28,10:05,Parotta,1,172,Card,4,172,1369,Female,58,Hotel Saravana Bhavan,Fast Food,84,25,231,19,Delivered
+1370,Ravi,Thoothukudi,2025-07-13,22:30,Dosa,4,129,Cash,4,516,1370,Male,48,KFC,Fast Food,78,9,585,53,Delivered
+1371,Kumar,Chennai,2025-12-09,18:57,Noodles,5,256,UPI,2,1280,1371,Female,39,A2B,South Indian,41,49,1272,29,Cancelled
+1372,Arun,Coimbatore,2025-01-01,20:46,Shawarma,3,103,UPI,1,309,1372,Male,22,Dominos,Chinese,57,22,344,49,Delivered
+1373,Meena,Madurai,2025-02-16,16:56,Shawarma,5,219,UPI,4,1095,1373,Male,57,KFC,Chinese,82,29,1148,38,Delivered
+1374,Arun,Coimbatore,2025-08-22,12:48,Burger,5,255,Cash,5,1275,1374,Female,41,Pizza Hut,South Indian,54,29,1300,56,Cancelled
+1375,Vijay,Tirunelveli,2025-03-05,19:49,Biryani,2,204,UPI,4,408,1375,Female,37,Pizza Hut,Chinese,32,0,440,38,Delivered
+1376,Ravi,Chennai,2025-06-14,14:44,Burger,5,232,UPI,4,1160,1376,Female,27,Dominos,South Indian,57,19,1198,58,Cancelled
+1377,Ravi,Thoothukudi,2025-08-03,22:53,Pizza,3,191,Card,2,573,1377,Female,19,A2B,Fast Food,79,26,626,46,Delivered
+1378,Kumar,Thoothukudi,2025-02-01,18:40,Noodles,4,169,UPI,5,676,1378,Female,52,Hotel Saravana Bhavan,South Indian,96,49,723,28,Cancelled
+1379,Priya,Tirunelveli,2025-12-03,16:45,Dosa,1,318,UPI,1,318,1379,Male,33,Hotel Saravana Bhavan,Fast Food,71,30,359,27,Delivered
+1380,Priya,Coimbatore,2025-09-08,18:19,Noodles,1,162,Cash,3,162,1380,Male,40,A2B,South Indian,26,35,153,21,Cancelled
+1381,Karthik,Thoothukudi,2025-06-21,13:22,Shawarma,4,338,UPI,1,1352,1381,Female,23,A2B,North Indian,67,29,1390,50,Delivered
+1382,Suresh,Tirunelveli,2025-04-15,18:35,Fried Rice,1,149,UPI,5,149,1382,Male,30,KFC,South Indian,56,10,195,32,Pending
+1383,Kumar,Tirunelveli,2025-07-26,20:14,Pizza,5,333,Card,1,1665,1383,Male,37,Dominos,Chinese,98,19,1744,29,Cancelled
+1384,Kumar,Madurai,2025-03-09,11:01,Pizza,4,345,Cash,1,1380,1384,Male,32,Pizza Hut,Fast Food,60,11,1429,58,Cancelled
+1385,Vijay,Thoothukudi,2025-03-10,18:04,Pizza,3,285,Card,3,855,1385,Female,21,Pizza Hut,Chinese,61,37,879,35,Pending
+1386,Priya,Tirunelveli,2025-03-07,20:44,Shawarma,3,274,UPI,2,822,1386,Male,51,Dominos,Fast Food,21,21,822,51,Pending
+1387,Anitha,Trichy,2025-10-12,14:34,Parotta,4,348,Cash,3,1392,1387,Male,39,Dominos,Chinese,69,12,1449,58,Pending
+1388,Arun,Coimbatore,2025-07-03,19:29,Shawarma,1,251,Cash,1,251,1388,Male,54,Hotel Saravana Bhavan,Chinese,55,26,280,39,Cancelled
+1389,Suresh,Tirunelveli,2025-01-07,12:28,Biryani,4,241,Card,3,964,1389,Female,41,A2B,Chinese,32,41,955,20,Delivered
+1390,Arun,Coimbatore,2025-01-01,13:54,Biryani,3,322,UPI,2,966,1390,Female,40,Hotel Saravana Bhavan,Fast Food,75,22,1019,52,Pending
+1391,Karthik,Madurai,2025-08-10,19:05,Parotta,1,319,Cash,3,319,1391,Male,53,Hotel Saravana Bhavan,Chinese,82,18,383,25,Pending
+1392,Vijay,Thoothukudi,2025-08-16,15:24,Burger,5,81,UPI,3,405,1392,Female,41,KFC,Fast Food,70,45,430,32,Delivered
+1393,Suresh,Chennai,2025-09-13,19:33,Shawarma,3,164,Cash,3,492,1393,Female,22,Dominos,Chinese,91,10,573,40,Pending
+1394,Arun,Salem,2025-01-24,12:24,Biryani,2,133,Card,2,266,1394,Male,25,Pizza Hut,South Indian,76,36,306,58,Cancelled
+1395,Karthik,Madurai,2025-05-13,11:19,Noodles,1,277,UPI,5,277,1395,Male,47,Pizza Hut,Chinese,26,28,275,26,Cancelled
+1396,Arun,Chennai,2025-06-19,13:40,Burger,4,184,Cash,1,736,1396,Female,40,A2B,Chinese,84,35,785,37,Cancelled
+1397,Arun,Chennai,2025-04-17,13:22,Fried Rice,1,349,Cash,2,349,1397,Female,18,Pizza Hut,South Indian,31,38,342,47,Cancelled
+1398,Karthik,Coimbatore,2025-02-05,12:47,Burger,1,240,Card,1,240,1398,Female,43,KFC,North Indian,79,13,306,25,Pending
+1399,Suresh,Coimbatore,2025-07-21,20:15,Fried Rice,5,312,Cash,2,1560,1399,Female,59,Hotel Saravana Bhavan,South Indian,99,0,1659,43,Delivered
+1400,Arun,Thoothukudi,2025-08-18,13:47,Fried Rice,5,93,Card,1,465,1400,Female,24,Hotel Saravana Bhavan,Chinese,61,15,511,22,Cancelled
+1401,Anitha,Thoothukudi,2025-07-22,15:51,Dosa,1,157,Cash,5,157,1401,Male,37,KFC,Chinese,95,37,215,37,Pending
+1402,Anitha,Salem,2025-06-14,14:54,Noodles,3,341,UPI,2,1023,1402,Female,57,KFC,South Indian,88,39,1072,26,Cancelled
+1403,Priya,Chennai,2025-01-18,15:16,Fried Rice,5,186,Card,3,930,1403,Female,36,A2B,Chinese,88,30,988,53,Cancelled
+1404,Kumar,Madurai,2025-11-09,20:24,Pizza,4,92,UPI,4,368,1404,Male,47,A2B,Chinese,94,10,452,20,Cancelled
+1405,Ravi,Salem,2025-08-22,10:19,Dosa,4,230,Cash,4,920,1405,Female,53,KFC,South Indian,53,5,968,16,Pending
+1406,Arun,Coimbatore,2025-01-26,17:59,Dosa,3,320,Card,3,960,1406,Male,27,A2B,South Indian,59,28,991,34,Pending
+1407,Divya,Chennai,2025-07-25,17:17,Parotta,2,189,Cash,4,378,1407,Female,44,Hotel Saravana Bhavan,Chinese,51,45,384,33,Cancelled
+1408,Priya,Thoothukudi,2025-11-27,16:11,Dosa,3,123,UPI,2,369,1408,Male,50,Pizza Hut,South Indian,87,34,422,39,Delivered
+1409,Karthik,Madurai,2025-03-15,19:37,Dosa,5,135,UPI,4,675,1409,Female,23,Hotel Saravana Bhavan,Fast Food,24,5,694,40,Delivered
+1410,Priya,Madurai,2025-06-25,19:55,Parotta,1,189,UPI,4,189,1410,Female,30,Dominos,Chinese,44,20,213,23,Cancelled
+1411,Divya,Salem,2025-12-02,20:10,Fried Rice,3,130,Card,4,390,1411,Female,32,KFC,North Indian,31,12,409,50,Delivered
+1412,Arun,Madurai,2025-08-05,10:29,Noodles,5,95,UPI,5,475,1412,Male,28,A2B,Chinese,91,45,521,41,Cancelled
+1413,Arun,Salem,2025-01-05,16:31,Shawarma,2,309,Card,2,618,1413,Female,19,Dominos,North Indian,56,47,627,52,Cancelled
+1414,Priya,Chennai,2025-09-12,13:08,Fried Rice,3,80,UPI,3,240,1414,Female,23,Dominos,South Indian,37,34,243,45,Cancelled
+1415,Divya,Madurai,2025-03-17,19:39,Dosa,4,256,Cash,3,1024,1415,Male,40,Hotel Saravana Bhavan,North Indian,43,27,1040,32,Cancelled
+1416,Kumar,Thoothukudi,2025-05-15,12:33,Shawarma,1,333,Card,4,333,1416,Male,44,KFC,Chinese,84,25,392,16,Delivered
+1417,Suresh,Chennai,2025-11-24,16:41,Burger,1,297,Card,1,297,1417,Male,31,Pizza Hut,Chinese,92,35,354,45,Cancelled
+1418,Ravi,Tirunelveli,2025-04-08,16:10,Parotta,3,349,Cash,4,1047,1418,Female,38,Pizza Hut,Chinese,47,17,1077,54,Cancelled
+1419,Priya,Thoothukudi,2025-07-14,22:29,Pizza,4,95,Card,2,380,1419,Female,36,Hotel Saravana Bhavan,South Indian,85,39,426,33,Delivered
+1420,Anitha,Tirunelveli,2025-07-19,13:11,Burger,5,274,Card,2,1370,1420,Female,32,Hotel Saravana Bhavan,Chinese,53,9,1414,31,Delivered
+1421,Vijay,Thoothukudi,2025-10-22,14:44,Dosa,2,101,UPI,2,202,1421,Male,46,Dominos,Fast Food,90,17,275,31,Cancelled
+1422,Vijay,Thoothukudi,2025-02-22,14:37,Burger,4,208,Cash,5,832,1422,Male,30,Hotel Saravana Bhavan,Fast Food,37,40,829,53,Pending
+1423,Anitha,Trichy,2025-09-08,14:43,Pizza,2,239,UPI,2,478,1423,Female,38,A2B,Fast Food,69,15,532,47,Pending
+1424,Arun,Thoothukudi,2025-09-15,17:26,Biryani,5,227,Card,4,1135,1424,Female,52,Pizza Hut,South Indian,72,4,1203,31,Pending
+1425,Divya,Coimbatore,2025-06-13,18:34,Pizza,5,219,Cash,4,1095,1425,Female,54,Pizza Hut,South Indian,46,14,1127,53,Delivered
+1426,Suresh,Tirunelveli,2025-03-12,14:45,Burger,5,90,UPI,1,450,1426,Male,37,A2B,North Indian,32,44,438,19,Pending
+1427,Anitha,Madurai,2025-09-07,11:29,Shawarma,4,115,Cash,5,460,1427,Female,33,Hotel Saravana Bhavan,Chinese,36,1,495,37,Pending
+1428,Suresh,Coimbatore,2025-08-05,20:37,Pizza,5,88,UPI,2,440,1428,Male,58,KFC,South Indian,54,9,485,16,Delivered
+1429,Vijay,Trichy,2025-05-28,15:34,Shawarma,1,270,Cash,1,270,1429,Male,41,Hotel Saravana Bhavan,Fast Food,56,11,315,40,Cancelled
+1430,Kumar,Madurai,2025-10-01,20:09,Noodles,3,327,UPI,3,981,1430,Male,52,Pizza Hut,North Indian,59,49,991,25,Pending
+1431,Vijay,Salem,2025-02-16,13:08,Pizza,3,201,Card,4,603,1431,Female,25,KFC,Chinese,28,22,609,31,Pending
+1432,Priya,Salem,2025-09-10,17:18,Pizza,1,86,Cash,4,86,1432,Male,56,A2B,Fast Food,96,49,133,53,Pending
+1433,Divya,Tirunelveli,2025-03-14,22:36,Biryani,5,286,Cash,2,1430,1433,Male,33,Hotel Saravana Bhavan,Fast Food,52,49,1433,19,Delivered
+1434,Vijay,Trichy,2025-08-16,19:45,Burger,2,148,Card,5,296,1434,Male,52,A2B,Fast Food,48,27,317,30,Delivered
+1435,Meena,Thoothukudi,2025-11-12,22:22,Pizza,5,321,Cash,3,1605,1435,Female,33,Hotel Saravana Bhavan,Chinese,49,42,1612,19,Pending
+1436,Ravi,Trichy,2025-12-09,17:17,Noodles,3,102,Card,4,306,1436,Male,45,Hotel Saravana Bhavan,Chinese,25,7,324,18,Delivered
+1437,Ravi,Chennai,2025-03-24,16:23,Parotta,2,121,Card,5,242,1437,Female,45,A2B,North Indian,58,31,269,52,Cancelled
+1438,Suresh,Thoothukudi,2025-05-06,17:54,Noodles,3,200,UPI,4,600,1438,Female,19,Pizza Hut,Chinese,42,8,634,52,Delivered
+1439,Karthik,Chennai,2025-04-12,21:07,Fried Rice,1,127,Card,1,127,1439,Male,48,A2B,Chinese,61,32,156,26,Cancelled
+1440,Ravi,Madurai,2025-10-28,16:26,Pizza,1,284,Card,3,284,1440,Male,36,Dominos,South Indian,82,9,357,28,Delivered
+1441,Karthik,Tirunelveli,2025-07-27,16:56,Burger,1,346,UPI,5,346,1441,Male,55,A2B,Fast Food,44,1,389,23,Cancelled
+1442,Ravi,Madurai,2025-05-05,15:15,Biryani,4,143,Cash,2,572,1442,Male,27,Pizza Hut,Chinese,91,2,661,59,Pending
+1443,Arun,Chennai,2025-12-15,16:50,Pizza,4,271,Card,2,1084,1443,Female,57,A2B,North Indian,22,8,1098,51,Delivered
+1444,Ravi,Trichy,2025-11-02,22:12,Pizza,5,293,UPI,4,1465,1444,Female,28,A2B,North Indian,49,28,1486,18,Cancelled
+1445,Suresh,Coimbatore,2025-07-19,10:00,Noodles,5,245,Cash,2,1225,1445,Female,20,Hotel Saravana Bhavan,South Indian,30,6,1249,28,Pending
+1446,Suresh,Thoothukudi,2025-11-05,19:30,Noodles,3,108,Cash,3,324,1446,Male,40,Dominos,South Indian,27,16,335,29,Pending
+1447,Priya,Salem,2025-01-17,10:28,Dosa,5,129,Card,2,645,1447,Male,46,Pizza Hut,North Indian,83,25,703,35,Delivered
+1448,Vijay,Coimbatore,2025-09-20,13:43,Fried Rice,3,339,UPI,4,1017,1448,Male,35,Pizza Hut,South Indian,86,11,1092,57,Cancelled
+1449,Priya,Coimbatore,2025-06-20,22:44,Biryani,3,278,UPI,2,834,1449,Male,48,Dominos,Fast Food,58,12,880,20,Delivered
+1450,Karthik,Chennai,2025-08-25,22:02,Biryani,5,149,Card,1,745,1450,Female,22,A2B,North Indian,48,17,776,36,Cancelled
+1451,Divya,Chennai,2025-01-03,19:50,Dosa,4,301,Card,2,1204,1451,Male,41,Dominos,North Indian,31,29,1206,51,Cancelled
+1452,Anitha,Madurai,2025-10-17,17:48,Fried Rice,1,103,UPI,5,103,1452,Female,47,A2B,Fast Food,94,30,167,59,Delivered
+1453,Divya,Trichy,2025-06-12,18:57,Parotta,5,307,Cash,5,1535,1453,Female,29,Dominos,Chinese,88,49,1574,57,Cancelled
+1454,Meena,Trichy,2025-08-10,15:58,Burger,1,162,Card,2,162,1454,Female,37,A2B,South Indian,40,48,154,52,Delivered
+1455,Suresh,Thoothukudi,2025-03-14,22:39,Parotta,2,169,Cash,5,338,1455,Male,52,KFC,South Indian,84,4,418,37,Delivered
+1456,Divya,Trichy,2025-02-14,17:19,Pizza,5,160,Card,1,800,1456,Female,36,Dominos,South Indian,43,15,828,55,Pending
+1457,Divya,Tirunelveli,2025-03-18,20:46,Dosa,3,216,Card,1,648,1457,Female,20,KFC,Fast Food,63,21,690,48,Cancelled
+1458,Suresh,Salem,2025-05-27,18:24,Burger,4,103,Card,1,412,1458,Female,35,KFC,South Indian,76,34,454,48,Cancelled
+1459,Ravi,Madurai,2025-06-14,22:26,Pizza,3,213,UPI,4,639,1459,Male,55,KFC,Chinese,44,28,655,46,Delivered
+1460,Ravi,Tirunelveli,2025-10-27,10:55,Pizza,5,212,UPI,3,1060,1460,Male,35,KFC,North Indian,85,27,1118,22,Delivered
+1461,Arun,Tirunelveli,2025-06-11,16:58,Fried Rice,2,135,Cash,5,270,1461,Male,23,Hotel Saravana Bhavan,Fast Food,97,47,320,51,Pending
+1462,Priya,Coimbatore,2025-10-02,22:40,Parotta,5,179,UPI,3,895,1462,Female,42,Dominos,South Indian,46,7,934,23,Pending
+1463,Divya,Madurai,2025-12-21,13:22,Dosa,3,95,Cash,2,285,1463,Female,57,Pizza Hut,South Indian,37,37,285,56,Pending
+1464,Priya,Coimbatore,2025-12-07,16:41,Dosa,5,341,Card,2,1705,1464,Female,22,Hotel Saravana Bhavan,Chinese,50,43,1712,53,Pending
+1465,Anitha,Salem,2025-05-19,12:13,Pizza,1,129,Card,2,129,1465,Female,21,Hotel Saravana Bhavan,Fast Food,85,47,167,54,Cancelled
+1466,Suresh,Coimbatore,2025-10-05,22:54,Noodles,2,205,Card,5,410,1466,Male,39,Dominos,North Indian,57,1,466,38,Cancelled
+1467,Meena,Coimbatore,2025-12-10,20:43,Fried Rice,1,214,Card,1,214,1467,Male,35,Pizza Hut,Fast Food,68,23,259,56,Delivered
+1468,Divya,Chennai,2025-12-22,22:51,Parotta,3,155,Cash,2,465,1468,Male,24,Hotel Saravana Bhavan,Fast Food,83,31,517,27,Delivered
+1469,Priya,Coimbatore,2025-10-10,10:03,Fried Rice,2,161,Cash,4,322,1469,Female,27,Hotel Saravana Bhavan,Chinese,88,23,387,36,Cancelled
+1470,Priya,Trichy,2025-02-11,17:25,Noodles,1,267,Cash,4,267,1470,Female,39,KFC,Chinese,20,49,238,50,Delivered
+1471,Anitha,Trichy,2025-04-05,11:33,Fried Rice,5,137,UPI,1,685,1471,Female,52,A2B,South Indian,69,36,718,57,Delivered
+1472,Meena,Chennai,2025-06-10,20:39,Fried Rice,4,100,UPI,2,400,1472,Male,19,Pizza Hut,North Indian,41,43,398,51,Delivered
+1473,Ravi,Salem,2025-02-24,13:26,Fried Rice,1,280,Card,5,280,1473,Male,53,Hotel Saravana Bhavan,North Indian,79,42,317,25,Pending
+1474,Vijay,Chennai,2025-07-13,18:33,Fried Rice,4,314,UPI,1,1256,1474,Male,27,KFC,South Indian,23,36,1243,46,Delivered
+1475,Suresh,Chennai,2025-01-20,20:22,Pizza,5,171,Card,2,855,1475,Male,44,Pizza Hut,South Indian,95,37,913,57,Pending
+1476,Priya,Thoothukudi,2025-10-25,19:50,Fried Rice,4,290,UPI,5,1160,1476,Female,47,KFC,Fast Food,47,23,1184,47,Pending
+1477,Arun,Thoothukudi,2025-09-06,17:28,Shawarma,3,223,UPI,3,669,1477,Female,43,KFC,South Indian,50,47,672,35,Pending
+1478,Arun,Coimbatore,2025-07-16,12:58,Parotta,4,99,Cash,2,396,1478,Male,25,Pizza Hut,Chinese,88,36,448,40,Cancelled
+1479,Ravi,Trichy,2025-09-01,21:44,Shawarma,3,258,Cash,5,774,1479,Male,38,KFC,Fast Food,68,13,829,54,Delivered
+1480,Kumar,Chennai,2025-11-03,20:31,Dosa,5,104,UPI,2,520,1480,Male,25,KFC,North Indian,71,23,568,54,Pending
+1481,Divya,Trichy,2025-01-21,11:20,Burger,4,286,Card,4,1144,1481,Male,52,Dominos,Chinese,57,0,1201,16,Delivered
+1482,Suresh,Salem,2025-01-27,12:26,Parotta,3,234,Cash,1,702,1482,Female,36,A2B,South Indian,73,23,752,40,Pending
+1483,Ravi,Tirunelveli,2025-12-06,17:58,Shawarma,4,153,Cash,1,612,1483,Female,48,Dominos,Chinese,28,9,631,26,Pending
+1484,Karthik,Coimbatore,2025-08-23,19:46,Noodles,1,247,Cash,3,247,1484,Male,47,Pizza Hut,North Indian,99,12,334,32,Delivered
+1485,Meena,Coimbatore,2025-12-05,13:32,Pizza,5,280,UPI,1,1400,1485,Male,27,KFC,Fast Food,80,1,1479,36,Delivered
+1486,Suresh,Thoothukudi,2025-02-19,15:51,Shawarma,3,223,Card,1,669,1486,Male,42,Dominos,South Indian,89,35,723,40,Pending
+1487,Arun,Coimbatore,2025-11-27,18:21,Parotta,4,131,Cash,4,524,1487,Male,22,Hotel Saravana Bhavan,South Indian,91,10,605,26,Delivered
+1488,Vijay,Madurai,2025-05-15,12:20,Fried Rice,4,288,UPI,1,1152,1488,Male,43,Hotel Saravana Bhavan,North Indian,58,16,1194,54,Pending
+1489,Ravi,Trichy,2025-12-13,14:19,Pizza,4,110,Cash,1,440,1489,Male,43,Pizza Hut,North Indian,45,12,473,56,Delivered
+1490,Anitha,Chennai,2025-06-28,12:56,Shawarma,1,323,Cash,4,323,1490,Female,25,A2B,Fast Food,21,43,301,21,Cancelled
+1491,Vijay,Coimbatore,2025-08-04,13:07,Shawarma,5,310,Cash,2,1550,1491,Male,54,Dominos,Chinese,70,23,1597,44,Delivered
+1492,Vijay,Trichy,2025-06-01,14:01,Dosa,5,242,Cash,2,1210,1492,Female,30,Dominos,North Indian,76,17,1269,49,Pending
+1493,Arun,Madurai,2025-10-25,16:05,Burger,1,292,Card,1,292,1493,Male,36,Pizza Hut,North Indian,62,28,326,20,Pending
+1494,Suresh,Tirunelveli,2025-03-02,12:19,Pizza,2,113,UPI,3,226,1494,Male,47,KFC,North Indian,67,29,264,29,Pending
+1495,Anitha,Salem,2025-07-09,20:52,Dosa,2,256,Cash,2,512,1495,Female,23,Dominos,Fast Food,26,45,493,23,Delivered
+1496,Anitha,Trichy,2025-05-07,17:18,Burger,4,239,UPI,4,956,1496,Female,30,Pizza Hut,North Indian,22,43,935,54,Pending
+1497,Vijay,Coimbatore,2025-05-22,19:05,Parotta,5,162,UPI,2,810,1497,Male,19,A2B,Chinese,67,5,872,39,Pending
+1498,Karthik,Madurai,2025-12-05,14:32,Biryani,3,178,Card,4,534,1498,Male,32,Dominos,South Indian,94,28,600,52,Cancelled
+1499,Divya,Trichy,2025-11-12,10:47,Parotta,1,139,Card,1,139,1499,Female,56,KFC,North Indian,69,5,203,48,Delivered
+1500,Priya,Thoothukudi,2025-05-02,14:10,Parotta,2,151,Cash,4,302,1500,Female,34,Dominos,South Indian,63,4,361,32,Pending
+1501,Karthik,Tirunelveli,2025-04-24,17:03,Pizza,1,130,UPI,2,130,1501,Female,27,Pizza Hut,South Indian,50,23,157,16,Cancelled
+1502,Kumar,Tirunelveli,2025-05-20,11:37,Dosa,2,83,UPI,3,166,1502,Male,54,A2B,Chinese,70,4,232,54,Delivered
+1503,Suresh,Coimbatore,2025-03-05,22:29,Dosa,4,225,Card,4,900,1503,Female,51,Dominos,South Indian,43,25,918,25,Cancelled
+1504,Kumar,Tirunelveli,2025-01-20,11:38,Burger,4,321,Cash,2,1284,1504,Male,51,Dominos,North Indian,71,18,1337,30,Cancelled
+1505,Ravi,Trichy,2025-09-16,17:18,Fried Rice,3,154,Cash,4,462,1505,Female,26,A2B,South Indian,71,4,529,26,Delivered
+1506,Anitha,Coimbatore,2025-02-27,17:31,Shawarma,5,226,Cash,3,1130,1506,Female,36,Hotel Saravana Bhavan,North Indian,72,23,1179,21,Pending
+1507,Kumar,Tirunelveli,2025-08-24,18:03,Burger,1,341,Card,5,341,1507,Female,37,A2B,Chinese,60,49,352,51,Delivered
+1508,Kumar,Thoothukudi,2025-07-17,19:05,Pizza,1,111,UPI,4,111,1508,Male,40,Hotel Saravana Bhavan,Chinese,42,36,117,55,Delivered
+1509,Meena,Chennai,2025-07-23,21:56,Burger,4,201,Card,1,804,1509,Female,41,A2B,South Indian,57,49,812,43,Cancelled
+1510,Vijay,Salem,2025-04-15,11:04,Fried Rice,3,335,Cash,3,1005,1510,Female,23,Dominos,Chinese,37,44,998,31,Pending
+1511,Priya,Madurai,2025-04-02,15:37,Shawarma,1,169,Cash,1,169,1511,Male,33,KFC,Chinese,73,41,201,27,Pending
+1512,Divya,Madurai,2025-10-05,18:15,Parotta,4,258,UPI,2,1032,1512,Female,25,Dominos,North Indian,78,15,1095,15,Delivered
+1513,Arun,Salem,2025-07-25,15:38,Burger,1,84,Card,5,84,1513,Male,44,A2B,North Indian,68,48,104,40,Cancelled
+1514,Arun,Thoothukudi,2025-02-03,22:14,Dosa,4,109,UPI,1,436,1514,Male,31,Pizza Hut,Fast Food,31,29,438,36,Pending
+1515,Anitha,Coimbatore,2025-01-08,19:30,Shawarma,5,318,UPI,1,1590,1515,Female,29,A2B,Chinese,20,20,1590,47,Delivered
+1516,Suresh,Trichy,2025-07-13,21:23,Noodles,5,312,Card,4,1560,1516,Female,31,A2B,South Indian,84,35,1609,42,Pending
+1517,Karthik,Tirunelveli,2025-02-17,10:05,Shawarma,1,103,UPI,5,103,1517,Male,45,Pizza Hut,South Indian,44,43,104,37,Cancelled
+1518,Karthik,Chennai,2025-04-26,13:15,Pizza,5,216,Cash,4,1080,1518,Male,47,Pizza Hut,Chinese,73,22,1131,46,Cancelled
+1519,Meena,Trichy,2025-11-19,10:19,Shawarma,4,223,Card,3,892,1519,Female,19,KFC,Fast Food,78,40,930,30,Pending
+1520,Suresh,Tirunelveli,2025-06-08,16:49,Dosa,3,263,UPI,4,789,1520,Male,31,A2B,Fast Food,49,3,835,48,Delivered
+1521,Meena,Coimbatore,2025-02-03,13:43,Burger,4,124,Card,1,496,1521,Female,43,Pizza Hut,Fast Food,73,46,523,26,Cancelled
+1522,Ravi,Tirunelveli,2025-03-01,19:39,Pizza,5,208,Card,1,1040,1522,Female,33,KFC,Chinese,43,38,1045,20,Pending
+1523,Anitha,Thoothukudi,2025-10-27,14:05,Pizza,2,240,Card,4,480,1523,Female,35,KFC,Fast Food,57,16,521,36,Cancelled
+1524,Divya,Thoothukudi,2025-08-02,16:46,Pizza,1,126,Cash,2,126,1524,Male,22,A2B,North Indian,63,31,158,15,Cancelled
+1525,Arun,Salem,2025-04-24,19:14,Burger,1,340,UPI,5,340,1525,Male,48,Dominos,South Indian,54,4,390,59,Cancelled
+1526,Meena,Salem,2025-05-18,19:40,Biryani,1,224,UPI,5,224,1526,Female,42,KFC,Fast Food,65,25,264,56,Pending
+1527,Arun,Tirunelveli,2025-06-28,20:35,Fried Rice,3,134,Card,1,402,1527,Male,30,A2B,North Indian,27,33,396,49,Pending
+1528,Suresh,Tirunelveli,2025-11-10,15:35,Dosa,3,288,Card,1,864,1528,Male,58,Pizza Hut,North Indian,68,4,928,30,Delivered
+1529,Karthik,Chennai,2025-08-20,12:36,Dosa,5,190,UPI,4,950,1529,Male,46,Hotel Saravana Bhavan,South Indian,75,14,1011,30,Cancelled
+1530,Ravi,Salem,2025-03-09,18:13,Parotta,2,144,Cash,5,288,1530,Female,45,Dominos,Chinese,91,13,366,58,Delivered
+1531,Priya,Madurai,2025-10-18,20:49,Burger,3,242,Card,4,726,1531,Male,36,Dominos,Fast Food,80,14,792,54,Cancelled
+1532,Suresh,Thoothukudi,2025-02-21,19:52,Shawarma,3,269,UPI,3,807,1532,Female,28,KFC,Chinese,37,46,798,59,Cancelled
+1533,Ravi,Salem,2025-11-14,13:30,Pizza,5,151,UPI,4,755,1533,Female,33,A2B,South Indian,46,21,780,25,Cancelled
+1534,Ravi,Trichy,2025-06-22,17:38,Biryani,1,339,Card,2,339,1534,Female,52,A2B,Fast Food,81,25,395,49,Pending
+1535,Suresh,Thoothukudi,2025-02-03,14:36,Pizza,4,265,Cash,5,1060,1535,Male,49,Dominos,Fast Food,81,44,1097,47,Delivered
+1536,Arun,Madurai,2025-07-13,13:52,Pizza,3,100,Cash,4,300,1536,Male,39,A2B,Chinese,52,44,308,30,Delivered
+1537,Arun,Tirunelveli,2025-09-04,19:57,Biryani,2,129,Cash,1,258,1537,Male,28,KFC,Chinese,77,27,308,21,Delivered
+1538,Meena,Trichy,2025-02-24,14:13,Parotta,1,259,Card,2,259,1538,Male,24,A2B,Fast Food,49,25,283,52,Pending
+1539,Meena,Trichy,2025-01-25,21:39,Dosa,3,222,Cash,3,666,1539,Female,40,Hotel Saravana Bhavan,South Indian,79,14,731,32,Delivered
+1540,Priya,Coimbatore,2025-07-20,12:46,Fried Rice,5,92,Cash,4,460,1540,Female,51,A2B,South Indian,44,35,469,45,Pending
+1541,Suresh,Tirunelveli,2025-02-27,12:08,Pizza,3,238,Card,4,714,1541,Female,41,Dominos,Fast Food,98,9,803,16,Delivered
+1542,Divya,Madurai,2025-10-04,14:51,Parotta,1,137,Cash,2,137,1542,Female,21,A2B,South Indian,68,47,158,41,Delivered
+1543,Kumar,Thoothukudi,2025-11-13,15:08,Burger,4,307,UPI,1,1228,1543,Female,50,A2B,Chinese,66,39,1255,54,Pending
+1544,Ravi,Trichy,2025-12-25,20:42,Biryani,3,290,UPI,5,870,1544,Female,24,KFC,North Indian,22,20,872,47,Pending
+1545,Meena,Coimbatore,2025-05-08,15:07,Pizza,4,205,Card,4,820,1545,Female,46,KFC,South Indian,95,1,914,30,Delivered
+1546,Arun,Madurai,2025-09-23,15:55,Dosa,2,277,UPI,1,554,1546,Female,27,Dominos,Fast Food,49,43,560,40,Pending
+1547,Anitha,Chennai,2025-05-23,11:29,Parotta,3,312,UPI,3,936,1547,Male,26,A2B,North Indian,22,48,910,21,Delivered
+1548,Karthik,Madurai,2025-02-18,17:29,Fried Rice,4,286,Card,1,1144,1548,Female,44,Pizza Hut,North Indian,34,39,1139,21,Delivered
+1549,Ravi,Coimbatore,2025-06-24,11:07,Burger,4,190,Card,1,760,1549,Female,38,KFC,South Indian,50,47,763,42,Delivered
+1550,Ravi,Thoothukudi,2025-04-13,11:04,Parotta,4,239,Card,4,956,1550,Male,48,Dominos,South Indian,54,48,962,52,Cancelled
+1551,Arun,Thoothukudi,2025-08-26,14:07,Noodles,5,160,Cash,2,800,1551,Male,51,Hotel Saravana Bhavan,Fast Food,69,17,852,37,Cancelled
+1552,Suresh,Madurai,2025-07-27,22:20,Biryani,3,90,Card,2,270,1552,Female,22,Hotel Saravana Bhavan,North Indian,51,24,297,19,Pending
+1553,Ravi,Coimbatore,2025-12-19,22:32,Pizza,3,315,Card,3,945,1553,Female,50,Hotel Saravana Bhavan,North Indian,43,44,944,31,Pending
+1554,Meena,Thoothukudi,2025-11-13,13:06,Burger,5,88,Card,2,440,1554,Male,32,KFC,South Indian,36,12,464,58,Pending
+1555,Priya,Trichy,2025-11-22,12:04,Shawarma,3,209,UPI,5,627,1555,Female,52,Pizza Hut,South Indian,59,29,657,53,Pending
+1556,Vijay,Salem,2025-09-13,16:54,Fried Rice,2,280,Cash,1,560,1556,Female,18,KFC,Chinese,99,31,628,35,Pending
+1557,Arun,Thoothukudi,2025-07-26,20:33,Dosa,1,169,Card,3,169,1557,Female,36,A2B,North Indian,54,33,190,19,Delivered
+1558,Arun,Trichy,2025-08-06,17:45,Noodles,5,330,Card,4,1650,1558,Female,51,KFC,Chinese,92,8,1734,26,Cancelled
+1559,Anitha,Madurai,2025-04-14,16:18,Noodles,1,86,Card,5,86,1559,Female,35,Hotel Saravana Bhavan,North Indian,42,8,120,25,Delivered
+1560,Suresh,Trichy,2025-03-03,18:36,Parotta,4,87,Card,2,348,1560,Male,49,Dominos,Fast Food,52,46,354,20,Pending
+1561,Kumar,Salem,2025-10-11,20:07,Shawarma,2,228,Cash,3,456,1561,Male,43,Dominos,Fast Food,77,30,503,46,Cancelled
+1562,Ravi,Trichy,2025-09-24,18:36,Dosa,1,164,UPI,2,164,1562,Male,49,Pizza Hut,North Indian,69,11,222,34,Pending
+1563,Meena,Trichy,2025-08-15,10:25,Biryani,3,86,UPI,2,258,1563,Female,51,A2B,North Indian,76,4,330,59,Pending
+1564,Arun,Tirunelveli,2025-05-19,21:37,Dosa,2,223,Card,1,446,1564,Male,18,Pizza Hut,Chinese,68,10,504,52,Pending
+1565,Vijay,Tirunelveli,2025-07-22,13:11,Biryani,5,102,Cash,2,510,1565,Male,46,Dominos,South Indian,45,21,534,43,Pending
+1566,Karthik,Salem,2025-04-16,20:57,Biryani,2,218,UPI,1,436,1566,Female,32,A2B,South Indian,37,31,442,22,Cancelled
+1567,Priya,Tirunelveli,2025-11-09,18:34,Biryani,4,96,Cash,2,384,1567,Male,59,Dominos,North Indian,47,41,390,30,Cancelled
+1568,Divya,Thoothukudi,2025-07-11,13:50,Pizza,4,196,UPI,3,784,1568,Female,36,Dominos,South Indian,88,15,857,36,Pending
+1569,Suresh,Madurai,2025-09-09,21:06,Burger,1,216,Card,4,216,1569,Male,29,Pizza Hut,North Indian,59,18,257,35,Cancelled
+1570,Kumar,Tirunelveli,2025-10-19,20:44,Dosa,3,240,Card,2,720,1570,Female,59,A2B,South Indian,78,3,795,20,Cancelled
+1571,Meena,Tirunelveli,2025-08-26,14:17,Biryani,1,307,UPI,4,307,1571,Male,32,Dominos,Fast Food,79,3,383,17,Cancelled
+1572,Anitha,Tirunelveli,2025-03-10,10:56,Shawarma,1,334,Card,1,334,1572,Male,43,A2B,Fast Food,75,20,389,23,Pending
+1573,Anitha,Madurai,2025-08-15,19:38,Noodles,3,134,Card,2,402,1573,Female,41,A2B,Fast Food,82,25,459,15,Delivered
+1574,Anitha,Madurai,2025-01-22,18:40,Fried Rice,5,218,Cash,2,1090,1574,Male,32,Dominos,Chinese,25,16,1099,44,Delivered
+1575,Arun,Coimbatore,2025-08-28,17:28,Parotta,5,301,Card,5,1505,1575,Male,31,KFC,Chinese,67,30,1542,41,Pending
+1576,Suresh,Coimbatore,2025-01-26,14:36,Pizza,3,88,Cash,1,264,1576,Female,35,Hotel Saravana Bhavan,South Indian,59,21,302,52,Delivered
+1577,Divya,Thoothukudi,2025-08-18,13:38,Pizza,5,229,UPI,2,1145,1577,Male,33,A2B,Fast Food,53,14,1184,52,Cancelled
+1578,Karthik,Tirunelveli,2025-10-06,10:14,Pizza,3,303,Card,5,909,1578,Female,38,Hotel Saravana Bhavan,Fast Food,34,4,939,19,Pending
+1579,Karthik,Tirunelveli,2025-05-25,10:39,Noodles,5,189,Cash,3,945,1579,Male,45,Dominos,Chinese,69,3,1011,17,Cancelled
+1580,Arun,Madurai,2025-07-05,12:37,Fried Rice,4,291,UPI,4,1164,1580,Male,48,Pizza Hut,South Indian,53,4,1213,46,Delivered
+1581,Divya,Trichy,2025-04-13,11:21,Shawarma,4,166,UPI,4,664,1581,Female,40,Hotel Saravana Bhavan,South Indian,21,41,644,54,Pending
+1582,Suresh,Trichy,2025-09-27,10:06,Noodles,1,321,Cash,1,321,1582,Male,47,A2B,Chinese,90,0,411,15,Cancelled
+1583,Ravi,Chennai,2025-06-13,14:05,Dosa,4,174,Cash,3,696,1583,Male,25,Pizza Hut,South Indian,76,17,755,24,Pending
+1584,Suresh,Chennai,2025-03-01,20:50,Noodles,1,256,Card,2,256,1584,Male,49,Dominos,Fast Food,81,49,288,31,Pending
+1585,Suresh,Coimbatore,2025-02-06,20:55,Biryani,5,344,UPI,3,1720,1585,Female,34,Pizza Hut,South Indian,66,2,1784,23,Cancelled
+1586,Vijay,Thoothukudi,2025-03-08,18:57,Noodles,5,130,UPI,4,650,1586,Male,59,KFC,South Indian,70,37,683,53,Cancelled
+1587,Suresh,Trichy,2025-05-18,21:52,Burger,5,196,Cash,5,980,1587,Male,31,Hotel Saravana Bhavan,Fast Food,39,23,996,41,Delivered
+1588,Ravi,Madurai,2025-10-19,17:37,Pizza,1,131,UPI,3,131,1588,Female,28,Hotel Saravana Bhavan,Fast Food,70,22,179,22,Cancelled
+1589,Priya,Coimbatore,2025-01-11,13:32,Biryani,4,159,Card,2,636,1589,Female,45,Hotel Saravana Bhavan,Chinese,38,23,651,41,Cancelled
+1590,Arun,Chennai,2025-06-14,10:14,Fried Rice,2,292,UPI,5,584,1590,Male,20,Pizza Hut,Chinese,67,40,611,34,Cancelled
+1591,Karthik,Trichy,2025-02-24,18:07,Fried Rice,3,135,Cash,5,405,1591,Female,47,Hotel Saravana Bhavan,North Indian,79,14,470,35,Delivered
+1592,Suresh,Thoothukudi,2025-09-24,21:15,Fried Rice,3,155,UPI,5,465,1592,Female,36,Dominos,Chinese,68,2,531,44,Delivered
+1593,Priya,Coimbatore,2025-09-03,19:16,Noodles,4,196,Card,2,784,1593,Male,29,Pizza Hut,South Indian,34,40,778,55,Pending
+1594,Divya,Tirunelveli,2025-01-15,14:37,Pizza,2,349,Cash,1,698,1594,Male,26,Dominos,North Indian,39,37,700,39,Delivered
+1595,Priya,Madurai,2025-01-23,11:46,Fried Rice,4,299,Card,4,1196,1595,Male,36,Pizza Hut,Chinese,51,19,1228,25,Cancelled
+1596,Kumar,Tirunelveli,2025-02-18,20:25,Fried Rice,4,186,UPI,4,744,1596,Male,23,A2B,Fast Food,77,35,786,20,Delivered
+1597,Anitha,Salem,2025-09-24,22:17,Noodles,2,120,UPI,2,240,1597,Male,34,KFC,Fast Food,88,8,320,46,Pending
+1598,Suresh,Trichy,2025-04-14,22:45,Pizza,5,173,UPI,2,865,1598,Female,20,Dominos,Chinese,90,39,916,45,Delivered
+1599,Karthik,Salem,2025-01-02,11:03,Parotta,3,130,UPI,3,390,1599,Female,35,Hotel Saravana Bhavan,Chinese,58,19,429,45,Delivered
+1600,Divya,Coimbatore,2025-12-15,13:23,Noodles,4,153,UPI,5,612,1600,Male,49,KFC,Chinese,29,21,620,23,Delivered
+1601,Kumar,Trichy,2025-07-26,22:03,Parotta,4,240,Cash,3,960,1601,Male,27,Hotel Saravana Bhavan,Chinese,37,36,961,51,Delivered
+1602,Priya,Salem,2025-02-08,14:43,Pizza,1,272,UPI,5,272,1602,Female,55,Pizza Hut,South Indian,48,26,294,24,Delivered
+1603,Priya,Salem,2025-05-08,15:28,Biryani,3,98,UPI,5,294,1603,Female,40,Dominos,South Indian,72,15,351,34,Delivered
+1604,Ravi,Coimbatore,2025-04-02,16:14,Biryani,3,184,Card,5,552,1604,Female,53,Hotel Saravana Bhavan,South Indian,49,39,562,24,Cancelled
+1605,Kumar,Trichy,2025-10-20,15:44,Shawarma,2,254,Card,5,508,1605,Male,55,KFC,Chinese,68,42,534,42,Pending
+1606,Vijay,Tirunelveli,2025-12-07,10:48,Dosa,3,198,UPI,2,594,1606,Female,34,A2B,North Indian,51,0,645,49,Pending
+1607,Suresh,Coimbatore,2025-09-07,16:00,Dosa,1,177,Cash,3,177,1607,Male,19,Dominos,Chinese,80,8,249,57,Delivered
+1608,Meena,Trichy,2025-09-19,21:29,Shawarma,3,202,Card,5,606,1608,Female,19,A2B,Chinese,62,48,620,41,Cancelled
+1609,Suresh,Tirunelveli,2025-04-28,16:55,Pizza,3,171,Card,2,513,1609,Male,22,KFC,South Indian,25,17,521,24,Delivered
+1610,Karthik,Chennai,2025-08-12,18:31,Pizza,4,259,Cash,5,1036,1610,Female,58,Dominos,Fast Food,57,47,1046,25,Pending
+1611,Arun,Madurai,2025-07-01,19:58,Dosa,5,95,Card,4,475,1611,Female,27,Pizza Hut,North Indian,43,35,483,22,Pending
+1612,Priya,Thoothukudi,2025-06-01,13:54,Burger,4,171,Card,2,684,1612,Male,54,A2B,Fast Food,22,40,666,22,Delivered
+1613,Ravi,Trichy,2025-06-13,19:49,Fried Rice,4,294,Card,1,1176,1613,Female,51,Dominos,South Indian,58,5,1229,25,Delivered
+1614,Suresh,Thoothukudi,2025-08-10,10:42,Noodles,4,167,UPI,2,668,1614,Female,28,Dominos,North Indian,57,3,722,56,Delivered
+1615,Karthik,Madurai,2025-12-28,20:33,Fried Rice,5,347,UPI,4,1735,1615,Male,52,Pizza Hut,North Indian,31,39,1727,48,Pending
+1616,Suresh,Salem,2025-08-14,12:38,Pizza,1,185,Cash,4,185,1616,Male,24,Pizza Hut,Fast Food,36,28,193,21,Cancelled
+1617,Ravi,Coimbatore,2025-07-20,11:06,Biryani,1,298,Card,5,298,1617,Female,57,Dominos,North Indian,90,16,372,55,Delivered
+1618,Vijay,Trichy,2025-12-26,11:30,Pizza,2,335,Cash,1,670,1618,Female,41,KFC,Fast Food,50,35,685,33,Delivered
+1619,Anitha,Salem,2025-12-10,12:24,Burger,3,119,UPI,1,357,1619,Female,21,A2B,North Indian,40,31,366,35,Cancelled
+1620,Meena,Salem,2025-03-10,21:40,Shawarma,3,253,UPI,1,759,1620,Female,35,Dominos,Fast Food,26,30,755,43,Delivered
+1621,Anitha,Chennai,2025-10-17,15:01,Fried Rice,5,221,UPI,1,1105,1621,Male,56,Dominos,Chinese,81,46,1140,45,Delivered
+1622,Karthik,Coimbatore,2025-01-12,12:22,Noodles,4,272,Card,4,1088,1622,Female,43,Pizza Hut,North Indian,30,19,1099,26,Cancelled
+1623,Suresh,Thoothukudi,2025-06-20,15:28,Noodles,1,194,UPI,2,194,1623,Male,56,A2B,North Indian,69,44,219,30,Pending
+1624,Divya,Salem,2025-10-07,16:32,Shawarma,4,130,Cash,4,520,1624,Female,35,Hotel Saravana Bhavan,South Indian,82,48,554,38,Pending
+1625,Arun,Salem,2025-09-27,18:53,Shawarma,2,119,Cash,1,238,1625,Female,58,KFC,Fast Food,92,6,324,30,Cancelled
+1626,Anitha,Tirunelveli,2025-07-13,10:03,Fried Rice,2,175,UPI,2,350,1626,Male,37,Dominos,Fast Food,93,49,394,35,Pending
+1627,Suresh,Coimbatore,2025-05-23,14:01,Parotta,4,82,UPI,5,328,1627,Male,56,A2B,North Indian,68,1,395,36,Cancelled
+1628,Ravi,Salem,2025-10-03,12:17,Pizza,5,276,Cash,3,1380,1628,Female,26,Hotel Saravana Bhavan,Fast Food,39,17,1402,28,Cancelled
+1629,Meena,Trichy,2025-09-11,11:47,Pizza,4,258,Cash,3,1032,1629,Female,22,Pizza Hut,South Indian,78,45,1065,39,Cancelled
+1630,Ravi,Trichy,2025-02-10,12:43,Shawarma,5,170,Cash,3,850,1630,Male,45,KFC,North Indian,49,39,860,20,Delivered
+1631,Arun,Salem,2025-02-22,10:25,Parotta,3,180,UPI,3,540,1631,Female,53,A2B,Chinese,61,2,599,40,Pending
+1632,Anitha,Madurai,2025-09-21,12:25,Noodles,1,316,UPI,1,316,1632,Female,31,KFC,Fast Food,55,45,326,47,Pending
+1633,Kumar,Salem,2025-08-20,15:14,Parotta,3,155,UPI,2,465,1633,Male,48,Hotel Saravana Bhavan,North Indian,41,21,485,50,Delivered
+1634,Arun,Chennai,2025-08-05,19:13,Pizza,1,119,Cash,5,119,1634,Female,50,Hotel Saravana Bhavan,South Indian,84,17,186,47,Delivered
+1635,Kumar,Tirunelveli,2025-03-08,14:20,Burger,1,139,Card,2,139,1635,Female,59,Hotel Saravana Bhavan,Fast Food,35,14,160,57,Delivered
+1636,Anitha,Salem,2025-01-07,20:41,Shawarma,4,220,UPI,3,880,1636,Male,53,Pizza Hut,Fast Food,35,13,902,48,Cancelled
+1637,Suresh,Madurai,2025-11-14,10:55,Parotta,4,222,UPI,1,888,1637,Male,30,A2B,North Indian,23,44,867,38,Cancelled
+1638,Meena,Tirunelveli,2025-02-22,18:47,Parotta,4,199,Cash,5,796,1638,Male,29,A2B,North Indian,58,29,825,55,Delivered
+1639,Karthik,Coimbatore,2025-10-09,10:36,Pizza,5,181,Cash,4,905,1639,Male,38,KFC,South Indian,99,45,959,45,Delivered
+1640,Priya,Tirunelveli,2025-12-27,20:30,Dosa,3,184,Card,4,552,1640,Female,32,Pizza Hut,North Indian,22,2,572,48,Cancelled
+1641,Vijay,Coimbatore,2025-03-15,19:32,Noodles,4,328,Card,3,1312,1641,Female,53,KFC,North Indian,99,29,1382,50,Cancelled
+1642,Priya,Madurai,2025-11-24,20:05,Shawarma,2,214,Cash,4,428,1642,Male,19,A2B,Chinese,71,13,486,29,Cancelled
+1643,Meena,Chennai,2025-01-02,13:57,Dosa,2,328,UPI,5,656,1643,Male,18,Dominos,North Indian,21,31,646,27,Delivered
+1644,Anitha,Tirunelveli,2025-10-23,12:36,Biryani,5,101,Cash,4,505,1644,Male,31,Dominos,North Indian,62,41,526,39,Cancelled
+1645,Karthik,Coimbatore,2025-02-20,12:02,Parotta,4,286,Card,2,1144,1645,Male,50,KFC,North Indian,32,20,1156,55,Pending
+1646,Kumar,Trichy,2025-06-21,16:24,Shawarma,2,331,UPI,3,662,1646,Female,21,KFC,North Indian,91,14,739,18,Cancelled
+1647,Priya,Salem,2025-07-06,19:25,Dosa,1,92,Cash,2,92,1647,Male,28,A2B,Chinese,94,20,166,37,Delivered
+1648,Meena,Trichy,2025-11-23,16:55,Parotta,1,303,UPI,3,303,1648,Male,18,A2B,North Indian,68,45,326,36,Cancelled
+1649,Anitha,Trichy,2025-05-01,14:30,Parotta,1,202,Card,5,202,1649,Female,18,Dominos,North Indian,42,21,223,30,Delivered
+1650,Arun,Thoothukudi,2025-03-26,12:02,Pizza,5,112,UPI,3,560,1650,Female,59,Dominos,Fast Food,51,29,582,44,Delivered
+1651,Karthik,Madurai,2025-07-04,18:35,Biryani,4,213,Cash,4,852,1651,Male,25,Pizza Hut,Chinese,81,25,908,20,Delivered
+1652,Meena,Trichy,2025-09-09,22:31,Noodles,5,143,UPI,3,715,1652,Male,20,Hotel Saravana Bhavan,South Indian,63,2,776,38,Pending
+1653,Arun,Trichy,2025-11-15,11:34,Fried Rice,2,97,Card,3,194,1653,Male,30,A2B,North Indian,75,35,234,55,Delivered
+1654,Karthik,Madurai,2025-09-10,20:29,Dosa,4,96,Card,3,384,1654,Male,23,Hotel Saravana Bhavan,North Indian,24,24,384,41,Cancelled
+1655,Karthik,Tirunelveli,2025-08-16,15:46,Noodles,2,110,UPI,3,220,1655,Male,38,KFC,Fast Food,78,27,271,48,Cancelled
+1656,Anitha,Trichy,2025-01-21,16:07,Burger,5,154,UPI,3,770,1656,Female,47,Dominos,North Indian,57,29,798,38,Pending
+1657,Vijay,Thoothukudi,2025-05-09,16:48,Fried Rice,1,223,Card,1,223,1657,Female,31,KFC,North Indian,22,19,226,25,Pending
+1658,Ravi,Salem,2025-07-04,12:01,Noodles,1,80,Card,3,80,1658,Female,30,KFC,Chinese,91,13,158,37,Cancelled
+1659,Arun,Trichy,2025-08-22,11:32,Noodles,2,344,UPI,5,688,1659,Male,26,Hotel Saravana Bhavan,North Indian,82,42,728,17,Delivered
+1660,Priya,Trichy,2025-11-03,20:44,Shawarma,2,288,Card,5,576,1660,Female,46,Dominos,South Indian,78,9,645,26,Cancelled
+1661,Anitha,Madurai,2025-12-03,18:09,Shawarma,2,115,Card,5,230,1661,Male,32,Pizza Hut,Fast Food,54,13,271,31,Cancelled
+1662,Arun,Salem,2025-03-08,10:17,Biryani,2,86,Cash,1,172,1662,Female,29,KFC,Fast Food,28,26,174,34,Delivered
+1663,Ravi,Thoothukudi,2025-10-16,17:57,Dosa,4,342,Card,2,1368,1663,Male,46,Dominos,South Indian,59,20,1407,31,Pending
+1664,Kumar,Trichy,2025-07-27,22:49,Shawarma,4,252,UPI,5,1008,1664,Female,54,Dominos,North Indian,61,27,1042,44,Pending
+1665,Ravi,Thoothukudi,2025-06-15,10:27,Shawarma,5,150,UPI,4,750,1665,Male,43,Pizza Hut,South Indian,48,22,776,58,Pending
+1666,Meena,Madurai,2025-05-04,19:53,Dosa,3,304,Cash,1,912,1666,Female,19,Pizza Hut,North Indian,79,31,960,58,Cancelled
+1667,Meena,Coimbatore,2025-05-09,22:26,Burger,2,140,Cash,2,280,1667,Female,20,Pizza Hut,North Indian,78,27,331,19,Cancelled
+1668,Arun,Madurai,2025-07-02,15:04,Pizza,5,241,Card,4,1205,1668,Female,52,Hotel Saravana Bhavan,South Indian,87,45,1247,46,Delivered
+1669,Karthik,Chennai,2025-12-02,13:04,Noodles,1,91,Cash,2,91,1669,Female,53,Hotel Saravana Bhavan,North Indian,69,38,122,57,Cancelled
+1670,Karthik,Trichy,2025-10-08,14:43,Biryani,1,270,UPI,5,270,1670,Male,45,Hotel Saravana Bhavan,Fast Food,49,39,280,31,Pending
+1671,Arun,Madurai,2025-12-28,15:37,Noodles,3,146,UPI,4,438,1671,Male,34,Dominos,South Indian,97,3,532,44,Cancelled
+1672,Divya,Trichy,2025-12-13,12:53,Fried Rice,2,231,Cash,3,462,1672,Male,42,Dominos,South Indian,60,28,494,50,Pending
+1673,Kumar,Salem,2025-11-21,13:52,Parotta,4,299,Cash,3,1196,1673,Female,41,KFC,Chinese,39,41,1194,54,Cancelled
+1674,Vijay,Salem,2025-03-19,22:17,Noodles,4,234,Cash,3,936,1674,Female,58,A2B,Fast Food,84,42,978,26,Pending
+1675,Divya,Trichy,2025-05-12,12:16,Fried Rice,4,225,Cash,5,900,1675,Male,19,A2B,North Indian,75,31,944,16,Delivered
+1676,Suresh,Coimbatore,2025-02-28,13:31,Pizza,2,182,Card,4,364,1676,Female,50,KFC,North Indian,26,10,380,38,Cancelled
+1677,Priya,Trichy,2025-09-20,17:09,Fried Rice,1,240,Card,3,240,1677,Male,25,Pizza Hut,North Indian,31,47,224,23,Cancelled
+1678,Priya,Chennai,2025-03-04,20:07,Parotta,1,190,Cash,3,190,1678,Male,22,Hotel Saravana Bhavan,Chinese,27,29,188,39,Delivered
+1679,Arun,Thoothukudi,2025-07-20,17:57,Biryani,5,192,Cash,4,960,1679,Female,23,KFC,Fast Food,59,6,1013,42,Pending
+1680,Arun,Madurai,2025-02-12,10:53,Biryani,5,304,UPI,3,1520,1680,Male,45,Hotel Saravana Bhavan,Fast Food,51,24,1547,56,Delivered
+1681,Priya,Madurai,2025-12-02,21:36,Shawarma,1,235,UPI,3,235,1681,Female,24,Pizza Hut,Chinese,21,16,240,54,Pending
+1682,Priya,Chennai,2025-05-02,10:43,Parotta,4,149,Cash,3,596,1682,Female,34,Hotel Saravana Bhavan,South Indian,58,4,650,38,Cancelled
+1683,Arun,Madurai,2025-04-13,22:23,Shawarma,1,201,UPI,5,201,1683,Male,38,KFC,South Indian,78,5,274,16,Delivered
+1684,Meena,Chennai,2025-10-24,22:00,Biryani,1,226,Card,5,226,1684,Male,44,KFC,South Indian,53,47,232,42,Delivered
+1685,Vijay,Chennai,2025-06-07,21:39,Shawarma,1,154,UPI,3,154,1685,Female,55,Dominos,Chinese,27,2,179,52,Pending
+1686,Vijay,Thoothukudi,2025-05-04,21:20,Noodles,2,220,UPI,4,440,1686,Female,49,KFC,Fast Food,61,13,488,58,Delivered
+1687,Vijay,Madurai,2025-03-20,18:15,Noodles,1,143,UPI,2,143,1687,Female,41,Pizza Hut,South Indian,75,11,207,57,Delivered
+1688,Ravi,Madurai,2025-01-06,19:59,Biryani,4,161,UPI,1,644,1688,Male,21,A2B,North Indian,83,35,692,23,Pending
+1689,Meena,Coimbatore,2025-03-21,10:27,Fried Rice,2,330,Card,5,660,1689,Female,46,KFC,Chinese,97,47,710,40,Pending
+1690,Divya,Madurai,2025-10-21,19:40,Shawarma,4,255,Card,3,1020,1690,Female,27,Dominos,Chinese,43,36,1027,27,Delivered
+1691,Karthik,Thoothukudi,2025-11-03,22:22,Shawarma,2,279,Card,3,558,1691,Male,23,Dominos,North Indian,81,31,608,18,Delivered
+1692,Anitha,Salem,2025-10-18,14:33,Dosa,1,175,Card,4,175,1692,Female,31,KFC,Chinese,92,35,232,21,Delivered
+1693,Kumar,Chennai,2025-03-22,11:11,Shawarma,3,216,Card,5,648,1693,Female,44,Hotel Saravana Bhavan,Fast Food,38,33,653,17,Delivered
+1694,Kumar,Trichy,2025-05-12,15:13,Burger,5,269,Cash,2,1345,1694,Female,39,KFC,North Indian,41,4,1382,27,Delivered
+1695,Anitha,Coimbatore,2025-09-21,13:30,Noodles,5,270,Cash,1,1350,1695,Female,54,A2B,North Indian,95,5,1440,43,Pending
+1696,Divya,Trichy,2025-08-16,13:01,Parotta,5,254,Card,1,1270,1696,Male,20,Dominos,North Indian,77,8,1339,15,Delivered
+1697,Anitha,Tirunelveli,2025-11-15,18:11,Dosa,4,324,Card,5,1296,1697,Female,20,Pizza Hut,North Indian,36,30,1302,29,Cancelled
+1698,Meena,Thoothukudi,2025-04-19,13:25,Noodles,2,136,Card,3,272,1698,Female,35,Dominos,Chinese,82,23,331,35,Pending
+1699,Suresh,Thoothukudi,2025-05-20,18:41,Biryani,4,219,Card,4,876,1699,Female,55,Pizza Hut,North Indian,27,41,862,30,Delivered
+1700,Divya,Madurai,2025-08-11,11:33,Parotta,1,284,Cash,3,284,1700,Female,19,A2B,Chinese,51,22,313,17,Pending
+1701,Karthik,Salem,2025-04-28,16:55,Dosa,3,175,Card,2,525,1701,Female,51,KFC,North Indian,90,21,594,22,Pending
+1702,Vijay,Trichy,2025-04-03,12:34,Noodles,2,171,Cash,3,342,1702,Female,27,KFC,South Indian,27,39,330,43,Delivered
+1703,Suresh,Madurai,2025-09-05,21:18,Fried Rice,3,185,UPI,5,555,1703,Male,19,Hotel Saravana Bhavan,Fast Food,70,21,604,31,Cancelled
+1704,Ravi,Madurai,2025-10-22,21:19,Biryani,3,113,UPI,1,339,1704,Female,27,KFC,Chinese,57,12,384,37,Delivered
+1705,Kumar,Chennai,2025-01-21,18:44,Dosa,2,343,Cash,5,686,1705,Female,46,Dominos,North Indian,80,17,749,37,Cancelled
+1706,Ravi,Salem,2025-12-18,19:30,Shawarma,2,334,Cash,5,668,1706,Female,20,A2B,North Indian,52,32,688,21,Pending
+1707,Ravi,Madurai,2025-06-20,22:04,Pizza,2,238,Cash,4,476,1707,Female,46,Dominos,Fast Food,67,19,524,36,Pending
+1708,Priya,Salem,2025-04-14,22:31,Parotta,4,140,Cash,4,560,1708,Female,55,KFC,South Indian,48,40,568,51,Cancelled
+1709,Suresh,Trichy,2025-06-16,22:13,Fried Rice,1,312,Cash,2,312,1709,Female,20,KFC,Chinese,40,26,326,33,Cancelled
+1710,Kumar,Thoothukudi,2025-02-16,12:37,Noodles,1,98,Cash,3,98,1710,Female,35,Hotel Saravana Bhavan,Chinese,65,29,134,50,Pending
+1711,Kumar,Tirunelveli,2025-12-27,16:12,Shawarma,2,329,Card,1,658,1711,Female,29,Hotel Saravana Bhavan,South Indian,52,12,698,33,Pending
+1712,Priya,Chennai,2025-08-02,16:55,Burger,5,158,Cash,4,790,1712,Male,40,A2B,Fast Food,71,25,836,51,Delivered
+1713,Divya,Tirunelveli,2025-11-05,21:34,Biryani,1,95,Card,2,95,1713,Female,42,Dominos,South Indian,36,47,84,37,Cancelled
+1714,Vijay,Tirunelveli,2025-06-24,15:19,Fried Rice,4,272,UPI,5,1088,1714,Male,44,Hotel Saravana Bhavan,South Indian,25,25,1088,51,Delivered
+1715,Suresh,Thoothukudi,2025-09-02,19:26,Dosa,1,94,Card,3,94,1715,Male,26,KFC,Fast Food,20,9,105,41,Pending
+1716,Meena,Coimbatore,2025-04-07,10:00,Noodles,4,260,UPI,1,1040,1716,Male,42,Hotel Saravana Bhavan,North Indian,98,0,1138,57,Cancelled
+1717,Meena,Coimbatore,2025-12-12,18:10,Biryani,3,344,Card,4,1032,1717,Male,46,Pizza Hut,South Indian,53,45,1040,33,Cancelled
+1718,Kumar,Tirunelveli,2025-06-03,18:39,Pizza,2,346,Card,4,692,1718,Male,47,KFC,Chinese,24,25,691,17,Cancelled
+1719,Priya,Salem,2025-12-24,11:34,Dosa,2,115,Cash,2,230,1719,Female,43,Dominos,Fast Food,65,46,249,52,Delivered
+1720,Vijay,Coimbatore,2025-05-17,12:05,Parotta,1,334,Cash,3,334,1720,Female,54,Pizza Hut,South Indian,73,31,376,43,Pending
+1721,Meena,Madurai,2025-11-09,12:19,Pizza,1,141,Cash,5,141,1721,Male,25,Pizza Hut,Chinese,43,46,138,55,Pending
+1722,Divya,Trichy,2025-11-15,16:18,Noodles,1,126,UPI,1,126,1722,Female,41,A2B,Fast Food,53,24,155,55,Pending
+1723,Priya,Salem,2025-11-08,11:35,Parotta,4,321,UPI,2,1284,1723,Male,44,Dominos,South Indian,44,16,1312,15,Cancelled
+1724,Divya,Madurai,2025-03-11,14:07,Shawarma,2,280,Cash,4,560,1724,Male,19,KFC,South Indian,71,24,607,58,Cancelled
+1725,Anitha,Madurai,2025-10-14,19:56,Burger,4,151,UPI,5,604,1725,Male,34,Pizza Hut,South Indian,58,31,631,18,Delivered
+1726,Ravi,Thoothukudi,2025-06-01,18:07,Fried Rice,3,131,Card,5,393,1726,Female,25,Dominos,North Indian,34,6,421,35,Pending
+1727,Ravi,Salem,2025-03-28,13:11,Shawarma,3,280,Cash,1,840,1727,Male,39,Dominos,South Indian,28,41,827,44,Cancelled
+1728,Suresh,Chennai,2025-04-13,18:39,Parotta,2,214,Card,2,428,1728,Female,46,A2B,South Indian,55,13,470,51,Cancelled
+1729,Arun,Trichy,2025-12-14,19:33,Parotta,5,259,Cash,3,1295,1729,Female,59,A2B,Fast Food,86,2,1379,41,Pending
+1730,Kumar,Trichy,2025-08-27,18:33,Fried Rice,4,187,Card,4,748,1730,Male,28,A2B,North Indian,24,46,726,55,Delivered
+1731,Vijay,Salem,2025-10-28,17:08,Burger,3,239,Cash,5,717,1731,Female,36,Hotel Saravana Bhavan,North Indian,99,7,809,39,Cancelled
+1732,Kumar,Tirunelveli,2025-09-07,11:35,Burger,3,346,Cash,4,1038,1732,Female,44,Hotel Saravana Bhavan,North Indian,21,24,1035,52,Pending
+1733,Priya,Coimbatore,2025-07-26,12:17,Biryani,3,293,UPI,3,879,1733,Female,26,Dominos,Fast Food,27,0,906,20,Delivered
+1734,Divya,Trichy,2025-05-24,17:09,Noodles,4,184,Card,3,736,1734,Male,43,Dominos,Fast Food,34,20,750,34,Pending
+1735,Suresh,Tirunelveli,2025-12-22,10:02,Biryani,5,190,UPI,5,950,1735,Male,38,Dominos,South Indian,59,47,962,47,Cancelled
+1736,Vijay,Trichy,2025-05-08,10:21,Dosa,1,179,Card,1,179,1736,Female,34,Hotel Saravana Bhavan,Fast Food,24,41,162,57,Delivered
+1737,Anitha,Trichy,2025-10-19,13:07,Fried Rice,1,263,Cash,2,263,1737,Female,58,Dominos,North Indian,91,34,320,28,Pending
+1738,Ravi,Salem,2025-05-15,19:37,Dosa,1,98,UPI,5,98,1738,Male,46,A2B,South Indian,79,37,140,36,Delivered
+1739,Karthik,Thoothukudi,2025-08-21,20:00,Fried Rice,2,310,Card,2,620,1739,Female,44,KFC,Fast Food,60,31,649,31,Cancelled
+1740,Divya,Trichy,2025-09-20,13:01,Noodles,2,101,UPI,4,202,1740,Female,21,Hotel Saravana Bhavan,Fast Food,22,45,179,54,Delivered
+1741,Karthik,Salem,2025-02-06,13:40,Parotta,5,211,Card,3,1055,1741,Female,35,Pizza Hut,South Indian,99,43,1111,33,Delivered
+1742,Karthik,Thoothukudi,2025-06-28,16:45,Burger,1,283,UPI,5,283,1742,Male,37,Dominos,South Indian,81,11,353,34,Delivered
+1743,Ravi,Trichy,2025-08-05,13:49,Fried Rice,4,337,UPI,5,1348,1743,Male,33,KFC,Chinese,87,19,1416,24,Pending
+1744,Arun,Tirunelveli,2025-05-23,12:36,Biryani,1,157,Card,1,157,1744,Male,31,Hotel Saravana Bhavan,South Indian,36,30,163,15,Pending
+1745,Priya,Chennai,2025-06-23,17:37,Fried Rice,3,136,Cash,3,408,1745,Female,21,Pizza Hut,North Indian,23,2,429,36,Pending
+1746,Kumar,Madurai,2025-02-09,15:41,Pizza,4,282,Cash,5,1128,1746,Male,28,Hotel Saravana Bhavan,Fast Food,41,17,1152,32,Cancelled
+1747,Divya,Trichy,2025-11-11,11:53,Shawarma,3,276,UPI,1,828,1747,Male,43,Dominos,North Indian,90,0,918,37,Pending
+1748,Ravi,Chennai,2025-12-06,12:54,Parotta,4,229,UPI,4,916,1748,Male,35,Hotel Saravana Bhavan,North Indian,46,18,944,46,Delivered
+1749,Arun,Madurai,2025-06-28,16:02,Noodles,1,121,Cash,1,121,1749,Female,48,KFC,Fast Food,62,44,139,56,Cancelled
+1750,Anitha,Madurai,2025-02-22,16:03,Fried Rice,3,307,UPI,5,921,1750,Female,25,A2B,North Indian,55,42,934,53,Delivered
+1751,Priya,Tirunelveli,2025-09-15,16:51,Pizza,4,188,Card,1,752,1751,Female,39,KFC,North Indian,34,39,747,21,Delivered
+1752,Kumar,Salem,2025-09-03,20:55,Burger,3,257,UPI,3,771,1752,Female,30,A2B,Chinese,84,30,825,47,Pending
+1753,Divya,Tirunelveli,2025-06-26,17:36,Pizza,5,265,Card,5,1325,1753,Male,52,Dominos,North Indian,81,13,1393,37,Pending
+1754,Karthik,Trichy,2025-10-15,22:35,Fried Rice,1,220,UPI,1,220,1754,Female,45,A2B,North Indian,97,0,317,21,Cancelled
+1755,Suresh,Coimbatore,2025-12-11,22:55,Biryani,1,311,Cash,1,311,1755,Female,38,A2B,South Indian,53,8,356,24,Cancelled
+1756,Kumar,Chennai,2025-02-08,19:09,Shawarma,2,191,Card,1,382,1756,Female,49,Dominos,Chinese,93,10,465,27,Cancelled
+1757,Ravi,Tirunelveli,2025-09-07,20:23,Biryani,2,158,UPI,4,316,1757,Male,23,Dominos,North Indian,90,26,380,54,Delivered
+1758,Arun,Madurai,2025-09-02,12:07,Pizza,2,310,Cash,4,620,1758,Female,43,Pizza Hut,South Indian,60,45,635,43,Cancelled
+1759,Meena,Tirunelveli,2025-07-21,20:11,Pizza,1,340,UPI,2,340,1759,Male,58,Dominos,Fast Food,36,16,360,17,Pending
+1760,Vijay,Tirunelveli,2025-10-09,11:04,Noodles,5,307,Card,1,1535,1760,Male,19,Pizza Hut,Chinese,72,1,1606,25,Pending
+1761,Arun,Trichy,2025-02-25,12:16,Shawarma,3,329,UPI,5,987,1761,Male,36,KFC,Fast Food,73,32,1028,35,Cancelled
+1762,Karthik,Madurai,2025-05-19,19:30,Dosa,2,340,Cash,1,680,1762,Female,58,Hotel Saravana Bhavan,South Indian,94,8,766,45,Cancelled
+1763,Karthik,Thoothukudi,2025-01-15,10:50,Biryani,5,95,Card,4,475,1763,Female,49,Dominos,Chinese,62,43,494,41,Pending
+1764,Meena,Thoothukudi,2025-09-02,18:25,Biryani,5,80,Cash,1,400,1764,Female,19,Hotel Saravana Bhavan,Chinese,74,6,468,23,Delivered
+1765,Priya,Trichy,2025-11-13,17:39,Noodles,4,234,Card,2,936,1765,Female,30,Hotel Saravana Bhavan,Chinese,27,18,945,39,Cancelled
+1766,Suresh,Tirunelveli,2025-09-02,20:59,Fried Rice,3,255,UPI,2,765,1766,Female,57,Dominos,Chinese,21,1,785,21,Cancelled
+1767,Karthik,Tirunelveli,2025-11-12,15:44,Dosa,1,130,UPI,1,130,1767,Female,19,Pizza Hut,Fast Food,69,30,169,56,Delivered
+1768,Divya,Chennai,2025-02-23,19:40,Shawarma,1,206,UPI,2,206,1768,Male,35,Dominos,South Indian,35,31,210,48,Cancelled
+1769,Anitha,Salem,2025-07-25,16:05,Burger,4,230,UPI,2,920,1769,Female,34,KFC,Fast Food,78,39,959,57,Cancelled
+1770,Arun,Madurai,2025-09-07,12:13,Biryani,3,116,Cash,2,348,1770,Female,35,Pizza Hut,North Indian,70,22,396,38,Pending
+1771,Anitha,Coimbatore,2025-05-01,21:48,Shawarma,2,93,UPI,3,186,1771,Male,42,A2B,Fast Food,88,43,231,26,Delivered
+1772,Kumar,Salem,2025-01-27,14:04,Parotta,1,251,Card,1,251,1772,Male,18,Hotel Saravana Bhavan,South Indian,53,32,272,44,Cancelled
+1773,Anitha,Chennai,2025-03-08,18:07,Shawarma,1,194,UPI,4,194,1773,Male,46,Hotel Saravana Bhavan,Chinese,87,47,234,19,Delivered
+1774,Divya,Tirunelveli,2025-11-18,16:12,Noodles,3,261,UPI,5,783,1774,Male,23,Pizza Hut,Chinese,52,36,799,43,Delivered
+1775,Meena,Tirunelveli,2025-10-06,10:18,Shawarma,5,214,UPI,1,1070,1775,Female,44,Hotel Saravana Bhavan,Fast Food,20,33,1057,27,Cancelled
+1776,Divya,Trichy,2025-10-06,18:42,Pizza,3,252,Cash,2,756,1776,Female,36,KFC,South Indian,95,1,850,47,Delivered
+1777,Meena,Thoothukudi,2025-04-24,13:52,Dosa,2,234,UPI,4,468,1777,Female,45,A2B,South Indian,48,12,504,15,Pending
+1778,Divya,Thoothukudi,2025-11-12,13:02,Parotta,4,270,UPI,1,1080,1778,Female,55,Dominos,South Indian,73,39,1114,40,Delivered
+1779,Karthik,Chennai,2025-06-17,20:28,Parotta,3,87,Cash,3,261,1779,Female,36,KFC,Fast Food,52,35,278,22,Delivered
+1780,Suresh,Chennai,2025-11-20,14:32,Burger,5,162,UPI,4,810,1780,Female,53,A2B,Fast Food,29,48,791,42,Pending
+1781,Suresh,Trichy,2025-03-03,22:00,Noodles,5,161,Card,3,805,1781,Male,37,Dominos,North Indian,84,4,885,18,Cancelled
+1782,Priya,Madurai,2025-10-06,13:00,Pizza,5,209,UPI,4,1045,1782,Male,43,Hotel Saravana Bhavan,Fast Food,72,14,1103,29,Cancelled
+1783,Suresh,Salem,2025-01-13,22:45,Pizza,5,239,Cash,2,1195,1783,Male,40,Dominos,Chinese,86,28,1253,45,Pending
+1784,Priya,Madurai,2025-09-11,12:39,Fried Rice,2,229,UPI,2,458,1784,Male,40,Dominos,Fast Food,24,11,471,35,Pending
+1785,Karthik,Madurai,2025-12-23,15:49,Fried Rice,5,229,Cash,4,1145,1785,Male,59,Dominos,Chinese,63,48,1160,55,Delivered
+1786,Anitha,Coimbatore,2025-04-09,17:20,Biryani,5,199,Card,3,995,1786,Male,28,Pizza Hut,North Indian,63,46,1012,54,Pending
+1787,Anitha,Coimbatore,2025-03-26,12:55,Biryani,1,137,UPI,5,137,1787,Female,23,Pizza Hut,South Indian,74,2,209,45,Cancelled
+1788,Suresh,Tirunelveli,2025-10-03,11:21,Biryani,4,102,Card,4,408,1788,Male,46,Dominos,North Indian,66,38,436,19,Cancelled
+1789,Suresh,Salem,2025-12-21,18:35,Dosa,1,205,UPI,2,205,1789,Female,31,KFC,Fast Food,53,4,254,18,Pending
+1790,Divya,Madurai,2025-02-12,17:30,Biryani,4,224,Cash,1,896,1790,Male,29,Dominos,Fast Food,37,0,933,51,Cancelled
+1791,Priya,Thoothukudi,2025-06-20,15:28,Parotta,1,81,UPI,5,81,1791,Male,52,Dominos,North Indian,99,17,163,52,Cancelled
+1792,Vijay,Thoothukudi,2025-07-21,21:41,Shawarma,5,89,UPI,4,445,1792,Female,39,Hotel Saravana Bhavan,North Indian,54,46,453,55,Cancelled
+1793,Arun,Trichy,2025-09-22,15:51,Pizza,2,103,Card,4,206,1793,Female,57,Pizza Hut,South Indian,62,27,241,25,Pending
+1794,Vijay,Madurai,2025-03-12,18:31,Shawarma,4,121,UPI,1,484,1794,Female,59,Dominos,Fast Food,43,35,492,53,Pending
+1795,Meena,Coimbatore,2025-09-25,16:36,Fried Rice,2,313,UPI,4,626,1795,Male,26,Hotel Saravana Bhavan,South Indian,95,33,688,40,Delivered
+1796,Suresh,Trichy,2025-09-07,16:54,Shawarma,5,204,UPI,3,1020,1796,Male,42,Hotel Saravana Bhavan,North Indian,73,7,1086,53,Pending
+1797,Divya,Chennai,2025-09-07,12:00,Fried Rice,5,150,UPI,5,750,1797,Male,42,Dominos,Chinese,44,24,770,56,Delivered
+1798,Kumar,Salem,2025-06-23,16:50,Burger,3,234,UPI,4,702,1798,Female,35,Dominos,Chinese,31,19,714,53,Cancelled
+1799,Arun,Thoothukudi,2025-07-18,13:11,Parotta,4,342,Card,1,1368,1799,Female,26,Pizza Hut,North Indian,96,18,1446,41,Delivered
+1800,Suresh,Chennai,2025-12-16,14:23,Parotta,5,303,Cash,3,1515,1800,Female,41,KFC,Chinese,96,40,1571,21,Cancelled
+1801,Priya,Madurai,2025-02-10,22:33,Biryani,2,340,Card,5,680,1801,Male,21,Dominos,Fast Food,86,34,732,26,Delivered
+1802,Suresh,Salem,2025-02-06,12:37,Parotta,3,162,Card,2,486,1802,Male,50,KFC,Chinese,59,47,498,25,Pending
+1803,Vijay,Salem,2025-02-05,20:59,Parotta,1,282,Card,4,282,1803,Male,22,Dominos,North Indian,72,41,313,40,Pending
+1804,Divya,Tirunelveli,2025-09-17,15:06,Burger,4,94,Cash,2,376,1804,Male,49,A2B,South Indian,26,15,387,45,Delivered
+1805,Divya,Chennai,2025-11-26,12:42,Fried Rice,2,184,Card,3,368,1805,Female,32,Pizza Hut,Fast Food,92,32,428,20,Pending
+1806,Meena,Trichy,2025-11-18,12:02,Burger,2,166,UPI,1,332,1806,Female,41,A2B,Fast Food,94,5,421,31,Pending
+1807,Kumar,Madurai,2025-05-07,17:24,Dosa,1,84,Cash,4,84,1807,Female,28,A2B,South Indian,25,23,86,31,Pending
+1808,Meena,Trichy,2025-12-09,11:52,Shawarma,2,248,UPI,2,496,1808,Female,18,Hotel Saravana Bhavan,Chinese,88,25,559,24,Pending
+1809,Priya,Chennai,2025-01-14,21:04,Pizza,3,280,Card,3,840,1809,Male,52,KFC,Fast Food,98,46,892,18,Pending
+1810,Meena,Coimbatore,2025-08-19,10:19,Burger,5,232,Cash,3,1160,1810,Male,46,KFC,North Indian,88,36,1212,45,Delivered
+1811,Vijay,Thoothukudi,2025-02-24,19:51,Burger,1,262,UPI,4,262,1811,Female,32,Hotel Saravana Bhavan,Fast Food,73,33,302,45,Cancelled
+1812,Divya,Salem,2025-06-03,18:59,Shawarma,3,243,Card,4,729,1812,Male,42,Dominos,Chinese,47,21,755,18,Cancelled
+1813,Karthik,Madurai,2025-07-27,22:53,Burger,4,167,Card,5,668,1813,Female,34,Hotel Saravana Bhavan,Chinese,39,41,666,23,Cancelled
+1814,Kumar,Salem,2025-06-04,15:43,Fried Rice,2,236,Card,4,472,1814,Female,56,KFC,North Indian,27,39,460,53,Cancelled
+1815,Vijay,Chennai,2025-02-07,14:45,Noodles,4,283,Cash,3,1132,1815,Female,58,Hotel Saravana Bhavan,Chinese,32,9,1155,34,Pending
+1816,Arun,Trichy,2025-01-09,18:48,Biryani,1,238,Card,3,238,1816,Male,20,A2B,North Indian,33,9,262,27,Pending
+1817,Arun,Madurai,2025-11-18,15:59,Fried Rice,5,106,Card,1,530,1817,Female,18,KFC,South Indian,67,43,554,54,Pending
+1818,Vijay,Thoothukudi,2025-03-19,14:42,Burger,3,329,Cash,2,987,1818,Male,59,KFC,North Indian,31,32,986,33,Delivered
+1819,Priya,Chennai,2025-07-25,22:50,Pizza,1,285,Card,5,285,1819,Male,43,A2B,North Indian,59,14,330,58,Pending
+1820,Karthik,Salem,2025-06-13,12:18,Burger,5,123,Card,4,615,1820,Female,44,A2B,North Indian,25,27,613,35,Pending
+1821,Ravi,Madurai,2025-10-03,15:50,Parotta,5,153,Card,2,765,1821,Female,59,A2B,North Indian,42,46,761,16,Cancelled
+1822,Karthik,Tirunelveli,2025-03-25,15:37,Noodles,5,125,UPI,1,625,1822,Male,51,Pizza Hut,North Indian,89,38,676,59,Cancelled
+1823,Divya,Tirunelveli,2025-07-20,19:39,Noodles,5,285,Card,4,1425,1823,Male,43,KFC,North Indian,57,48,1434,50,Pending
+1824,Priya,Tirunelveli,2025-02-14,16:21,Burger,3,253,UPI,4,759,1824,Female,30,Dominos,Fast Food,66,41,784,47,Pending
+1825,Karthik,Salem,2025-06-15,18:18,Burger,1,241,Card,2,241,1825,Female,21,Dominos,North Indian,95,2,334,49,Cancelled
+1826,Kumar,Chennai,2025-07-28,11:10,Dosa,5,297,UPI,4,1485,1826,Male,20,Hotel Saravana Bhavan,Chinese,61,22,1524,54,Pending
+1827,Arun,Madurai,2025-04-22,14:38,Biryani,5,244,Cash,4,1220,1827,Female,26,Pizza Hut,North Indian,91,15,1296,31,Pending
+1828,Suresh,Madurai,2025-07-06,15:49,Parotta,2,225,Cash,4,450,1828,Male,23,A2B,South Indian,95,18,527,17,Pending
+1829,Arun,Tirunelveli,2025-04-22,10:31,Biryani,4,288,UPI,2,1152,1829,Male,48,Dominos,North Indian,62,29,1185,45,Delivered
+1830,Karthik,Madurai,2025-11-06,15:02,Biryani,5,169,Cash,1,845,1830,Female,59,Pizza Hut,Fast Food,84,36,893,59,Cancelled
+1831,Suresh,Coimbatore,2025-03-08,16:25,Dosa,2,319,UPI,3,638,1831,Male,29,Hotel Saravana Bhavan,Fast Food,70,28,680,16,Cancelled
+1832,Arun,Tirunelveli,2025-10-09,12:20,Dosa,3,100,Card,3,300,1832,Female,20,A2B,Fast Food,27,48,279,27,Cancelled
+1833,Arun,Madurai,2025-09-27,11:06,Pizza,1,260,Card,2,260,1833,Male,24,KFC,Chinese,66,31,295,19,Pending
+1834,Ravi,Tirunelveli,2025-07-07,21:52,Fried Rice,2,330,UPI,2,660,1834,Female,27,Pizza Hut,Fast Food,38,3,695,34,Cancelled
+1835,Karthik,Chennai,2025-12-15,14:12,Shawarma,4,142,Card,4,568,1835,Male,37,KFC,Chinese,31,36,563,50,Delivered
+1836,Meena,Thoothukudi,2025-06-17,10:35,Noodles,2,190,UPI,3,380,1836,Female,28,Hotel Saravana Bhavan,North Indian,75,25,430,25,Pending
+1837,Priya,Chennai,2025-03-08,10:41,Fried Rice,3,161,Card,4,483,1837,Male,44,Dominos,Fast Food,59,9,533,48,Pending
+1838,Ravi,Trichy,2025-10-04,11:25,Shawarma,4,123,Card,1,492,1838,Female,25,Hotel Saravana Bhavan,South Indian,48,40,500,39,Pending
+1839,Priya,Thoothukudi,2025-04-06,10:38,Parotta,2,246,Cash,5,492,1839,Female,37,A2B,South Indian,84,41,535,43,Delivered
+1840,Kumar,Chennai,2025-04-20,12:20,Fried Rice,1,233,UPI,2,233,1840,Male,19,Pizza Hut,Fast Food,32,36,229,57,Delivered
+1841,Meena,Tirunelveli,2025-12-18,15:06,Fried Rice,5,282,UPI,1,1410,1841,Male,57,KFC,Chinese,81,16,1475,40,Cancelled
+1842,Vijay,Tirunelveli,2025-07-27,21:55,Biryani,3,113,Card,4,339,1842,Male,50,Pizza Hut,South Indian,35,16,358,28,Delivered
+1843,Divya,Thoothukudi,2025-02-24,14:24,Fried Rice,5,205,Card,3,1025,1843,Female,21,Pizza Hut,Chinese,81,48,1058,37,Pending
+1844,Kumar,Thoothukudi,2025-05-14,16:20,Parotta,5,178,Cash,5,890,1844,Male,23,A2B,Chinese,20,34,876,30,Cancelled
+1845,Anitha,Chennai,2025-01-02,10:17,Noodles,1,291,UPI,1,291,1845,Male,28,Pizza Hut,South Indian,81,19,353,51,Cancelled
+1846,Kumar,Madurai,2025-08-17,22:50,Parotta,5,323,Cash,2,1615,1846,Male,29,Dominos,Fast Food,53,17,1651,17,Pending
+1847,Kumar,Coimbatore,2025-10-27,19:09,Fried Rice,3,206,UPI,5,618,1847,Male,39,Hotel Saravana Bhavan,Fast Food,62,37,643,21,Cancelled
+1848,Karthik,Trichy,2025-06-26,10:04,Biryani,1,155,UPI,2,155,1848,Male,50,Hotel Saravana Bhavan,North Indian,67,18,204,28,Pending
+1849,Meena,Chennai,2025-12-03,21:32,Shawarma,3,236,Card,1,708,1849,Female,55,Hotel Saravana Bhavan,North Indian,84,5,787,47,Pending
+1850,Kumar,Tirunelveli,2025-04-27,14:44,Burger,5,111,UPI,1,555,1850,Male,57,Dominos,South Indian,41,1,595,21,Cancelled
+1851,Suresh,Coimbatore,2025-08-05,17:45,Pizza,3,93,Card,2,279,1851,Female,21,Pizza Hut,Fast Food,60,9,330,23,Delivered
+1852,Kumar,Salem,2025-06-14,22:37,Burger,5,188,UPI,5,940,1852,Male,42,A2B,Chinese,62,42,960,43,Delivered
+1853,Karthik,Thoothukudi,2025-09-22,20:48,Shawarma,4,325,Card,5,1300,1853,Female,39,KFC,North Indian,84,1,1383,23,Pending
+1854,Kumar,Chennai,2025-11-07,18:26,Dosa,4,199,Cash,3,796,1854,Female,38,KFC,Fast Food,20,17,799,57,Delivered
+1855,Divya,Tirunelveli,2025-01-16,17:54,Shawarma,2,165,UPI,5,330,1855,Male,55,Pizza Hut,North Indian,48,47,331,40,Pending
+1856,Divya,Coimbatore,2025-05-09,19:46,Parotta,1,269,Cash,3,269,1856,Male,41,Hotel Saravana Bhavan,Chinese,79,4,344,49,Cancelled
+1857,Divya,Trichy,2025-02-12,22:18,Shawarma,3,102,Cash,1,306,1857,Male,42,Dominos,North Indian,92,40,358,50,Delivered
+1858,Meena,Salem,2025-04-18,19:34,Dosa,5,164,UPI,1,820,1858,Male,57,KFC,Fast Food,89,24,885,50,Cancelled
+1859,Divya,Chennai,2025-10-22,11:21,Biryani,5,299,Cash,2,1495,1859,Female,38,A2B,North Indian,34,28,1501,39,Pending
+1860,Vijay,Salem,2025-03-22,17:58,Fried Rice,4,234,UPI,2,936,1860,Female,51,Hotel Saravana Bhavan,South Indian,76,29,983,19,Pending
+1861,Divya,Madurai,2025-02-25,15:26,Burger,3,170,UPI,5,510,1861,Male,25,Pizza Hut,South Indian,92,23,579,32,Pending
+1862,Divya,Trichy,2025-05-07,11:08,Pizza,4,222,Card,1,888,1862,Female,47,Hotel Saravana Bhavan,North Indian,95,46,937,57,Delivered
+1863,Vijay,Trichy,2025-09-04,13:11,Burger,5,249,UPI,1,1245,1863,Female,31,Hotel Saravana Bhavan,Fast Food,25,4,1266,23,Pending
+1864,Vijay,Thoothukudi,2025-07-18,10:08,Noodles,4,114,Cash,2,456,1864,Female,24,Pizza Hut,Chinese,92,35,513,36,Pending
+1865,Divya,Chennai,2025-01-12,21:40,Biryani,3,90,UPI,5,270,1865,Female,30,A2B,Chinese,28,40,258,37,Pending
+1866,Meena,Coimbatore,2025-10-20,14:30,Fried Rice,2,309,Card,3,618,1866,Female,44,KFC,North Indian,88,0,706,57,Delivered
+1867,Ravi,Thoothukudi,2025-04-13,13:11,Shawarma,4,252,Card,4,1008,1867,Male,30,Dominos,Chinese,83,37,1054,52,Delivered
+1868,Ravi,Salem,2025-01-10,20:42,Shawarma,4,318,Card,4,1272,1868,Male,56,KFC,Fast Food,82,2,1352,19,Cancelled
+1869,Priya,Coimbatore,2025-07-28,10:54,Biryani,5,99,UPI,5,495,1869,Female,20,Dominos,Chinese,25,5,515,52,Cancelled
+1870,Kumar,Tirunelveli,2025-02-17,12:17,Parotta,1,285,Cash,2,285,1870,Female,27,Hotel Saravana Bhavan,South Indian,25,35,275,57,Delivered
+1871,Divya,Salem,2025-05-17,20:59,Burger,5,125,UPI,4,625,1871,Female,21,Hotel Saravana Bhavan,South Indian,43,29,639,48,Cancelled
+1872,Vijay,Chennai,2025-01-25,13:36,Shawarma,5,344,Cash,1,1720,1872,Female,22,KFC,North Indian,61,8,1773,17,Cancelled
+1873,Anitha,Salem,2025-03-20,20:42,Biryani,4,336,UPI,5,1344,1873,Female,38,Hotel Saravana Bhavan,Chinese,91,11,1424,22,Pending
+1874,Vijay,Trichy,2025-06-11,16:08,Fried Rice,4,104,Card,1,416,1874,Male,55,Hotel Saravana Bhavan,North Indian,27,3,440,29,Pending
+1875,Ravi,Thoothukudi,2025-12-09,18:25,Noodles,4,133,UPI,3,532,1875,Male,47,A2B,South Indian,41,27,546,54,Pending
+1876,Meena,Coimbatore,2025-11-25,15:11,Fried Rice,2,271,UPI,2,542,1876,Female,43,KFC,Chinese,55,2,595,28,Delivered
+1877,Kumar,Coimbatore,2025-02-23,17:45,Shawarma,2,113,UPI,3,226,1877,Male,19,Hotel Saravana Bhavan,Chinese,57,12,271,52,Cancelled
+1878,Vijay,Coimbatore,2025-10-16,13:50,Noodles,2,257,Cash,3,514,1878,Male,54,A2B,Fast Food,35,7,542,40,Cancelled
+1879,Anitha,Chennai,2025-05-07,22:03,Shawarma,5,246,Card,5,1230,1879,Female,42,Dominos,Chinese,37,4,1263,56,Delivered
+1880,Meena,Chennai,2025-07-17,22:25,Shawarma,3,111,Card,3,333,1880,Male,41,A2B,North Indian,37,23,347,15,Cancelled
+1881,Arun,Chennai,2025-04-17,13:20,Parotta,2,332,UPI,1,664,1881,Female,27,Dominos,North Indian,58,10,712,22,Delivered
+1882,Divya,Salem,2025-02-24,20:59,Shawarma,4,275,Card,1,1100,1882,Male,51,A2B,South Indian,56,14,1142,31,Cancelled
+1883,Anitha,Thoothukudi,2025-09-10,19:00,Dosa,4,215,UPI,4,860,1883,Female,36,Hotel Saravana Bhavan,Fast Food,27,5,882,27,Cancelled
+1884,Karthik,Coimbatore,2025-08-19,22:01,Dosa,1,332,UPI,5,332,1884,Female,30,A2B,North Indian,21,39,314,52,Delivered
+1885,Anitha,Chennai,2025-08-19,14:14,Dosa,5,143,Card,1,715,1885,Male,21,Pizza Hut,Chinese,60,48,727,54,Pending
+1886,Suresh,Trichy,2025-03-01,14:19,Dosa,1,95,UPI,3,95,1886,Male,30,Dominos,Chinese,98,11,182,30,Pending
+1887,Ravi,Madurai,2025-05-10,22:31,Parotta,3,148,Card,2,444,1887,Male,39,Pizza Hut,Fast Food,36,7,473,26,Pending
+1888,Vijay,Tirunelveli,2025-10-24,17:24,Biryani,4,349,Card,3,1396,1888,Male,39,KFC,South Indian,60,33,1423,15,Cancelled
+1889,Karthik,Trichy,2025-02-19,10:01,Noodles,4,236,Cash,3,944,1889,Male,55,Hotel Saravana Bhavan,Chinese,47,41,950,39,Pending
+1890,Ravi,Chennai,2025-12-11,19:25,Fried Rice,2,279,Cash,5,558,1890,Female,21,Hotel Saravana Bhavan,North Indian,34,10,582,17,Pending
+1891,Ravi,Tirunelveli,2025-11-23,13:39,Dosa,5,123,Cash,5,615,1891,Female,55,Pizza Hut,South Indian,58,42,631,35,Cancelled
+1892,Divya,Chennai,2025-09-04,13:18,Fried Rice,3,162,Cash,1,486,1892,Female,39,A2B,South Indian,82,36,532,24,Cancelled
+1893,Suresh,Trichy,2025-02-11,14:40,Fried Rice,4,112,Cash,2,448,1893,Male,50,Pizza Hut,Fast Food,30,14,464,44,Delivered
+1894,Meena,Thoothukudi,2025-06-27,21:22,Dosa,2,291,Card,2,582,1894,Female,39,A2B,North Indian,59,30,611,17,Cancelled
+1895,Kumar,Salem,2025-05-17,20:55,Biryani,1,287,Cash,4,287,1895,Female,24,Pizza Hut,North Indian,23,39,271,31,Delivered
+1896,Anitha,Chennai,2025-01-01,18:45,Dosa,3,241,Cash,2,723,1896,Female,46,Hotel Saravana Bhavan,North Indian,42,46,719,38,Pending
+1897,Divya,Chennai,2025-03-25,13:17,Burger,2,243,Cash,2,486,1897,Male,24,A2B,Chinese,23,46,463,51,Delivered
+1898,Ravi,Madurai,2025-08-09,12:31,Noodles,1,181,UPI,5,181,1898,Female,27,Pizza Hut,Chinese,94,44,231,32,Delivered
+1899,Karthik,Thoothukudi,2025-11-23,17:59,Fried Rice,1,133,UPI,1,133,1899,Female,36,A2B,North Indian,94,44,183,38,Delivered
+1900,Karthik,Coimbatore,2025-03-01,22:56,Fried Rice,5,320,Card,1,1600,1900,Female,36,A2B,Fast Food,23,33,1590,25,Cancelled
+1901,Vijay,Coimbatore,2025-06-11,11:45,Fried Rice,4,204,Cash,1,816,1901,Female,55,A2B,Fast Food,51,24,843,35,Cancelled
+1902,Priya,Thoothukudi,2025-01-27,20:01,Biryani,5,124,Card,3,620,1902,Female,40,Dominos,South Indian,85,1,704,32,Pending
+1903,Suresh,Thoothukudi,2025-02-01,10:08,Parotta,1,299,Card,1,299,1903,Male,37,Hotel Saravana Bhavan,South Indian,29,23,305,25,Pending
+1904,Suresh,Trichy,2025-09-13,11:26,Fried Rice,4,266,UPI,4,1064,1904,Female,18,Dominos,Fast Food,82,45,1101,45,Cancelled
+1905,Anitha,Madurai,2025-02-20,10:27,Biryani,2,144,Cash,5,288,1905,Female,40,Hotel Saravana Bhavan,Fast Food,99,42,345,50,Pending
+1906,Ravi,Chennai,2025-11-04,14:43,Fried Rice,3,270,UPI,1,810,1906,Male,49,KFC,North Indian,34,21,823,56,Pending
+1907,Anitha,Chennai,2025-09-24,10:36,Pizza,1,278,Cash,2,278,1907,Male,52,Pizza Hut,Chinese,60,22,316,18,Cancelled
+1908,Anitha,Salem,2025-11-11,21:49,Noodles,4,328,Cash,3,1312,1908,Female,28,Hotel Saravana Bhavan,Fast Food,60,33,1339,41,Pending
+1909,Meena,Trichy,2025-12-03,13:45,Shawarma,1,149,Card,5,149,1909,Female,36,Hotel Saravana Bhavan,Chinese,73,27,195,36,Pending
+1910,Meena,Trichy,2025-02-23,10:18,Biryani,1,274,Card,3,274,1910,Female,37,Dominos,South Indian,21,7,288,43,Cancelled
+1911,Arun,Tirunelveli,2025-11-15,12:57,Biryani,3,133,Card,1,399,1911,Female,31,Hotel Saravana Bhavan,South Indian,87,12,474,27,Delivered
+1912,Anitha,Thoothukudi,2025-03-11,14:43,Burger,1,103,UPI,5,103,1912,Female,53,KFC,South Indian,66,40,129,45,Delivered
+1913,Kumar,Tirunelveli,2025-04-24,20:27,Noodles,1,217,UPI,3,217,1913,Female,33,A2B,Fast Food,76,30,263,43,Pending
+1914,Vijay,Tirunelveli,2025-02-12,12:39,Shawarma,3,307,Card,2,921,1914,Male,18,KFC,Fast Food,97,13,1005,41,Delivered
+1915,Vijay,Madurai,2025-04-18,20:19,Noodles,4,294,UPI,3,1176,1915,Male,18,Hotel Saravana Bhavan,South Indian,86,24,1238,15,Delivered
+1916,Suresh,Madurai,2025-04-01,14:42,Noodles,4,130,UPI,2,520,1916,Female,42,A2B,Fast Food,58,46,532,46,Pending
+1917,Arun,Trichy,2025-05-27,21:30,Shawarma,2,188,Cash,3,376,1917,Female,22,KFC,Fast Food,43,33,386,41,Delivered
+1918,Vijay,Salem,2025-11-01,12:06,Parotta,5,230,UPI,2,1150,1918,Male,49,Dominos,North Indian,46,17,1179,33,Cancelled
+1919,Ravi,Chennai,2025-02-05,10:57,Parotta,2,249,UPI,4,498,1919,Female,37,Pizza Hut,Chinese,87,21,564,55,Delivered
+1920,Vijay,Thoothukudi,2025-12-28,14:19,Parotta,1,231,Card,4,231,1920,Female,55,Pizza Hut,North Indian,89,49,271,20,Delivered
+1921,Karthik,Tirunelveli,2025-03-16,21:43,Fried Rice,2,302,Cash,2,604,1921,Male,22,KFC,South Indian,91,39,656,54,Cancelled
+1922,Ravi,Madurai,2025-07-02,22:51,Pizza,4,327,UPI,2,1308,1922,Female,46,Pizza Hut,South Indian,68,26,1350,42,Pending
+1923,Meena,Thoothukudi,2025-03-13,11:46,Burger,3,274,Cash,3,822,1923,Male,22,Pizza Hut,Chinese,72,4,890,57,Cancelled
+1924,Kumar,Coimbatore,2025-06-21,11:12,Parotta,5,173,Card,5,865,1924,Female,55,Hotel Saravana Bhavan,South Indian,35,38,862,19,Cancelled
+1925,Kumar,Thoothukudi,2025-07-17,19:51,Parotta,1,229,UPI,1,229,1925,Male,26,A2B,South Indian,32,11,250,56,Delivered
+1926,Ravi,Tirunelveli,2025-11-03,14:36,Biryani,4,316,Cash,2,1264,1926,Female,19,Dominos,Fast Food,85,5,1344,29,Cancelled
+1927,Suresh,Chennai,2025-02-11,17:20,Dosa,3,288,UPI,2,864,1927,Male,20,KFC,Fast Food,28,2,890,33,Cancelled
+1928,Meena,Trichy,2025-02-20,12:05,Noodles,1,246,Cash,1,246,1928,Female,59,Hotel Saravana Bhavan,Fast Food,81,11,316,34,Cancelled
+1929,Karthik,Salem,2025-04-15,15:40,Fried Rice,1,197,Cash,1,197,1929,Male,32,Hotel Saravana Bhavan,South Indian,65,35,227,27,Delivered
+1930,Ravi,Coimbatore,2025-08-03,11:16,Noodles,1,182,UPI,2,182,1930,Female,57,A2B,Chinese,78,13,247,33,Pending
+1931,Karthik,Tirunelveli,2025-07-28,20:46,Noodles,5,256,Card,4,1280,1931,Female,38,Hotel Saravana Bhavan,North Indian,54,12,1322,43,Cancelled
+1932,Anitha,Tirunelveli,2025-11-05,12:13,Pizza,1,133,Cash,1,133,1932,Female,32,Pizza Hut,North Indian,63,6,190,22,Delivered
+1933,Karthik,Tirunelveli,2025-02-22,17:39,Biryani,4,138,Card,3,552,1933,Female,20,Hotel Saravana Bhavan,Fast Food,53,29,576,16,Pending
+1934,Suresh,Thoothukudi,2025-11-10,12:26,Fried Rice,1,282,Cash,4,282,1934,Male,58,Pizza Hut,Chinese,30,41,271,52,Cancelled
+1935,Meena,Thoothukudi,2025-09-18,22:32,Fried Rice,4,146,Cash,1,584,1935,Female,26,Hotel Saravana Bhavan,South Indian,21,9,596,58,Pending
+1936,Arun,Coimbatore,2025-10-06,20:05,Noodles,4,307,Cash,1,1228,1936,Female,45,A2B,Fast Food,21,33,1216,57,Pending
+1937,Meena,Tirunelveli,2025-06-11,22:17,Noodles,5,234,Cash,1,1170,1937,Male,21,KFC,Fast Food,96,36,1230,15,Pending
+1938,Kumar,Salem,2025-12-16,22:48,Shawarma,4,294,Card,3,1176,1938,Male,25,Dominos,Fast Food,99,38,1237,43,Delivered
+1939,Karthik,Salem,2025-04-23,22:09,Noodles,5,335,Cash,5,1675,1939,Female,22,KFC,South Indian,74,31,1718,22,Delivered
+1940,Meena,Madurai,2025-01-02,13:40,Fried Rice,5,207,Card,2,1035,1940,Female,35,A2B,South Indian,92,39,1088,51,Pending
+1941,Karthik,Thoothukudi,2025-01-15,16:47,Burger,1,295,Cash,4,295,1941,Male,38,A2B,Fast Food,33,25,303,22,Cancelled
+1942,Vijay,Coimbatore,2025-02-14,11:00,Pizza,1,231,Cash,2,231,1942,Female,28,A2B,Chinese,96,39,288,53,Pending
+1943,Arun,Tirunelveli,2025-01-23,19:36,Fried Rice,2,203,UPI,5,406,1943,Female,45,Pizza Hut,Fast Food,72,24,454,31,Pending
+1944,Karthik,Tirunelveli,2025-02-20,14:30,Dosa,2,147,Cash,5,294,1944,Male,40,Dominos,North Indian,76,3,367,28,Cancelled
+1945,Suresh,Thoothukudi,2025-06-15,12:30,Shawarma,4,96,UPI,5,384,1945,Male,23,Hotel Saravana Bhavan,Chinese,74,10,448,27,Cancelled
+1946,Arun,Thoothukudi,2025-03-07,15:50,Pizza,3,119,Card,3,357,1946,Female,35,Dominos,North Indian,62,48,371,22,Pending
+1947,Anitha,Chennai,2025-06-06,16:05,Shawarma,5,294,UPI,3,1470,1947,Female,54,KFC,Fast Food,32,24,1478,22,Delivered
+1948,Kumar,Thoothukudi,2025-04-01,18:56,Fried Rice,4,168,Card,2,672,1948,Female,53,KFC,Chinese,88,23,737,25,Cancelled
+1949,Anitha,Tirunelveli,2025-05-03,18:34,Parotta,2,198,Cash,3,396,1949,Male,23,Hotel Saravana Bhavan,South Indian,81,5,472,18,Pending
+1950,Arun,Madurai,2025-09-27,10:21,Pizza,3,223,UPI,2,669,1950,Female,23,A2B,North Indian,49,23,695,26,Cancelled
+1951,Anitha,Trichy,2025-09-22,14:40,Burger,2,164,Cash,2,328,1951,Male,28,Hotel Saravana Bhavan,South Indian,65,8,385,34,Delivered
+1952,Vijay,Trichy,2025-04-17,13:21,Burger,5,266,UPI,1,1330,1952,Male,58,KFC,North Indian,60,8,1382,27,Cancelled
+1953,Divya,Coimbatore,2025-02-25,17:20,Burger,3,342,Cash,3,1026,1953,Male,22,Hotel Saravana Bhavan,Fast Food,33,33,1026,50,Delivered
+1954,Anitha,Tirunelveli,2025-01-16,21:02,Parotta,2,297,Cash,1,594,1954,Female,52,Pizza Hut,North Indian,61,45,610,53,Delivered
+1955,Kumar,Salem,2025-08-02,19:00,Pizza,1,177,Cash,1,177,1955,Male,43,Dominos,Fast Food,20,7,190,19,Delivered
+1956,Vijay,Thoothukudi,2025-06-26,20:15,Shawarma,4,261,UPI,5,1044,1956,Female,22,KFC,Chinese,97,33,1108,17,Cancelled
+1957,Priya,Chennai,2025-05-13,14:54,Parotta,4,96,Card,2,384,1957,Male,46,Dominos,South Indian,76,6,454,58,Pending
+1958,Kumar,Coimbatore,2025-02-12,19:01,Fried Rice,4,277,Cash,3,1108,1958,Female,39,Hotel Saravana Bhavan,Chinese,40,21,1127,32,Pending
+1959,Arun,Tirunelveli,2025-02-09,14:07,Parotta,2,241,UPI,3,482,1959,Female,40,Hotel Saravana Bhavan,Chinese,71,20,533,17,Delivered
+1960,Suresh,Salem,2025-06-27,21:09,Biryani,2,116,Cash,2,232,1960,Male,54,KFC,South Indian,38,18,252,40,Delivered
+1961,Vijay,Chennai,2025-12-21,17:19,Biryani,2,149,Card,5,298,1961,Male,32,Pizza Hut,North Indian,78,47,329,37,Delivered
+1962,Arun,Salem,2025-01-10,19:12,Shawarma,4,167,UPI,3,668,1962,Female,39,A2B,Chinese,96,48,716,34,Pending
+1963,Suresh,Trichy,2025-08-24,19:32,Shawarma,4,298,Card,1,1192,1963,Female,22,A2B,Chinese,33,35,1190,44,Delivered
+1964,Kumar,Tirunelveli,2025-02-25,16:44,Biryani,1,272,UPI,1,272,1964,Male,22,A2B,South Indian,44,17,299,17,Delivered
+1965,Ravi,Chennai,2025-02-13,19:38,Burger,1,277,UPI,2,277,1965,Male,54,Hotel Saravana Bhavan,South Indian,28,29,276,29,Pending
+1966,Karthik,Salem,2025-03-19,18:41,Dosa,4,132,UPI,4,528,1966,Male,48,Pizza Hut,Fast Food,38,47,519,18,Delivered
+1967,Meena,Thoothukudi,2025-04-05,12:05,Noodles,4,199,UPI,5,796,1967,Male,29,Hotel Saravana Bhavan,Fast Food,77,10,863,40,Cancelled
+1968,Meena,Madurai,2025-06-17,21:58,Pizza,5,239,UPI,2,1195,1968,Male,29,KFC,North Indian,36,30,1201,26,Delivered
+1969,Karthik,Coimbatore,2025-04-23,17:20,Burger,2,165,UPI,1,330,1969,Male,24,Dominos,Fast Food,77,21,386,48,Pending
+1970,Priya,Madurai,2025-06-09,19:34,Pizza,3,106,Cash,1,318,1970,Male,30,A2B,Fast Food,84,14,388,44,Pending
+1971,Anitha,Tirunelveli,2025-05-27,22:11,Biryani,1,94,UPI,3,94,1971,Male,18,Hotel Saravana Bhavan,South Indian,76,41,129,46,Pending
+1972,Ravi,Thoothukudi,2025-07-09,17:09,Noodles,2,195,UPI,1,390,1972,Female,35,KFC,Fast Food,81,36,435,39,Pending
+1973,Suresh,Chennai,2025-04-19,16:35,Dosa,3,249,Card,1,747,1973,Female,54,Dominos,Chinese,28,42,733,59,Delivered
+1974,Priya,Madurai,2025-09-20,10:42,Fried Rice,1,225,Card,3,225,1974,Female,57,Dominos,South Indian,58,37,246,42,Cancelled
+1975,Kumar,Trichy,2025-04-28,10:40,Burger,3,216,Card,2,648,1975,Male,41,Dominos,North Indian,33,45,636,57,Cancelled
+1976,Kumar,Thoothukudi,2025-03-11,13:05,Noodles,2,139,UPI,2,278,1976,Male,36,Dominos,North Indian,55,25,308,17,Pending
+1977,Meena,Chennai,2025-03-27,21:53,Pizza,2,215,UPI,2,430,1977,Male,53,A2B,South Indian,21,11,440,25,Cancelled
+1978,Kumar,Tirunelveli,2025-10-01,16:51,Parotta,2,341,UPI,5,682,1978,Female,43,Hotel Saravana Bhavan,North Indian,28,26,684,54,Pending
+1979,Divya,Coimbatore,2025-10-16,18:28,Fried Rice,2,342,Cash,2,684,1979,Female,26,KFC,Fast Food,21,44,661,29,Pending
+1980,Anitha,Trichy,2025-03-24,11:12,Dosa,3,117,UPI,5,351,1980,Male,47,KFC,South Indian,83,46,388,30,Pending
+1981,Suresh,Salem,2025-04-17,13:05,Biryani,5,243,Card,3,1215,1981,Male,20,KFC,Chinese,70,18,1267,28,Delivered
+1982,Vijay,Thoothukudi,2025-11-20,13:33,Fried Rice,4,277,Cash,4,1108,1982,Female,41,Pizza Hut,Fast Food,93,13,1188,39,Pending
+1983,Karthik,Thoothukudi,2025-10-01,12:54,Shawarma,3,148,Card,4,444,1983,Male,49,KFC,Fast Food,88,36,496,54,Pending
+1984,Ravi,Tirunelveli,2025-11-23,20:09,Dosa,2,291,Card,1,582,1984,Male,48,Pizza Hut,Chinese,59,41,600,46,Cancelled
+1985,Kumar,Coimbatore,2025-03-04,15:17,Noodles,3,274,UPI,2,822,1985,Male,18,Hotel Saravana Bhavan,South Indian,49,44,827,38,Pending
+1986,Divya,Madurai,2025-09-20,19:36,Dosa,1,212,Cash,3,212,1986,Male,42,Dominos,South Indian,75,36,251,49,Delivered
+1987,Arun,Chennai,2025-01-23,17:55,Fried Rice,5,123,UPI,2,615,1987,Female,29,A2B,Fast Food,63,40,638,19,Pending
+1988,Divya,Trichy,2025-06-13,12:33,Fried Rice,4,82,UPI,5,328,1988,Male,19,A2B,Chinese,63,26,365,53,Pending
+1989,Suresh,Salem,2025-10-23,20:17,Biryani,2,138,Cash,1,276,1989,Male,28,Hotel Saravana Bhavan,Fast Food,61,13,324,31,Pending
+1990,Priya,Salem,2025-01-28,17:12,Noodles,4,236,UPI,5,944,1990,Male,48,Pizza Hut,North Indian,29,6,967,34,Pending
+1991,Ravi,Madurai,2025-10-19,16:17,Fried Rice,5,271,Card,3,1355,1991,Male,38,Pizza Hut,Chinese,76,41,1390,56,Pending
+1992,Ravi,Coimbatore,2025-03-19,15:49,Noodles,2,349,UPI,2,698,1992,Male,45,A2B,Chinese,80,49,729,23,Cancelled
+1993,Meena,Trichy,2025-12-27,13:48,Burger,3,184,Cash,5,552,1993,Female,43,A2B,Chinese,95,17,630,37,Pending
+1994,Arun,Salem,2025-11-19,16:56,Burger,1,349,Cash,1,349,1994,Male,31,A2B,South Indian,84,36,397,34,Cancelled
+1995,Suresh,Trichy,2025-04-15,22:38,Pizza,5,181,UPI,2,905,1995,Female,24,Pizza Hut,North Indian,50,15,940,41,Cancelled
+1996,Priya,Salem,2025-11-27,15:06,Shawarma,1,282,Card,3,282,1996,Female,49,Hotel Saravana Bhavan,Fast Food,42,23,301,49,Delivered
+1997,Divya,Madurai,2025-09-28,10:07,Shawarma,5,99,Card,5,495,1997,Female,43,A2B,South Indian,59,33,521,26,Delivered
+1998,Anitha,Salem,2025-09-18,11:39,Pizza,3,289,Card,3,867,1998,Female,31,Pizza Hut,Fast Food,48,16,899,57,Delivered
+1999,Suresh,Trichy,2025-01-10,20:38,Dosa,3,165,Cash,3,495,1999,Female,45,KFC,North Indian,21,20,496,29,Delivered
+2000,Meena,Salem,2025-09-27,20:43,Biryani,5,294,Cash,1,1470,2000,Female,56,KFC,North Indian,50,40,1480,20,Pending

@@ -1,0 +1,1001 @@
+Order_ID,Customer_Name,City,Order_Date,Order_Time,Food_Item,Quantity,Price,Payment_Mode,Customer_Rating
+1001,Anitha,Trichy,2025-12-26,15:09,Noodles,2,293,Cash,3
+1002,Ravi,Thoothukudi,2025-12-05,11:30,Noodles,5,288,UPI,1
+1003,Ravi,Coimbatore,2025-03-23,11:53,Biryani,5,146,Cash,4
+1004,Vijay,Salem,2025-08-07,11:29,Parotta,3,99,Cash,2
+1005,Priya,Madurai,2025-03-07,12:06,Dosa,2,313,UPI,4
+1006,Meena,Coimbatore,2025-11-20,19:20,Shawarma,5,273,UPI,1
+1007,Anitha,Salem,2025-09-16,12:43,Biryani,1,324,Card,3
+1008,Priya,Chennai,2025-10-15,11:35,Shawarma,3,170,Cash,2
+1009,Suresh,Chennai,2025-02-04,20:57,Dosa,1,324,Cash,5
+1010,Kumar,Tirunelveli,2025-09-05,14:53,Pizza,2,213,UPI,3
+1011,Divya,Coimbatore,2025-05-28,22:10,Fried Rice,1,223,Card,4
+1012,Suresh,Trichy,2025-03-04,20:35,Fried Rice,5,237,Cash,4
+1013,Ravi,Chennai,2025-09-04,21:49,Parotta,2,328,Card,2
+1014,Arun,Trichy,2025-09-12,22:47,Dosa,2,142,Cash,1
+1015,Karthik,Thoothukudi,2025-11-08,11:07,Burger,3,237,UPI,3
+1016,Karthik,Thoothukudi,2025-10-17,11:42,Burger,2,185,Cash,4
+1017,Divya,Madurai,2025-10-17,19:04,Dosa,4,173,Card,4
+1018,Ravi,Coimbatore,2025-05-12,19:04,Burger,4,341,UPI,4
+1019,Karthik,Tirunelveli,2025-04-13,22:27,Fried Rice,4,182,Cash,2
+1020,Kumar,Chennai,2025-06-19,20:54,Pizza,5,207,Card,3
+1021,Arun,Salem,2025-09-10,18:38,Pizza,3,157,UPI,4
+1022,Karthik,Chennai,2025-09-16,14:15,Noodles,4,114,UPI,1
+1023,Suresh,Chennai,2025-07-25,12:19,Noodles,4,209,Cash,2
+1024,Anitha,Trichy,2025-05-11,17:13,Shawarma,3,164,Card,3
+1025,Karthik,Salem,2025-12-04,10:18,Dosa,3,216,Card,5
+1026,Meena,Coimbatore,2025-01-12,11:32,Burger,4,241,Cash,1
+1027,Vijay,Salem,2025-01-04,17:43,Shawarma,5,102,Card,5
+1028,Anitha,Coimbatore,2025-02-10,10:26,Fried Rice,4,167,Cash,5
+1029,Kumar,Trichy,2025-03-26,11:05,Burger,4,225,Cash,2
+1030,Karthik,Chennai,2025-06-26,18:36,Shawarma,3,261,Card,3
+1031,Karthik,Coimbatore,2025-11-12,10:14,Shawarma,5,98,Cash,2
+1032,Vijay,Coimbatore,2025-04-13,12:35,Burger,3,181,Cash,2
+1033,Divya,Madurai,2025-12-09,18:53,Noodles,5,284,Cash,4
+1034,Divya,Tirunelveli,2025-08-04,18:44,Biryani,4,206,Card,5
+1035,Suresh,Thoothukudi,2025-12-28,18:22,Biryani,5,168,UPI,1
+1036,Divya,Chennai,2025-11-23,11:21,Fried Rice,3,239,Cash,5
+1037,Priya,Madurai,2025-01-28,10:02,Fried Rice,5,335,UPI,4
+1038,Kumar,Thoothukudi,2025-06-20,19:11,Pizza,3,172,Cash,2
+1039,Divya,Chennai,2025-06-01,21:54,Fried Rice,5,269,Cash,3
+1040,Arun,Coimbatore,2025-03-24,11:44,Shawarma,3,307,Card,4
+1041,Vijay,Trichy,2025-07-05,19:00,Biryani,2,283,Cash,5
+1042,Divya,Salem,2025-02-05,19:25,Noodles,1,196,Cash,1
+1043,Ravi,Chennai,2025-01-12,20:56,Shawarma,1,138,Card,2
+1044,Meena,Tirunelveli,2025-02-21,22:06,Dosa,5,212,UPI,5
+1045,Arun,Trichy,2025-03-24,21:34,Biryani,1,190,Card,2
+1046,Meena,Trichy,2025-07-04,20:29,Parotta,1,97,UPI,2
+1047,Vijay,Tirunelveli,2025-02-12,10:45,Shawarma,5,82,UPI,5
+1048,Ravi,Tirunelveli,2025-09-20,15:42,Fried Rice,1,129,UPI,1
+1049,Priya,Tirunelveli,2025-07-25,18:14,Pizza,1,223,UPI,4
+1050,Priya,Thoothukudi,2025-05-11,22:09,Dosa,5,332,UPI,2
+1051,Meena,Chennai,2025-02-21,17:04,Burger,1,315,UPI,4
+1052,Vijay,Tirunelveli,2025-05-05,19:14,Shawarma,5,219,UPI,5
+1053,Meena,Madurai,2025-01-28,13:13,Biryani,5,170,UPI,5
+1054,Vijay,Salem,2025-04-09,17:15,Shawarma,1,292,Card,1
+1055,Arun,Coimbatore,2025-10-14,18:44,Fried Rice,4,109,UPI,3
+1056,Vijay,Trichy,2025-12-21,16:30,Biryani,1,103,UPI,2
+1057,Ravi,Coimbatore,2025-10-20,15:12,Shawarma,5,252,Card,1
+1058,Arun,Thoothukudi,2025-07-28,17:51,Fried Rice,1,230,Card,5
+1059,Divya,Coimbatore,2025-01-06,19:58,Pizza,5,346,Cash,2
+1060,Anitha,Thoothukudi,2025-01-17,17:15,Fried Rice,3,348,Cash,4
+1061,Ravi,Tirunelveli,2025-06-28,20:16,Parotta,2,192,Card,2
+1062,Karthik,Coimbatore,2025-08-18,21:54,Dosa,4,294,UPI,5
+1063,Anitha,Madurai,2025-07-15,21:28,Fried Rice,4,181,UPI,4
+1064,Ravi,Madurai,2025-12-21,12:47,Shawarma,2,230,Card,5
+1065,Anitha,Tirunelveli,2025-02-07,12:35,Fried Rice,4,184,Cash,1
+1066,Kumar,Trichy,2025-05-25,10:15,Biryani,4,285,Cash,3
+1067,Vijay,Coimbatore,2025-10-26,21:47,Dosa,3,164,Card,5
+1068,Priya,Salem,2025-12-17,20:16,Fried Rice,2,285,Card,2
+1069,Anitha,Chennai,2025-02-01,18:02,Fried Rice,5,146,UPI,2
+1070,Arun,Trichy,2025-12-26,20:39,Biryani,3,174,UPI,1
+1071,Meena,Tirunelveli,2025-02-10,12:21,Dosa,3,128,Card,2
+1072,Ravi,Salem,2025-10-01,21:14,Noodles,5,95,Cash,3
+1073,Priya,Salem,2025-03-20,17:49,Noodles,3,177,Card,5
+1074,Priya,Thoothukudi,2025-05-02,19:48,Parotta,4,186,Card,4
+1075,Ravi,Chennai,2025-08-10,13:33,Pizza,2,265,UPI,5
+1076,Meena,Tirunelveli,2025-05-17,16:46,Burger,1,171,UPI,2
+1077,Kumar,Tirunelveli,2025-06-22,21:47,Burger,3,325,Card,3
+1078,Priya,Tirunelveli,2025-05-07,16:20,Shawarma,5,254,Cash,3
+1079,Divya,Thoothukudi,2025-06-07,15:41,Burger,5,233,Card,2
+1080,Priya,Chennai,2025-02-10,19:57,Dosa,1,317,Cash,5
+1081,Meena,Thoothukudi,2025-09-20,11:56,Pizza,3,189,Card,5
+1082,Karthik,Trichy,2025-07-04,12:12,Biryani,2,322,UPI,3
+1083,Priya,Madurai,2025-07-04,11:31,Pizza,2,143,UPI,1
+1084,Suresh,Tirunelveli,2025-12-24,21:12,Burger,2,104,UPI,1
+1085,Anitha,Thoothukudi,2025-09-15,11:03,Shawarma,3,106,Cash,1
+1086,Meena,Madurai,2025-02-24,18:26,Fried Rice,3,193,UPI,4
+1087,Suresh,Trichy,2025-03-19,12:52,Noodles,2,85,Card,4
+1088,Kumar,Salem,2025-10-24,17:49,Burger,5,306,Card,3
+1089,Ravi,Madurai,2025-03-25,21:03,Burger,4,160,Cash,4
+1090,Divya,Coimbatore,2025-12-21,20:51,Biryani,5,114,Card,1
+1091,Priya,Trichy,2025-04-26,18:16,Parotta,3,177,Cash,3
+1092,Arun,Tirunelveli,2025-09-09,10:27,Burger,4,139,UPI,1
+1093,Arun,Salem,2025-10-11,19:47,Fried Rice,5,115,UPI,3
+1094,Kumar,Madurai,2025-04-17,13:41,Fried Rice,3,98,Card,1
+1095,Arun,Chennai,2025-02-15,17:13,Burger,2,169,Card,5
+1096,Ravi,Madurai,2025-11-03,19:10,Burger,3,166,Cash,2
+1097,Suresh,Tirunelveli,2025-12-16,16:51,Parotta,2,347,UPI,3
+1098,Priya,Tirunelveli,2025-02-22,15:06,Biryani,1,210,Cash,5
+1099,Suresh,Chennai,2025-12-11,19:53,Dosa,1,107,UPI,1
+1100,Suresh,Tirunelveli,2025-04-11,18:59,Shawarma,2,257,Cash,2
+1101,Priya,Trichy,2025-06-18,21:00,Burger,5,261,Cash,4
+1102,Divya,Thoothukudi,2025-06-11,10:39,Parotta,5,103,Card,5
+1103,Ravi,Tirunelveli,2025-08-26,14:11,Parotta,2,135,Cash,3
+1104,Divya,Thoothukudi,2025-03-14,15:00,Dosa,4,311,UPI,3
+1105,Arun,Chennai,2025-01-13,16:35,Burger,1,194,Card,3
+1106,Arun,Tirunelveli,2025-09-21,11:17,Dosa,3,244,Cash,1
+1107,Vijay,Madurai,2025-09-26,22:28,Pizza,1,187,Cash,5
+1108,Anitha,Chennai,2025-01-16,15:36,Pizza,4,287,Card,2
+1109,Anitha,Madurai,2025-08-12,22:48,Parotta,5,190,Cash,5
+1110,Suresh,Tirunelveli,2025-03-02,22:53,Dosa,3,230,Cash,2
+1111,Ravi,Madurai,2025-09-28,11:43,Parotta,4,152,Card,1
+1112,Suresh,Salem,2025-08-18,16:22,Noodles,5,218,UPI,1
+1113,Divya,Salem,2025-03-21,22:20,Noodles,2,209,Cash,3
+1114,Vijay,Tirunelveli,2025-12-04,11:00,Shawarma,5,268,UPI,2
+1115,Arun,Thoothukudi,2025-04-14,11:45,Noodles,5,221,Card,1
+1116,Suresh,Tirunelveli,2025-07-04,21:09,Parotta,3,343,UPI,1
+1117,Priya,Chennai,2025-03-25,13:43,Burger,2,114,UPI,1
+1118,Vijay,Chennai,2025-11-13,20:50,Noodles,4,289,UPI,4
+1119,Karthik,Madurai,2025-12-06,22:22,Fried Rice,1,287,UPI,2
+1120,Anitha,Coimbatore,2025-10-02,14:27,Noodles,3,246,Cash,5
+1121,Vijay,Chennai,2025-07-10,21:28,Dosa,3,86,Cash,1
+1122,Ravi,Coimbatore,2025-08-26,18:33,Parotta,3,103,Cash,4
+1123,Arun,Madurai,2025-10-02,11:40,Noodles,1,176,Card,5
+1124,Suresh,Madurai,2025-10-03,15:59,Pizza,3,235,UPI,5
+1125,Divya,Salem,2025-12-19,13:33,Shawarma,2,317,Cash,2
+1126,Vijay,Tirunelveli,2025-06-21,16:43,Parotta,1,316,Cash,2
+1127,Anitha,Chennai,2025-09-14,17:16,Shawarma,5,282,Cash,4
+1128,Ravi,Tirunelveli,2025-11-13,17:36,Pizza,3,253,Cash,5
+1129,Meena,Salem,2025-06-15,10:30,Dosa,1,111,Card,2
+1130,Ravi,Coimbatore,2025-12-10,19:42,Burger,1,166,Cash,3
+1131,Meena,Thoothukudi,2025-11-03,12:03,Biryani,2,132,Card,2
+1132,Suresh,Salem,2025-01-06,14:53,Parotta,2,210,Card,5
+1133,Meena,Madurai,2025-11-23,19:46,Burger,3,90,Card,3
+1134,Arun,Trichy,2025-11-26,22:05,Pizza,2,265,Cash,1
+1135,Vijay,Madurai,2025-05-09,22:09,Dosa,4,291,UPI,1
+1136,Kumar,Thoothukudi,2025-08-20,18:13,Burger,3,234,Cash,1
+1137,Suresh,Chennai,2025-01-02,21:19,Pizza,2,265,Card,5
+1138,Arun,Madurai,2025-05-20,14:53,Shawarma,1,159,Card,1
+1139,Ravi,Thoothukudi,2025-10-18,21:38,Shawarma,1,270,Card,2
+1140,Meena,Madurai,2025-03-27,11:51,Shawarma,5,155,Cash,3
+1141,Kumar,Chennai,2025-01-08,20:53,Burger,2,81,Cash,1
+1142,Arun,Chennai,2025-12-03,15:38,Fried Rice,3,145,UPI,1
+1143,Ravi,Tirunelveli,2025-12-18,16:44,Biryani,1,340,Card,4
+1144,Kumar,Thoothukudi,2025-08-27,11:44,Noodles,2,134,UPI,3
+1145,Ravi,Coimbatore,2025-07-15,20:01,Noodles,4,81,Card,2
+1146,Vijay,Madurai,2025-07-21,13:36,Shawarma,2,212,UPI,5
+1147,Vijay,Trichy,2025-07-21,10:36,Pizza,4,223,UPI,4
+1148,Meena,Salem,2025-12-16,10:57,Shawarma,4,243,UPI,1
+1149,Priya,Coimbatore,2025-04-19,15:39,Pizza,3,300,Card,4
+1150,Kumar,Thoothukudi,2025-06-27,19:02,Burger,3,228,Card,5
+1151,Karthik,Salem,2025-08-06,22:08,Biryani,1,247,Card,1
+1152,Anitha,Chennai,2025-08-05,21:52,Parotta,2,321,Cash,4
+1153,Divya,Madurai,2025-01-20,21:18,Parotta,5,344,Card,4
+1154,Karthik,Madurai,2025-11-03,22:19,Noodles,3,231,UPI,3
+1155,Divya,Chennai,2025-03-28,11:32,Burger,2,122,UPI,4
+1156,Priya,Coimbatore,2025-02-28,20:58,Fried Rice,5,188,UPI,1
+1157,Anitha,Salem,2025-02-19,18:02,Dosa,2,136,Cash,1
+1158,Divya,Madurai,2025-04-21,20:19,Shawarma,2,97,UPI,3
+1159,Karthik,Chennai,2025-02-16,19:31,Shawarma,3,207,UPI,3
+1160,Priya,Trichy,2025-03-14,13:35,Burger,1,160,Cash,5
+1161,Suresh,Chennai,2025-02-16,18:51,Pizza,1,177,UPI,5
+1162,Arun,Trichy,2025-06-13,10:13,Parotta,1,314,UPI,3
+1163,Suresh,Tirunelveli,2025-12-05,14:13,Biryani,3,155,Card,2
+1164,Anitha,Chennai,2025-03-02,12:58,Parotta,5,92,UPI,2
+1165,Kumar,Coimbatore,2025-10-02,17:39,Fried Rice,4,219,UPI,2
+1166,Priya,Chennai,2025-08-15,11:56,Fried Rice,1,251,Cash,5
+1167,Priya,Madurai,2025-05-13,16:16,Biryani,4,295,Cash,3
+1168,Suresh,Coimbatore,2025-07-25,19:46,Biryani,2,208,Card,4
+1169,Arun,Coimbatore,2025-12-01,12:06,Burger,1,143,Card,3
+1170,Priya,Thoothukudi,2025-01-17,15:27,Parotta,4,278,Cash,4
+1171,Kumar,Tirunelveli,2025-08-26,14:53,Pizza,5,141,Cash,3
+1172,Kumar,Madurai,2025-02-14,21:24,Dosa,4,289,Card,1
+1173,Divya,Coimbatore,2025-05-22,18:25,Shawarma,2,198,UPI,1
+1174,Kumar,Madurai,2025-02-20,22:24,Biryani,5,200,UPI,3
+1175,Priya,Thoothukudi,2025-02-23,17:28,Pizza,1,332,Cash,5
+1176,Ravi,Madurai,2025-02-13,18:00,Dosa,5,155,Card,3
+1177,Meena,Madurai,2025-10-07,18:00,Pizza,1,243,UPI,4
+1178,Arun,Thoothukudi,2025-05-17,15:52,Burger,5,99,Card,3
+1179,Arun,Madurai,2025-09-17,10:37,Biryani,2,269,UPI,2
+1180,Suresh,Thoothukudi,2025-02-11,11:34,Dosa,5,94,UPI,2
+1181,Meena,Chennai,2025-01-20,14:28,Pizza,1,350,Cash,3
+1182,Meena,Trichy,2025-01-22,22:47,Dosa,4,164,Cash,3
+1183,Priya,Chennai,2025-11-09,11:02,Pizza,3,97,Card,2
+1184,Karthik,Chennai,2025-09-02,15:16,Pizza,4,344,Cash,3
+1185,Karthik,Thoothukudi,2025-12-27,12:07,Dosa,4,148,Card,2
+1186,Ravi,Thoothukudi,2025-09-03,16:10,Pizza,5,141,UPI,3
+1187,Divya,Chennai,2025-05-26,20:38,Noodles,1,158,Cash,5
+1188,Divya,Tirunelveli,2025-12-15,17:45,Dosa,3,303,Card,4
+1189,Anitha,Tirunelveli,2025-09-21,12:50,Noodles,4,111,UPI,4
+1190,Suresh,Thoothukudi,2025-12-18,21:31,Pizza,2,311,UPI,3
+1191,Kumar,Coimbatore,2025-12-01,20:13,Pizza,3,161,Cash,2
+1192,Arun,Trichy,2025-09-13,21:16,Fried Rice,2,139,UPI,1
+1193,Arun,Salem,2025-12-14,19:03,Pizza,5,137,Card,4
+1194,Meena,Thoothukudi,2025-11-20,14:02,Biryani,4,344,UPI,2
+1195,Karthik,Coimbatore,2025-05-04,10:44,Burger,2,138,Cash,3
+1196,Meena,Chennai,2025-05-27,14:47,Biryani,3,106,UPI,1
+1197,Priya,Trichy,2025-12-25,14:06,Dosa,4,347,UPI,3
+1198,Suresh,Chennai,2025-04-15,16:36,Pizza,5,338,UPI,3
+1199,Divya,Tirunelveli,2025-07-18,22:33,Dosa,4,97,UPI,2
+1200,Vijay,Coimbatore,2025-11-05,22:23,Pizza,3,270,Cash,3
+1201,Karthik,Trichy,2025-01-17,18:39,Noodles,2,256,Cash,2
+1202,Priya,Madurai,2025-06-12,21:42,Dosa,3,190,Card,4
+1203,Anitha,Salem,2025-12-03,22:36,Dosa,3,284,Card,2
+1204,Arun,Coimbatore,2025-07-20,16:46,Dosa,5,82,Card,3
+1205,Karthik,Trichy,2025-12-15,18:30,Fried Rice,5,259,UPI,4
+1206,Karthik,Madurai,2025-01-27,13:52,Pizza,2,349,Card,5
+1207,Ravi,Trichy,2025-08-05,10:06,Shawarma,1,225,Card,1
+1208,Karthik,Trichy,2025-01-01,17:35,Shawarma,4,334,UPI,5
+1209,Karthik,Madurai,2025-04-23,18:58,Shawarma,3,252,UPI,4
+1210,Karthik,Chennai,2025-11-11,17:24,Fried Rice,4,160,UPI,3
+1211,Ravi,Madurai,2025-01-24,17:32,Parotta,3,232,UPI,1
+1212,Divya,Tirunelveli,2025-06-12,11:31,Pizza,4,191,Card,3
+1213,Meena,Coimbatore,2025-06-16,21:46,Biryani,1,231,Card,3
+1214,Arun,Chennai,2025-07-18,12:39,Biryani,4,298,Cash,4
+1215,Arun,Thoothukudi,2025-05-10,10:26,Fried Rice,2,91,UPI,3
+1216,Suresh,Madurai,2025-11-04,10:14,Parotta,5,296,Cash,5
+1217,Priya,Chennai,2025-03-24,11:28,Shawarma,2,315,Cash,1
+1218,Divya,Tirunelveli,2025-08-24,16:48,Noodles,2,283,UPI,2
+1219,Anitha,Chennai,2025-11-26,18:32,Dosa,5,169,Card,4
+1220,Arun,Madurai,2025-07-20,13:53,Parotta,5,254,Cash,3
+1221,Priya,Salem,2025-12-01,15:47,Shawarma,3,341,UPI,3
+1222,Priya,Salem,2025-03-27,10:25,Biryani,1,350,Cash,2
+1223,Ravi,Coimbatore,2025-01-07,10:06,Parotta,3,159,UPI,2
+1224,Suresh,Tirunelveli,2025-10-23,18:39,Noodles,4,191,UPI,4
+1225,Priya,Trichy,2025-06-25,10:47,Shawarma,1,99,Card,3
+1226,Karthik,Trichy,2025-04-09,14:50,Burger,5,91,UPI,5
+1227,Kumar,Tirunelveli,2025-08-07,20:38,Noodles,2,265,Card,4
+1228,Arun,Thoothukudi,2025-06-27,20:47,Pizza,1,203,Cash,5
+1229,Kumar,Chennai,2025-11-12,13:49,Biryani,3,158,UPI,1
+1230,Karthik,Chennai,2025-11-21,22:43,Fried Rice,3,216,Card,4
+1231,Arun,Coimbatore,2025-04-04,15:41,Fried Rice,5,171,UPI,3
+1232,Priya,Tirunelveli,2025-03-10,17:49,Biryani,4,183,UPI,2
+1233,Priya,Chennai,2025-09-17,16:47,Fried Rice,2,331,Card,5
+1234,Kumar,Coimbatore,2025-12-04,19:59,Dosa,4,97,UPI,1
+1235,Divya,Thoothukudi,2025-09-20,21:07,Biryani,3,227,UPI,3
+1236,Meena,Salem,2025-02-13,20:58,Biryani,3,86,UPI,3
+1237,Vijay,Madurai,2025-08-07,18:12,Burger,4,109,UPI,3
+1238,Karthik,Trichy,2025-11-21,18:40,Pizza,1,164,Cash,3
+1239,Anitha,Salem,2025-09-03,16:25,Burger,2,309,Cash,2
+1240,Divya,Trichy,2025-03-10,19:46,Shawarma,1,186,Card,3
+1241,Suresh,Thoothukudi,2025-08-13,17:05,Pizza,4,200,Card,2
+1242,Divya,Chennai,2025-12-22,11:35,Burger,4,350,Cash,1
+1243,Karthik,Coimbatore,2025-11-14,12:33,Biryani,2,125,Card,2
+1244,Kumar,Trichy,2025-10-23,18:51,Burger,1,244,Cash,1
+1245,Divya,Trichy,2025-05-07,15:20,Noodles,3,138,UPI,2
+1246,Suresh,Madurai,2025-01-22,10:39,Shawarma,3,140,Cash,5
+1247,Ravi,Madurai,2025-09-26,22:52,Shawarma,2,148,Cash,5
+1248,Priya,Thoothukudi,2025-09-28,13:18,Pizza,4,325,UPI,1
+1249,Anitha,Chennai,2025-03-10,10:44,Noodles,3,188,Card,2
+1250,Kumar,Madurai,2025-06-08,15:12,Noodles,4,335,UPI,2
+1251,Ravi,Salem,2025-04-20,12:36,Fried Rice,4,161,Card,5
+1252,Kumar,Tirunelveli,2025-04-05,13:55,Noodles,2,284,UPI,5
+1253,Ravi,Thoothukudi,2025-02-01,19:40,Fried Rice,4,129,Cash,1
+1254,Karthik,Thoothukudi,2025-10-01,12:08,Parotta,5,215,Card,2
+1255,Arun,Tirunelveli,2025-03-10,16:17,Biryani,4,215,Cash,4
+1256,Arun,Salem,2025-12-08,16:08,Fried Rice,5,249,Cash,1
+1257,Kumar,Trichy,2025-06-03,11:22,Noodles,4,172,UPI,5
+1258,Meena,Salem,2025-09-28,19:37,Parotta,1,289,UPI,4
+1259,Divya,Coimbatore,2025-10-02,16:06,Noodles,2,216,Cash,5
+1260,Meena,Coimbatore,2025-05-23,14:50,Noodles,5,266,Cash,3
+1261,Priya,Trichy,2025-09-05,17:01,Noodles,3,163,UPI,5
+1262,Ravi,Coimbatore,2025-12-19,13:03,Parotta,4,193,UPI,5
+1263,Karthik,Madurai,2025-11-25,13:37,Noodles,3,96,Cash,1
+1264,Priya,Thoothukudi,2025-01-26,15:49,Biryani,3,144,Card,3
+1265,Divya,Madurai,2025-08-09,22:00,Pizza,2,337,UPI,4
+1266,Kumar,Trichy,2025-03-09,13:07,Fried Rice,4,348,Card,5
+1267,Kumar,Thoothukudi,2025-09-10,19:18,Fried Rice,1,141,Card,2
+1268,Ravi,Madurai,2025-07-27,17:58,Dosa,3,202,UPI,4
+1269,Ravi,Chennai,2025-09-11,16:11,Parotta,5,340,Cash,1
+1270,Suresh,Tirunelveli,2025-10-27,14:10,Parotta,5,192,Cash,5
+1271,Arun,Coimbatore,2025-01-03,11:38,Pizza,5,175,Cash,5
+1272,Vijay,Thoothukudi,2025-01-21,17:16,Burger,1,124,Cash,3
+1273,Divya,Coimbatore,2025-06-22,15:37,Parotta,2,338,UPI,4
+1274,Anitha,Tirunelveli,2025-06-21,21:57,Burger,2,335,UPI,3
+1275,Karthik,Tirunelveli,2025-10-27,13:46,Noodles,5,324,Cash,5
+1276,Anitha,Trichy,2025-12-20,19:47,Parotta,2,116,UPI,3
+1277,Divya,Madurai,2025-01-24,20:03,Biryani,3,141,Card,1
+1278,Divya,Chennai,2025-12-16,20:42,Parotta,2,218,Card,5
+1279,Priya,Trichy,2025-09-07,18:30,Fried Rice,3,274,Cash,5
+1280,Meena,Salem,2025-05-04,17:20,Dosa,3,116,UPI,2
+1281,Karthik,Trichy,2025-08-28,11:24,Biryani,1,134,Cash,2
+1282,Suresh,Salem,2025-01-07,15:01,Shawarma,3,178,Card,5
+1283,Ravi,Tirunelveli,2025-03-21,10:24,Fried Rice,1,315,Cash,5
+1284,Karthik,Tirunelveli,2025-01-11,20:15,Burger,3,319,Card,1
+1285,Arun,Coimbatore,2025-09-04,14:44,Biryani,4,189,Card,2
+1286,Vijay,Tirunelveli,2025-08-17,20:58,Noodles,3,320,Cash,5
+1287,Karthik,Chennai,2025-12-15,13:05,Fried Rice,4,333,Cash,4
+1288,Anitha,Chennai,2025-09-20,20:05,Shawarma,2,215,Cash,2
+1289,Karthik,Coimbatore,2025-02-19,11:27,Pizza,4,313,Card,5
+1290,Vijay,Madurai,2025-10-04,11:19,Shawarma,1,122,Card,5
+1291,Suresh,Coimbatore,2025-06-11,16:48,Biryani,1,350,Cash,4
+1292,Priya,Salem,2025-06-21,13:29,Shawarma,4,249,Card,1
+1293,Karthik,Chennai,2025-09-17,11:13,Biryani,1,250,Cash,5
+1294,Priya,Chennai,2025-10-19,21:53,Dosa,1,187,Card,4
+1295,Vijay,Trichy,2025-06-05,18:16,Dosa,4,236,Card,5
+1296,Suresh,Thoothukudi,2025-05-17,11:46,Parotta,4,230,Cash,4
+1297,Arun,Madurai,2025-01-12,22:55,Parotta,1,199,Card,3
+1298,Meena,Salem,2025-08-11,18:32,Noodles,3,330,UPI,3
+1299,Meena,Madurai,2025-12-12,15:49,Dosa,5,310,Card,2
+1300,Priya,Chennai,2025-03-08,20:17,Dosa,2,316,Cash,1
+1301,Kumar,Thoothukudi,2025-03-05,16:08,Parotta,5,318,UPI,1
+1302,Vijay,Trichy,2025-06-24,15:20,Noodles,3,142,UPI,3
+1303,Divya,Tirunelveli,2025-10-15,16:54,Parotta,5,293,UPI,3
+1304,Karthik,Salem,2025-07-23,15:48,Shawarma,4,114,Cash,4
+1305,Arun,Tirunelveli,2025-02-19,16:03,Biryani,4,174,Card,1
+1306,Vijay,Thoothukudi,2025-11-03,19:45,Biryani,3,335,Cash,2
+1307,Meena,Salem,2025-03-17,18:56,Fried Rice,3,129,Cash,5
+1308,Kumar,Thoothukudi,2025-10-25,21:59,Pizza,2,196,Cash,3
+1309,Vijay,Tirunelveli,2025-06-05,15:24,Dosa,4,253,Cash,2
+1310,Priya,Trichy,2025-03-11,22:22,Burger,4,232,UPI,3
+1311,Meena,Tirunelveli,2025-08-20,13:21,Biryani,3,203,UPI,1
+1312,Karthik,Chennai,2025-08-14,17:49,Fried Rice,5,340,Cash,5
+1313,Kumar,Coimbatore,2025-07-22,15:20,Biryani,5,272,Cash,2
+1314,Priya,Chennai,2025-09-16,17:21,Biryani,1,135,UPI,5
+1315,Meena,Salem,2025-11-18,18:33,Noodles,1,92,Card,4
+1316,Anitha,Tirunelveli,2025-10-10,22:11,Biryani,3,91,UPI,3
+1317,Anitha,Coimbatore,2025-07-19,21:02,Parotta,1,124,UPI,1
+1318,Kumar,Trichy,2025-02-07,10:16,Noodles,4,349,Cash,1
+1319,Suresh,Trichy,2025-06-10,10:44,Fried Rice,4,160,Card,5
+1320,Arun,Chennai,2025-02-04,21:00,Burger,4,105,UPI,3
+1321,Anitha,Madurai,2025-06-07,12:07,Biryani,5,210,Card,2
+1322,Karthik,Coimbatore,2025-09-26,21:44,Pizza,2,200,UPI,4
+1323,Priya,Tirunelveli,2025-08-18,10:08,Dosa,1,120,Cash,5
+1324,Divya,Chennai,2025-10-25,22:15,Biryani,5,325,Cash,3
+1325,Suresh,Tirunelveli,2025-12-15,20:55,Dosa,4,137,Card,3
+1326,Divya,Trichy,2025-05-01,14:23,Pizza,3,102,Cash,5
+1327,Karthik,Thoothukudi,2025-01-10,22:18,Biryani,1,332,Card,1
+1328,Divya,Chennai,2025-03-04,15:21,Biryani,5,252,Cash,3
+1329,Ravi,Thoothukudi,2025-12-25,19:17,Pizza,3,310,UPI,1
+1330,Priya,Salem,2025-04-22,10:38,Shawarma,1,86,UPI,1
+1331,Karthik,Salem,2025-08-27,15:43,Parotta,5,311,Card,3
+1332,Anitha,Chennai,2025-01-15,14:24,Burger,4,300,UPI,2
+1333,Priya,Tirunelveli,2025-05-19,13:26,Biryani,1,202,Cash,4
+1334,Vijay,Madurai,2025-06-28,11:50,Pizza,4,141,Cash,3
+1335,Vijay,Trichy,2025-01-01,10:47,Parotta,4,221,Cash,5
+1336,Priya,Chennai,2025-04-21,17:54,Parotta,2,297,Card,3
+1337,Suresh,Thoothukudi,2025-03-02,21:32,Pizza,1,104,Cash,2
+1338,Vijay,Madurai,2025-01-20,11:10,Fried Rice,2,172,Cash,2
+1339,Ravi,Coimbatore,2025-06-01,20:24,Biryani,1,318,Cash,2
+1340,Suresh,Coimbatore,2025-05-02,19:49,Burger,1,213,Cash,2
+1341,Ravi,Chennai,2025-01-05,10:05,Fried Rice,3,289,Cash,2
+1342,Priya,Trichy,2025-10-08,16:34,Fried Rice,1,234,UPI,1
+1343,Ravi,Madurai,2025-11-22,13:00,Biryani,4,127,Card,2
+1344,Vijay,Salem,2025-10-11,11:19,Fried Rice,2,88,Cash,2
+1345,Suresh,Salem,2025-11-19,15:38,Biryani,3,304,Cash,5
+1346,Priya,Salem,2025-08-21,20:16,Burger,3,344,UPI,1
+1347,Priya,Trichy,2025-07-22,18:15,Dosa,4,320,Cash,4
+1348,Karthik,Thoothukudi,2025-11-13,12:36,Noodles,5,335,UPI,3
+1349,Vijay,Trichy,2025-06-18,14:49,Pizza,1,119,UPI,5
+1350,Suresh,Madurai,2025-12-15,17:53,Parotta,3,156,UPI,3
+1351,Suresh,Coimbatore,2025-02-23,17:12,Fried Rice,3,205,UPI,1
+1352,Anitha,Salem,2025-02-20,13:27,Parotta,1,172,Cash,4
+1353,Anitha,Tirunelveli,2025-07-01,19:27,Fried Rice,4,238,Card,3
+1354,Suresh,Madurai,2025-01-09,10:16,Dosa,3,219,Cash,1
+1355,Vijay,Thoothukudi,2025-11-25,12:08,Parotta,4,307,Card,3
+1356,Karthik,Madurai,2025-02-23,20:30,Noodles,2,135,Cash,2
+1357,Suresh,Thoothukudi,2025-08-08,22:46,Fried Rice,1,134,Cash,1
+1358,Priya,Trichy,2025-11-07,16:24,Noodles,4,119,UPI,1
+1359,Priya,Trichy,2025-01-23,16:56,Fried Rice,5,340,Card,3
+1360,Priya,Thoothukudi,2025-04-13,14:33,Shawarma,1,128,Cash,2
+1361,Priya,Thoothukudi,2025-01-13,20:45,Noodles,1,330,UPI,1
+1362,Kumar,Chennai,2025-03-28,18:12,Noodles,2,262,Cash,2
+1363,Karthik,Salem,2025-09-26,18:25,Shawarma,1,274,Cash,1
+1364,Kumar,Salem,2025-12-07,14:08,Dosa,1,149,UPI,3
+1365,Ravi,Thoothukudi,2025-01-21,10:08,Fried Rice,3,107,Card,3
+1366,Karthik,Chennai,2025-09-17,18:17,Parotta,2,174,UPI,4
+1367,Meena,Tirunelveli,2025-06-03,12:21,Burger,5,228,Cash,3
+1368,Arun,Salem,2025-06-03,20:56,Burger,2,105,Card,4
+1369,Ravi,Salem,2025-03-28,10:05,Parotta,1,172,Card,4
+1370,Ravi,Thoothukudi,2025-07-13,22:30,Dosa,4,129,Cash,4
+1371,Kumar,Chennai,2025-12-09,18:57,Noodles,5,256,UPI,2
+1372,Arun,Coimbatore,2025-01-01,20:46,Shawarma,3,103,UPI,1
+1373,Meena,Madurai,2025-02-16,16:56,Shawarma,5,219,UPI,4
+1374,Arun,Coimbatore,2025-08-22,12:48,Burger,5,255,Cash,5
+1375,Vijay,Tirunelveli,2025-03-05,19:49,Biryani,2,204,UPI,4
+1376,Ravi,Chennai,2025-06-14,14:44,Burger,5,232,UPI,4
+1377,Ravi,Thoothukudi,2025-08-03,22:53,Pizza,3,191,Card,2
+1378,Kumar,Thoothukudi,2025-02-01,18:40,Noodles,4,169,UPI,5
+1379,Priya,Tirunelveli,2025-12-03,16:45,Dosa,1,318,UPI,1
+1380,Priya,Coimbatore,2025-09-08,18:19,Noodles,1,162,Cash,3
+1381,Karthik,Thoothukudi,2025-06-21,13:22,Shawarma,4,338,UPI,1
+1382,Suresh,Tirunelveli,2025-04-15,18:35,Fried Rice,1,149,UPI,5
+1383,Kumar,Tirunelveli,2025-07-26,20:14,Pizza,5,333,Card,1
+1384,Kumar,Madurai,2025-03-09,11:01,Pizza,4,345,Cash,1
+1385,Vijay,Thoothukudi,2025-03-10,18:04,Pizza,3,285,Card,3
+1386,Priya,Tirunelveli,2025-03-07,20:44,Shawarma,3,274,UPI,2
+1387,Anitha,Trichy,2025-10-12,14:34,Parotta,4,348,Cash,3
+1388,Arun,Coimbatore,2025-07-03,19:29,Shawarma,1,251,Cash,1
+1389,Suresh,Tirunelveli,2025-01-07,12:28,Biryani,4,241,Card,3
+1390,Arun,Coimbatore,2025-01-01,13:54,Biryani,3,322,UPI,2
+1391,Karthik,Madurai,2025-08-10,19:05,Parotta,1,319,Cash,3
+1392,Vijay,Thoothukudi,2025-08-16,15:24,Burger,5,81,UPI,3
+1393,Suresh,Chennai,2025-09-13,19:33,Shawarma,3,164,Cash,3
+1394,Arun,Salem,2025-01-24,12:24,Biryani,2,133,Card,2
+1395,Karthik,Madurai,2025-05-13,11:19,Noodles,1,277,UPI,5
+1396,Arun,Chennai,2025-06-19,13:40,Burger,4,184,Cash,1
+1397,Arun,Chennai,2025-04-17,13:22,Fried Rice,1,349,Cash,2
+1398,Karthik,Coimbatore,2025-02-05,12:47,Burger,1,240,Card,1
+1399,Suresh,Coimbatore,2025-07-21,20:15,Fried Rice,5,312,Cash,2
+1400,Arun,Thoothukudi,2025-08-18,13:47,Fried Rice,5,93,Card,1
+1401,Anitha,Thoothukudi,2025-07-22,15:51,Dosa,1,157,Cash,5
+1402,Anitha,Salem,2025-06-14,14:54,Noodles,3,341,UPI,2
+1403,Priya,Chennai,2025-01-18,15:16,Fried Rice,5,186,Card,3
+1404,Kumar,Madurai,2025-11-09,20:24,Pizza,4,92,UPI,4
+1405,Ravi,Salem,2025-08-22,10:19,Dosa,4,230,Cash,4
+1406,Arun,Coimbatore,2025-01-26,17:59,Dosa,3,320,Card,3
+1407,Divya,Chennai,2025-07-25,17:17,Parotta,2,189,Cash,4
+1408,Priya,Thoothukudi,2025-11-27,16:11,Dosa,3,123,UPI,2
+1409,Karthik,Madurai,2025-03-15,19:37,Dosa,5,135,UPI,4
+1410,Priya,Madurai,2025-06-25,19:55,Parotta,1,189,UPI,4
+1411,Divya,Salem,2025-12-02,20:10,Fried Rice,3,130,Card,4
+1412,Arun,Madurai,2025-08-05,10:29,Noodles,5,95,UPI,5
+1413,Arun,Salem,2025-01-05,16:31,Shawarma,2,309,Card,2
+1414,Priya,Chennai,2025-09-12,13:08,Fried Rice,3,80,UPI,3
+1415,Divya,Madurai,2025-03-17,19:39,Dosa,4,256,Cash,3
+1416,Kumar,Thoothukudi,2025-05-15,12:33,Shawarma,1,333,Card,4
+1417,Suresh,Chennai,2025-11-24,16:41,Burger,1,297,Card,1
+1418,Ravi,Tirunelveli,2025-04-08,16:10,Parotta,3,349,Cash,4
+1419,Priya,Thoothukudi,2025-07-14,22:29,Pizza,4,95,Card,2
+1420,Anitha,Tirunelveli,2025-07-19,13:11,Burger,5,274,Card,2
+1421,Vijay,Thoothukudi,2025-10-22,14:44,Dosa,2,101,UPI,2
+1422,Vijay,Thoothukudi,2025-02-22,14:37,Burger,4,208,Cash,5
+1423,Anitha,Trichy,2025-09-08,14:43,Pizza,2,239,UPI,2
+1424,Arun,Thoothukudi,2025-09-15,17:26,Biryani,5,227,Card,4
+1425,Divya,Coimbatore,2025-06-13,18:34,Pizza,5,219,Cash,4
+1426,Suresh,Tirunelveli,2025-03-12,14:45,Burger,5,90,UPI,1
+1427,Anitha,Madurai,2025-09-07,11:29,Shawarma,4,115,Cash,5
+1428,Suresh,Coimbatore,2025-08-05,20:37,Pizza,5,88,UPI,2
+1429,Vijay,Trichy,2025-05-28,15:34,Shawarma,1,270,Cash,1
+1430,Kumar,Madurai,2025-10-01,20:09,Noodles,3,327,UPI,3
+1431,Vijay,Salem,2025-02-16,13:08,Pizza,3,201,Card,4
+1432,Priya,Salem,2025-09-10,17:18,Pizza,1,86,Cash,4
+1433,Divya,Tirunelveli,2025-03-14,22:36,Biryani,5,286,Cash,2
+1434,Vijay,Trichy,2025-08-16,19:45,Burger,2,148,Card,5
+1435,Meena,Thoothukudi,2025-11-12,22:22,Pizza,5,321,Cash,3
+1436,Ravi,Trichy,2025-12-09,17:17,Noodles,3,102,Card,4
+1437,Ravi,Chennai,2025-03-24,16:23,Parotta,2,121,Card,5
+1438,Suresh,Thoothukudi,2025-05-06,17:54,Noodles,3,200,UPI,4
+1439,Karthik,Chennai,2025-04-12,21:07,Fried Rice,1,127,Card,1
+1440,Ravi,Madurai,2025-10-28,16:26,Pizza,1,284,Card,3
+1441,Karthik,Tirunelveli,2025-07-27,16:56,Burger,1,346,UPI,5
+1442,Ravi,Madurai,2025-05-05,15:15,Biryani,4,143,Cash,2
+1443,Arun,Chennai,2025-12-15,16:50,Pizza,4,271,Card,2
+1444,Ravi,Trichy,2025-11-02,22:12,Pizza,5,293,UPI,4
+1445,Suresh,Coimbatore,2025-07-19,10:00,Noodles,5,245,Cash,2
+1446,Suresh,Thoothukudi,2025-11-05,19:30,Noodles,3,108,Cash,3
+1447,Priya,Salem,2025-01-17,10:28,Dosa,5,129,Card,2
+1448,Vijay,Coimbatore,2025-09-20,13:43,Fried Rice,3,339,UPI,4
+1449,Priya,Coimbatore,2025-06-20,22:44,Biryani,3,278,UPI,2
+1450,Karthik,Chennai,2025-08-25,22:02,Biryani,5,149,Card,1
+1451,Divya,Chennai,2025-01-03,19:50,Dosa,4,301,Card,2
+1452,Anitha,Madurai,2025-10-17,17:48,Fried Rice,1,103,UPI,5
+1453,Divya,Trichy,2025-06-12,18:57,Parotta,5,307,Cash,5
+1454,Meena,Trichy,2025-08-10,15:58,Burger,1,162,Card,2
+1455,Suresh,Thoothukudi,2025-03-14,22:39,Parotta,2,169,Cash,5
+1456,Divya,Trichy,2025-02-14,17:19,Pizza,5,160,Card,1
+1457,Divya,Tirunelveli,2025-03-18,20:46,Dosa,3,216,Card,1
+1458,Suresh,Salem,2025-05-27,18:24,Burger,4,103,Card,1
+1459,Ravi,Madurai,2025-06-14,22:26,Pizza,3,213,UPI,4
+1460,Ravi,Tirunelveli,2025-10-27,10:55,Pizza,5,212,UPI,3
+1461,Arun,Tirunelveli,2025-06-11,16:58,Fried Rice,2,135,Cash,5
+1462,Priya,Coimbatore,2025-10-02,22:40,Parotta,5,179,UPI,3
+1463,Divya,Madurai,2025-12-21,13:22,Dosa,3,95,Cash,2
+1464,Priya,Coimbatore,2025-12-07,16:41,Dosa,5,341,Card,2
+1465,Anitha,Salem,2025-05-19,12:13,Pizza,1,129,Card,2
+1466,Suresh,Coimbatore,2025-10-05,22:54,Noodles,2,205,Card,5
+1467,Meena,Coimbatore,2025-12-10,20:43,Fried Rice,1,214,Card,1
+1468,Divya,Chennai,2025-12-22,22:51,Parotta,3,155,Cash,2
+1469,Priya,Coimbatore,2025-10-10,10:03,Fried Rice,2,161,Cash,4
+1470,Priya,Trichy,2025-02-11,17:25,Noodles,1,267,Cash,4
+1471,Anitha,Trichy,2025-04-05,11:33,Fried Rice,5,137,UPI,1
+1472,Meena,Chennai,2025-06-10,20:39,Fried Rice,4,100,UPI,2
+1473,Ravi,Salem,2025-02-24,13:26,Fried Rice,1,280,Card,5
+1474,Vijay,Chennai,2025-07-13,18:33,Fried Rice,4,314,UPI,1
+1475,Suresh,Chennai,2025-01-20,20:22,Pizza,5,171,Card,2
+1476,Priya,Thoothukudi,2025-10-25,19:50,Fried Rice,4,290,UPI,5
+1477,Arun,Thoothukudi,2025-09-06,17:28,Shawarma,3,223,UPI,3
+1478,Arun,Coimbatore,2025-07-16,12:58,Parotta,4,99,Cash,2
+1479,Ravi,Trichy,2025-09-01,21:44,Shawarma,3,258,Cash,5
+1480,Kumar,Chennai,2025-11-03,20:31,Dosa,5,104,UPI,2
+1481,Divya,Trichy,2025-01-21,11:20,Burger,4,286,Card,4
+1482,Suresh,Salem,2025-01-27,12:26,Parotta,3,234,Cash,1
+1483,Ravi,Tirunelveli,2025-12-06,17:58,Shawarma,4,153,Cash,1
+1484,Karthik,Coimbatore,2025-08-23,19:46,Noodles,1,247,Cash,3
+1485,Meena,Coimbatore,2025-12-05,13:32,Pizza,5,280,UPI,1
+1486,Suresh,Thoothukudi,2025-02-19,15:51,Shawarma,3,223,Card,1
+1487,Arun,Coimbatore,2025-11-27,18:21,Parotta,4,131,Cash,4
+1488,Vijay,Madurai,2025-05-15,12:20,Fried Rice,4,288,UPI,1
+1489,Ravi,Trichy,2025-12-13,14:19,Pizza,4,110,Cash,1
+1490,Anitha,Chennai,2025-06-28,12:56,Shawarma,1,323,Cash,4
+1491,Vijay,Coimbatore,2025-08-04,13:07,Shawarma,5,310,Cash,2
+1492,Vijay,Trichy,2025-06-01,14:01,Dosa,5,242,Cash,2
+1493,Arun,Madurai,2025-10-25,16:05,Burger,1,292,Card,1
+1494,Suresh,Tirunelveli,2025-03-02,12:19,Pizza,2,113,UPI,3
+1495,Anitha,Salem,2025-07-09,20:52,Dosa,2,256,Cash,2
+1496,Anitha,Trichy,2025-05-07,17:18,Burger,4,239,UPI,4
+1497,Vijay,Coimbatore,2025-05-22,19:05,Parotta,5,162,UPI,2
+1498,Karthik,Madurai,2025-12-05,14:32,Biryani,3,178,Card,4
+1499,Divya,Trichy,2025-11-12,10:47,Parotta,1,139,Card,1
+1500,Priya,Thoothukudi,2025-05-02,14:10,Parotta,2,151,Cash,4
+1501,Karthik,Tirunelveli,2025-04-24,17:03,Pizza,1,130,UPI,2
+1502,Kumar,Tirunelveli,2025-05-20,11:37,Dosa,2,83,UPI,3
+1503,Suresh,Coimbatore,2025-03-05,22:29,Dosa,4,225,Card,4
+1504,Kumar,Tirunelveli,2025-01-20,11:38,Burger,4,321,Cash,2
+1505,Ravi,Trichy,2025-09-16,17:18,Fried Rice,3,154,Cash,4
+1506,Anitha,Coimbatore,2025-02-27,17:31,Shawarma,5,226,Cash,3
+1507,Kumar,Tirunelveli,2025-08-24,18:03,Burger,1,341,Card,5
+1508,Kumar,Thoothukudi,2025-07-17,19:05,Pizza,1,111,UPI,4
+1509,Meena,Chennai,2025-07-23,21:56,Burger,4,201,Card,1
+1510,Vijay,Salem,2025-04-15,11:04,Fried Rice,3,335,Cash,3
+1511,Priya,Madurai,2025-04-02,15:37,Shawarma,1,169,Cash,1
+1512,Divya,Madurai,2025-10-05,18:15,Parotta,4,258,UPI,2
+1513,Arun,Salem,2025-07-25,15:38,Burger,1,84,Card,5
+1514,Arun,Thoothukudi,2025-02-03,22:14,Dosa,4,109,UPI,1
+1515,Anitha,Coimbatore,2025-01-08,19:30,Shawarma,5,318,UPI,1
+1516,Suresh,Trichy,2025-07-13,21:23,Noodles,5,312,Card,4
+1517,Karthik,Tirunelveli,2025-02-17,10:05,Shawarma,1,103,UPI,5
+1518,Karthik,Chennai,2025-04-26,13:15,Pizza,5,216,Cash,4
+1519,Meena,Trichy,2025-11-19,10:19,Shawarma,4,223,Card,3
+1520,Suresh,Tirunelveli,2025-06-08,16:49,Dosa,3,263,UPI,4
+1521,Meena,Coimbatore,2025-02-03,13:43,Burger,4,124,Card,1
+1522,Ravi,Tirunelveli,2025-03-01,19:39,Pizza,5,208,Card,1
+1523,Anitha,Thoothukudi,2025-10-27,14:05,Pizza,2,240,Card,4
+1524,Divya,Thoothukudi,2025-08-02,16:46,Pizza,1,126,Cash,2
+1525,Arun,Salem,2025-04-24,19:14,Burger,1,340,UPI,5
+1526,Meena,Salem,2025-05-18,19:40,Biryani,1,224,UPI,5
+1527,Arun,Tirunelveli,2025-06-28,20:35,Fried Rice,3,134,Card,1
+1528,Suresh,Tirunelveli,2025-11-10,15:35,Dosa,3,288,Card,1
+1529,Karthik,Chennai,2025-08-20,12:36,Dosa,5,190,UPI,4
+1530,Ravi,Salem,2025-03-09,18:13,Parotta,2,144,Cash,5
+1531,Priya,Madurai,2025-10-18,20:49,Burger,3,242,Card,4
+1532,Suresh,Thoothukudi,2025-02-21,19:52,Shawarma,3,269,UPI,3
+1533,Ravi,Salem,2025-11-14,13:30,Pizza,5,151,UPI,4
+1534,Ravi,Trichy,2025-06-22,17:38,Biryani,1,339,Card,2
+1535,Suresh,Thoothukudi,2025-02-03,14:36,Pizza,4,265,Cash,5
+1536,Arun,Madurai,2025-07-13,13:52,Pizza,3,100,Cash,4
+1537,Arun,Tirunelveli,2025-09-04,19:57,Biryani,2,129,Cash,1
+1538,Meena,Trichy,2025-02-24,14:13,Parotta,1,259,Card,2
+1539,Meena,Trichy,2025-01-25,21:39,Dosa,3,222,Cash,3
+1540,Priya,Coimbatore,2025-07-20,12:46,Fried Rice,5,92,Cash,4
+1541,Suresh,Tirunelveli,2025-02-27,12:08,Pizza,3,238,Card,4
+1542,Divya,Madurai,2025-10-04,14:51,Parotta,1,137,Cash,2
+1543,Kumar,Thoothukudi,2025-11-13,15:08,Burger,4,307,UPI,1
+1544,Ravi,Trichy,2025-12-25,20:42,Biryani,3,290,UPI,5
+1545,Meena,Coimbatore,2025-05-08,15:07,Pizza,4,205,Card,4
+1546,Arun,Madurai,2025-09-23,15:55,Dosa,2,277,UPI,1
+1547,Anitha,Chennai,2025-05-23,11:29,Parotta,3,312,UPI,3
+1548,Karthik,Madurai,2025-02-18,17:29,Fried Rice,4,286,Card,1
+1549,Ravi,Coimbatore,2025-06-24,11:07,Burger,4,190,Card,1
+1550,Ravi,Thoothukudi,2025-04-13,11:04,Parotta,4,239,Card,4
+1551,Arun,Thoothukudi,2025-08-26,14:07,Noodles,5,160,Cash,2
+1552,Suresh,Madurai,2025-07-27,22:20,Biryani,3,90,Card,2
+1553,Ravi,Coimbatore,2025-12-19,22:32,Pizza,3,315,Card,3
+1554,Meena,Thoothukudi,2025-11-13,13:06,Burger,5,88,Card,2
+1555,Priya,Trichy,2025-11-22,12:04,Shawarma,3,209,UPI,5
+1556,Vijay,Salem,2025-09-13,16:54,Fried Rice,2,280,Cash,1
+1557,Arun,Thoothukudi,2025-07-26,20:33,Dosa,1,169,Card,3
+1558,Arun,Trichy,2025-08-06,17:45,Noodles,5,330,Card,4
+1559,Anitha,Madurai,2025-04-14,16:18,Noodles,1,86,Card,5
+1560,Suresh,Trichy,2025-03-03,18:36,Parotta,4,87,Card,2
+1561,Kumar,Salem,2025-10-11,20:07,Shawarma,2,228,Cash,3
+1562,Ravi,Trichy,2025-09-24,18:36,Dosa,1,164,UPI,2
+1563,Meena,Trichy,2025-08-15,10:25,Biryani,3,86,UPI,2
+1564,Arun,Tirunelveli,2025-05-19,21:37,Dosa,2,223,Card,1
+1565,Vijay,Tirunelveli,2025-07-22,13:11,Biryani,5,102,Cash,2
+1566,Karthik,Salem,2025-04-16,20:57,Biryani,2,218,UPI,1
+1567,Priya,Tirunelveli,2025-11-09,18:34,Biryani,4,96,Cash,2
+1568,Divya,Thoothukudi,2025-07-11,13:50,Pizza,4,196,UPI,3
+1569,Suresh,Madurai,2025-09-09,21:06,Burger,1,216,Card,4
+1570,Kumar,Tirunelveli,2025-10-19,20:44,Dosa,3,240,Card,2
+1571,Meena,Tirunelveli,2025-08-26,14:17,Biryani,1,307,UPI,4
+1572,Anitha,Tirunelveli,2025-03-10,10:56,Shawarma,1,334,Card,1
+1573,Anitha,Madurai,2025-08-15,19:38,Noodles,3,134,Card,2
+1574,Anitha,Madurai,2025-01-22,18:40,Fried Rice,5,218,Cash,2
+1575,Arun,Coimbatore,2025-08-28,17:28,Parotta,5,301,Card,5
+1576,Suresh,Coimbatore,2025-01-26,14:36,Pizza,3,88,Cash,1
+1577,Divya,Thoothukudi,2025-08-18,13:38,Pizza,5,229,UPI,2
+1578,Karthik,Tirunelveli,2025-10-06,10:14,Pizza,3,303,Card,5
+1579,Karthik,Tirunelveli,2025-05-25,10:39,Noodles,5,189,Cash,3
+1580,Arun,Madurai,2025-07-05,12:37,Fried Rice,4,291,UPI,4
+1581,Divya,Trichy,2025-04-13,11:21,Shawarma,4,166,UPI,4
+1582,Suresh,Trichy,2025-09-27,10:06,Noodles,1,321,Cash,1
+1583,Ravi,Chennai,2025-06-13,14:05,Dosa,4,174,Cash,3
+1584,Suresh,Chennai,2025-03-01,20:50,Noodles,1,256,Card,2
+1585,Suresh,Coimbatore,2025-02-06,20:55,Biryani,5,344,UPI,3
+1586,Vijay,Thoothukudi,2025-03-08,18:57,Noodles,5,130,UPI,4
+1587,Suresh,Trichy,2025-05-18,21:52,Burger,5,196,Cash,5
+1588,Ravi,Madurai,2025-10-19,17:37,Pizza,1,131,UPI,3
+1589,Priya,Coimbatore,2025-01-11,13:32,Biryani,4,159,Card,2
+1590,Arun,Chennai,2025-06-14,10:14,Fried Rice,2,292,UPI,5
+1591,Karthik,Trichy,2025-02-24,18:07,Fried Rice,3,135,Cash,5
+1592,Suresh,Thoothukudi,2025-09-24,21:15,Fried Rice,3,155,UPI,5
+1593,Priya,Coimbatore,2025-09-03,19:16,Noodles,4,196,Card,2
+1594,Divya,Tirunelveli,2025-01-15,14:37,Pizza,2,349,Cash,1
+1595,Priya,Madurai,2025-01-23,11:46,Fried Rice,4,299,Card,4
+1596,Kumar,Tirunelveli,2025-02-18,20:25,Fried Rice,4,186,UPI,4
+1597,Anitha,Salem,2025-09-24,22:17,Noodles,2,120,UPI,2
+1598,Suresh,Trichy,2025-04-14,22:45,Pizza,5,173,UPI,2
+1599,Karthik,Salem,2025-01-02,11:03,Parotta,3,130,UPI,3
+1600,Divya,Coimbatore,2025-12-15,13:23,Noodles,4,153,UPI,5
+1601,Kumar,Trichy,2025-07-26,22:03,Parotta,4,240,Cash,3
+1602,Priya,Salem,2025-02-08,14:43,Pizza,1,272,UPI,5
+1603,Priya,Salem,2025-05-08,15:28,Biryani,3,98,UPI,5
+1604,Ravi,Coimbatore,2025-04-02,16:14,Biryani,3,184,Card,5
+1605,Kumar,Trichy,2025-10-20,15:44,Shawarma,2,254,Card,5
+1606,Vijay,Tirunelveli,2025-12-07,10:48,Dosa,3,198,UPI,2
+1607,Suresh,Coimbatore,2025-09-07,16:00,Dosa,1,177,Cash,3
+1608,Meena,Trichy,2025-09-19,21:29,Shawarma,3,202,Card,5
+1609,Suresh,Tirunelveli,2025-04-28,16:55,Pizza,3,171,Card,2
+1610,Karthik,Chennai,2025-08-12,18:31,Pizza,4,259,Cash,5
+1611,Arun,Madurai,2025-07-01,19:58,Dosa,5,95,Card,4
+1612,Priya,Thoothukudi,2025-06-01,13:54,Burger,4,171,Card,2
+1613,Ravi,Trichy,2025-06-13,19:49,Fried Rice,4,294,Card,1
+1614,Suresh,Thoothukudi,2025-08-10,10:42,Noodles,4,167,UPI,2
+1615,Karthik,Madurai,2025-12-28,20:33,Fried Rice,5,347,UPI,4
+1616,Suresh,Salem,2025-08-14,12:38,Pizza,1,185,Cash,4
+1617,Ravi,Coimbatore,2025-07-20,11:06,Biryani,1,298,Card,5
+1618,Vijay,Trichy,2025-12-26,11:30,Pizza,2,335,Cash,1
+1619,Anitha,Salem,2025-12-10,12:24,Burger,3,119,UPI,1
+1620,Meena,Salem,2025-03-10,21:40,Shawarma,3,253,UPI,1
+1621,Anitha,Chennai,2025-10-17,15:01,Fried Rice,5,221,UPI,1
+1622,Karthik,Coimbatore,2025-01-12,12:22,Noodles,4,272,Card,4
+1623,Suresh,Thoothukudi,2025-06-20,15:28,Noodles,1,194,UPI,2
+1624,Divya,Salem,2025-10-07,16:32,Shawarma,4,130,Cash,4
+1625,Arun,Salem,2025-09-27,18:53,Shawarma,2,119,Cash,1
+1626,Anitha,Tirunelveli,2025-07-13,10:03,Fried Rice,2,175,UPI,2
+1627,Suresh,Coimbatore,2025-05-23,14:01,Parotta,4,82,UPI,5
+1628,Ravi,Salem,2025-10-03,12:17,Pizza,5,276,Cash,3
+1629,Meena,Trichy,2025-09-11,11:47,Pizza,4,258,Cash,3
+1630,Ravi,Trichy,2025-02-10,12:43,Shawarma,5,170,Cash,3
+1631,Arun,Salem,2025-02-22,10:25,Parotta,3,180,UPI,3
+1632,Anitha,Madurai,2025-09-21,12:25,Noodles,1,316,UPI,1
+1633,Kumar,Salem,2025-08-20,15:14,Parotta,3,155,UPI,2
+1634,Arun,Chennai,2025-08-05,19:13,Pizza,1,119,Cash,5
+1635,Kumar,Tirunelveli,2025-03-08,14:20,Burger,1,139,Card,2
+1636,Anitha,Salem,2025-01-07,20:41,Shawarma,4,220,UPI,3
+1637,Suresh,Madurai,2025-11-14,10:55,Parotta,4,222,UPI,1
+1638,Meena,Tirunelveli,2025-02-22,18:47,Parotta,4,199,Cash,5
+1639,Karthik,Coimbatore,2025-10-09,10:36,Pizza,5,181,Cash,4
+1640,Priya,Tirunelveli,2025-12-27,20:30,Dosa,3,184,Card,4
+1641,Vijay,Coimbatore,2025-03-15,19:32,Noodles,4,328,Card,3
+1642,Priya,Madurai,2025-11-24,20:05,Shawarma,2,214,Cash,4
+1643,Meena,Chennai,2025-01-02,13:57,Dosa,2,328,UPI,5
+1644,Anitha,Tirunelveli,2025-10-23,12:36,Biryani,5,101,Cash,4
+1645,Karthik,Coimbatore,2025-02-20,12:02,Parotta,4,286,Card,2
+1646,Kumar,Trichy,2025-06-21,16:24,Shawarma,2,331,UPI,3
+1647,Priya,Salem,2025-07-06,19:25,Dosa,1,92,Cash,2
+1648,Meena,Trichy,2025-11-23,16:55,Parotta,1,303,UPI,3
+1649,Anitha,Trichy,2025-05-01,14:30,Parotta,1,202,Card,5
+1650,Arun,Thoothukudi,2025-03-26,12:02,Pizza,5,112,UPI,3
+1651,Karthik,Madurai,2025-07-04,18:35,Biryani,4,213,Cash,4
+1652,Meena,Trichy,2025-09-09,22:31,Noodles,5,143,UPI,3
+1653,Arun,Trichy,2025-11-15,11:34,Fried Rice,2,97,Card,3
+1654,Karthik,Madurai,2025-09-10,20:29,Dosa,4,96,Card,3
+1655,Karthik,Tirunelveli,2025-08-16,15:46,Noodles,2,110,UPI,3
+1656,Anitha,Trichy,2025-01-21,16:07,Burger,5,154,UPI,3
+1657,Vijay,Thoothukudi,2025-05-09,16:48,Fried Rice,1,223,Card,1
+1658,Ravi,Salem,2025-07-04,12:01,Noodles,1,80,Card,3
+1659,Arun,Trichy,2025-08-22,11:32,Noodles,2,344,UPI,5
+1660,Priya,Trichy,2025-11-03,20:44,Shawarma,2,288,Card,5
+1661,Anitha,Madurai,2025-12-03,18:09,Shawarma,2,115,Card,5
+1662,Arun,Salem,2025-03-08,10:17,Biryani,2,86,Cash,1
+1663,Ravi,Thoothukudi,2025-10-16,17:57,Dosa,4,342,Card,2
+1664,Kumar,Trichy,2025-07-27,22:49,Shawarma,4,252,UPI,5
+1665,Ravi,Thoothukudi,2025-06-15,10:27,Shawarma,5,150,UPI,4
+1666,Meena,Madurai,2025-05-04,19:53,Dosa,3,304,Cash,1
+1667,Meena,Coimbatore,2025-05-09,22:26,Burger,2,140,Cash,2
+1668,Arun,Madurai,2025-07-02,15:04,Pizza,5,241,Card,4
+1669,Karthik,Chennai,2025-12-02,13:04,Noodles,1,91,Cash,2
+1670,Karthik,Trichy,2025-10-08,14:43,Biryani,1,270,UPI,5
+1671,Arun,Madurai,2025-12-28,15:37,Noodles,3,146,UPI,4
+1672,Divya,Trichy,2025-12-13,12:53,Fried Rice,2,231,Cash,3
+1673,Kumar,Salem,2025-11-21,13:52,Parotta,4,299,Cash,3
+1674,Vijay,Salem,2025-03-19,22:17,Noodles,4,234,Cash,3
+1675,Divya,Trichy,2025-05-12,12:16,Fried Rice,4,225,Cash,5
+1676,Suresh,Coimbatore,2025-02-28,13:31,Pizza,2,182,Card,4
+1677,Priya,Trichy,2025-09-20,17:09,Fried Rice,1,240,Card,3
+1678,Priya,Chennai,2025-03-04,20:07,Parotta,1,190,Cash,3
+1679,Arun,Thoothukudi,2025-07-20,17:57,Biryani,5,192,Cash,4
+1680,Arun,Madurai,2025-02-12,10:53,Biryani,5,304,UPI,3
+1681,Priya,Madurai,2025-12-02,21:36,Shawarma,1,235,UPI,3
+1682,Priya,Chennai,2025-05-02,10:43,Parotta,4,149,Cash,3
+1683,Arun,Madurai,2025-04-13,22:23,Shawarma,1,201,UPI,5
+1684,Meena,Chennai,2025-10-24,22:00,Biryani,1,226,Card,5
+1685,Vijay,Chennai,2025-06-07,21:39,Shawarma,1,154,UPI,3
+1686,Vijay,Thoothukudi,2025-05-04,21:20,Noodles,2,220,UPI,4
+1687,Vijay,Madurai,2025-03-20,18:15,Noodles,1,143,UPI,2
+1688,Ravi,Madurai,2025-01-06,19:59,Biryani,4,161,UPI,1
+1689,Meena,Coimbatore,2025-03-21,10:27,Fried Rice,2,330,Card,5
+1690,Divya,Madurai,2025-10-21,19:40,Shawarma,4,255,Card,3
+1691,Karthik,Thoothukudi,2025-11-03,22:22,Shawarma,2,279,Card,3
+1692,Anitha,Salem,2025-10-18,14:33,Dosa,1,175,Card,4
+1693,Kumar,Chennai,2025-03-22,11:11,Shawarma,3,216,Card,5
+1694,Kumar,Trichy,2025-05-12,15:13,Burger,5,269,Cash,2
+1695,Anitha,Coimbatore,2025-09-21,13:30,Noodles,5,270,Cash,1
+1696,Divya,Trichy,2025-08-16,13:01,Parotta,5,254,Card,1
+1697,Anitha,Tirunelveli,2025-11-15,18:11,Dosa,4,324,Card,5
+1698,Meena,Thoothukudi,2025-04-19,13:25,Noodles,2,136,Card,3
+1699,Suresh,Thoothukudi,2025-05-20,18:41,Biryani,4,219,Card,4
+1700,Divya,Madurai,2025-08-11,11:33,Parotta,1,284,Cash,3
+1701,Karthik,Salem,2025-04-28,16:55,Dosa,3,175,Card,2
+1702,Vijay,Trichy,2025-04-03,12:34,Noodles,2,171,Cash,3
+1703,Suresh,Madurai,2025-09-05,21:18,Fried Rice,3,185,UPI,5
+1704,Ravi,Madurai,2025-10-22,21:19,Biryani,3,113,UPI,1
+1705,Kumar,Chennai,2025-01-21,18:44,Dosa,2,343,Cash,5
+1706,Ravi,Salem,2025-12-18,19:30,Shawarma,2,334,Cash,5
+1707,Ravi,Madurai,2025-06-20,22:04,Pizza,2,238,Cash,4
+1708,Priya,Salem,2025-04-14,22:31,Parotta,4,140,Cash,4
+1709,Suresh,Trichy,2025-06-16,22:13,Fried Rice,1,312,Cash,2
+1710,Kumar,Thoothukudi,2025-02-16,12:37,Noodles,1,98,Cash,3
+1711,Kumar,Tirunelveli,2025-12-27,16:12,Shawarma,2,329,Card,1
+1712,Priya,Chennai,2025-08-02,16:55,Burger,5,158,Cash,4
+1713,Divya,Tirunelveli,2025-11-05,21:34,Biryani,1,95,Card,2
+1714,Vijay,Tirunelveli,2025-06-24,15:19,Fried Rice,4,272,UPI,5
+1715,Suresh,Thoothukudi,2025-09-02,19:26,Dosa,1,94,Card,3
+1716,Meena,Coimbatore,2025-04-07,10:00,Noodles,4,260,UPI,1
+1717,Meena,Coimbatore,2025-12-12,18:10,Biryani,3,344,Card,4
+1718,Kumar,Tirunelveli,2025-06-03,18:39,Pizza,2,346,Card,4
+1719,Priya,Salem,2025-12-24,11:34,Dosa,2,115,Cash,2
+1720,Vijay,Coimbatore,2025-05-17,12:05,Parotta,1,334,Cash,3
+1721,Meena,Madurai,2025-11-09,12:19,Pizza,1,141,Cash,5
+1722,Divya,Trichy,2025-11-15,16:18,Noodles,1,126,UPI,1
+1723,Priya,Salem,2025-11-08,11:35,Parotta,4,321,UPI,2
+1724,Divya,Madurai,2025-03-11,14:07,Shawarma,2,280,Cash,4
+1725,Anitha,Madurai,2025-10-14,19:56,Burger,4,151,UPI,5
+1726,Ravi,Thoothukudi,2025-06-01,18:07,Fried Rice,3,131,Card,5
+1727,Ravi,Salem,2025-03-28,13:11,Shawarma,3,280,Cash,1
+1728,Suresh,Chennai,2025-04-13,18:39,Parotta,2,214,Card,2
+1729,Arun,Trichy,2025-12-14,19:33,Parotta,5,259,Cash,3
+1730,Kumar,Trichy,2025-08-27,18:33,Fried Rice,4,187,Card,4
+1731,Vijay,Salem,2025-10-28,17:08,Burger,3,239,Cash,5
+1732,Kumar,Tirunelveli,2025-09-07,11:35,Burger,3,346,Cash,4
+1733,Priya,Coimbatore,2025-07-26,12:17,Biryani,3,293,UPI,3
+1734,Divya,Trichy,2025-05-24,17:09,Noodles,4,184,Card,3
+1735,Suresh,Tirunelveli,2025-12-22,10:02,Biryani,5,190,UPI,5
+1736,Vijay,Trichy,2025-05-08,10:21,Dosa,1,179,Card,1
+1737,Anitha,Trichy,2025-10-19,13:07,Fried Rice,1,263,Cash,2
+1738,Ravi,Salem,2025-05-15,19:37,Dosa,1,98,UPI,5
+1739,Karthik,Thoothukudi,2025-08-21,20:00,Fried Rice,2,310,Card,2
+1740,Divya,Trichy,2025-09-20,13:01,Noodles,2,101,UPI,4
+1741,Karthik,Salem,2025-02-06,13:40,Parotta,5,211,Card,3
+1742,Karthik,Thoothukudi,2025-06-28,16:45,Burger,1,283,UPI,5
+1743,Ravi,Trichy,2025-08-05,13:49,Fried Rice,4,337,UPI,5
+1744,Arun,Tirunelveli,2025-05-23,12:36,Biryani,1,157,Card,1
+1745,Priya,Chennai,2025-06-23,17:37,Fried Rice,3,136,Cash,3
+1746,Kumar,Madurai,2025-02-09,15:41,Pizza,4,282,Cash,5
+1747,Divya,Trichy,2025-11-11,11:53,Shawarma,3,276,UPI,1
+1748,Ravi,Chennai,2025-12-06,12:54,Parotta,4,229,UPI,4
+1749,Arun,Madurai,2025-06-28,16:02,Noodles,1,121,Cash,1
+1750,Anitha,Madurai,2025-02-22,16:03,Fried Rice,3,307,UPI,5
+1751,Priya,Tirunelveli,2025-09-15,16:51,Pizza,4,188,Card,1
+1752,Kumar,Salem,2025-09-03,20:55,Burger,3,257,UPI,3
+1753,Divya,Tirunelveli,2025-06-26,17:36,Pizza,5,265,Card,5
+1754,Karthik,Trichy,2025-10-15,22:35,Fried Rice,1,220,UPI,1
+1755,Suresh,Coimbatore,2025-12-11,22:55,Biryani,1,311,Cash,1
+1756,Kumar,Chennai,2025-02-08,19:09,Shawarma,2,191,Card,1
+1757,Ravi,Tirunelveli,2025-09-07,20:23,Biryani,2,158,UPI,4
+1758,Arun,Madurai,2025-09-02,12:07,Pizza,2,310,Cash,4
+1759,Meena,Tirunelveli,2025-07-21,20:11,Pizza,1,340,UPI,2
+1760,Vijay,Tirunelveli,2025-10-09,11:04,Noodles,5,307,Card,1
+1761,Arun,Trichy,2025-02-25,12:16,Shawarma,3,329,UPI,5
+1762,Karthik,Madurai,2025-05-19,19:30,Dosa,2,340,Cash,1
+1763,Karthik,Thoothukudi,2025-01-15,10:50,Biryani,5,95,Card,4
+1764,Meena,Thoothukudi,2025-09-02,18:25,Biryani,5,80,Cash,1
+1765,Priya,Trichy,2025-11-13,17:39,Noodles,4,234,Card,2
+1766,Suresh,Tirunelveli,2025-09-02,20:59,Fried Rice,3,255,UPI,2
+1767,Karthik,Tirunelveli,2025-11-12,15:44,Dosa,1,130,UPI,1
+1768,Divya,Chennai,2025-02-23,19:40,Shawarma,1,206,UPI,2
+1769,Anitha,Salem,2025-07-25,16:05,Burger,4,230,UPI,2
+1770,Arun,Madurai,2025-09-07,12:13,Biryani,3,116,Cash,2
+1771,Anitha,Coimbatore,2025-05-01,21:48,Shawarma,2,93,UPI,3
+1772,Kumar,Salem,2025-01-27,14:04,Parotta,1,251,Card,1
+1773,Anitha,Chennai,2025-03-08,18:07,Shawarma,1,194,UPI,4
+1774,Divya,Tirunelveli,2025-11-18,16:12,Noodles,3,261,UPI,5
+1775,Meena,Tirunelveli,2025-10-06,10:18,Shawarma,5,214,UPI,1
+1776,Divya,Trichy,2025-10-06,18:42,Pizza,3,252,Cash,2
+1777,Meena,Thoothukudi,2025-04-24,13:52,Dosa,2,234,UPI,4
+1778,Divya,Thoothukudi,2025-11-12,13:02,Parotta,4,270,UPI,1
+1779,Karthik,Chennai,2025-06-17,20:28,Parotta,3,87,Cash,3
+1780,Suresh,Chennai,2025-11-20,14:32,Burger,5,162,UPI,4
+1781,Suresh,Trichy,2025-03-03,22:00,Noodles,5,161,Card,3
+1782,Priya,Madurai,2025-10-06,13:00,Pizza,5,209,UPI,4
+1783,Suresh,Salem,2025-01-13,22:45,Pizza,5,239,Cash,2
+1784,Priya,Madurai,2025-09-11,12:39,Fried Rice,2,229,UPI,2
+1785,Karthik,Madurai,2025-12-23,15:49,Fried Rice,5,229,Cash,4
+1786,Anitha,Coimbatore,2025-04-09,17:20,Biryani,5,199,Card,3
+1787,Anitha,Coimbatore,2025-03-26,12:55,Biryani,1,137,UPI,5
+1788,Suresh,Tirunelveli,2025-10-03,11:21,Biryani,4,102,Card,4
+1789,Suresh,Salem,2025-12-21,18:35,Dosa,1,205,UPI,2
+1790,Divya,Madurai,2025-02-12,17:30,Biryani,4,224,Cash,1
+1791,Priya,Thoothukudi,2025-06-20,15:28,Parotta,1,81,UPI,5
+1792,Vijay,Thoothukudi,2025-07-21,21:41,Shawarma,5,89,UPI,4
+1793,Arun,Trichy,2025-09-22,15:51,Pizza,2,103,Card,4
+1794,Vijay,Madurai,2025-03-12,18:31,Shawarma,4,121,UPI,1
+1795,Meena,Coimbatore,2025-09-25,16:36,Fried Rice,2,313,UPI,4
+1796,Suresh,Trichy,2025-09-07,16:54,Shawarma,5,204,UPI,3
+1797,Divya,Chennai,2025-09-07,12:00,Fried Rice,5,150,UPI,5
+1798,Kumar,Salem,2025-06-23,16:50,Burger,3,234,UPI,4
+1799,Arun,Thoothukudi,2025-07-18,13:11,Parotta,4,342,Card,1
+1800,Suresh,Chennai,2025-12-16,14:23,Parotta,5,303,Cash,3
+1801,Priya,Madurai,2025-02-10,22:33,Biryani,2,340,Card,5
+1802,Suresh,Salem,2025-02-06,12:37,Parotta,3,162,Card,2
+1803,Vijay,Salem,2025-02-05,20:59,Parotta,1,282,Card,4
+1804,Divya,Tirunelveli,2025-09-17,15:06,Burger,4,94,Cash,2
+1805,Divya,Chennai,2025-11-26,12:42,Fried Rice,2,184,Card,3
+1806,Meena,Trichy,2025-11-18,12:02,Burger,2,166,UPI,1
+1807,Kumar,Madurai,2025-05-07,17:24,Dosa,1,84,Cash,4
+1808,Meena,Trichy,2025-12-09,11:52,Shawarma,2,248,UPI,2
+1809,Priya,Chennai,2025-01-14,21:04,Pizza,3,280,Card,3
+1810,Meena,Coimbatore,2025-08-19,10:19,Burger,5,232,Cash,3
+1811,Vijay,Thoothukudi,2025-02-24,19:51,Burger,1,262,UPI,4
+1812,Divya,Salem,2025-06-03,18:59,Shawarma,3,243,Card,4
+1813,Karthik,Madurai,2025-07-27,22:53,Burger,4,167,Card,5
+1814,Kumar,Salem,2025-06-04,15:43,Fried Rice,2,236,Card,4
+1815,Vijay,Chennai,2025-02-07,14:45,Noodles,4,283,Cash,3
+1816,Arun,Trichy,2025-01-09,18:48,Biryani,1,238,Card,3
+1817,Arun,Madurai,2025-11-18,15:59,Fried Rice,5,106,Card,1
+1818,Vijay,Thoothukudi,2025-03-19,14:42,Burger,3,329,Cash,2
+1819,Priya,Chennai,2025-07-25,22:50,Pizza,1,285,Card,5
+1820,Karthik,Salem,2025-06-13,12:18,Burger,5,123,Card,4
+1821,Ravi,Madurai,2025-10-03,15:50,Parotta,5,153,Card,2
+1822,Karthik,Tirunelveli,2025-03-25,15:37,Noodles,5,125,UPI,1
+1823,Divya,Tirunelveli,2025-07-20,19:39,Noodles,5,285,Card,4
+1824,Priya,Tirunelveli,2025-02-14,16:21,Burger,3,253,UPI,4
+1825,Karthik,Salem,2025-06-15,18:18,Burger,1,241,Card,2
+1826,Kumar,Chennai,2025-07-28,11:10,Dosa,5,297,UPI,4
+1827,Arun,Madurai,2025-04-22,14:38,Biryani,5,244,Cash,4
+1828,Suresh,Madurai,2025-07-06,15:49,Parotta,2,225,Cash,4
+1829,Arun,Tirunelveli,2025-04-22,10:31,Biryani,4,288,UPI,2
+1830,Karthik,Madurai,2025-11-06,15:02,Biryani,5,169,Cash,1
+1831,Suresh,Coimbatore,2025-03-08,16:25,Dosa,2,319,UPI,3
+1832,Arun,Tirunelveli,2025-10-09,12:20,Dosa,3,100,Card,3
+1833,Arun,Madurai,2025-09-27,11:06,Pizza,1,260,Card,2
+1834,Ravi,Tirunelveli,2025-07-07,21:52,Fried Rice,2,330,UPI,2
+1835,Karthik,Chennai,2025-12-15,14:12,Shawarma,4,142,Card,4
+1836,Meena,Thoothukudi,2025-06-17,10:35,Noodles,2,190,UPI,3
+1837,Priya,Chennai,2025-03-08,10:41,Fried Rice,3,161,Card,4
+1838,Ravi,Trichy,2025-10-04,11:25,Shawarma,4,123,Card,1
+1839,Priya,Thoothukudi,2025-04-06,10:38,Parotta,2,246,Cash,5
+1840,Kumar,Chennai,2025-04-20,12:20,Fried Rice,1,233,UPI,2
+1841,Meena,Tirunelveli,2025-12-18,15:06,Fried Rice,5,282,UPI,1
+1842,Vijay,Tirunelveli,2025-07-27,21:55,Biryani,3,113,Card,4
+1843,Divya,Thoothukudi,2025-02-24,14:24,Fried Rice,5,205,Card,3
+1844,Kumar,Thoothukudi,2025-05-14,16:20,Parotta,5,178,Cash,5
+1845,Anitha,Chennai,2025-01-02,10:17,Noodles,1,291,UPI,1
+1846,Kumar,Madurai,2025-08-17,22:50,Parotta,5,323,Cash,2
+1847,Kumar,Coimbatore,2025-10-27,19:09,Fried Rice,3,206,UPI,5
+1848,Karthik,Trichy,2025-06-26,10:04,Biryani,1,155,UPI,2
+1849,Meena,Chennai,2025-12-03,21:32,Shawarma,3,236,Card,1
+1850,Kumar,Tirunelveli,2025-04-27,14:44,Burger,5,111,UPI,1
+1851,Suresh,Coimbatore,2025-08-05,17:45,Pizza,3,93,Card,2
+1852,Kumar,Salem,2025-06-14,22:37,Burger,5,188,UPI,5
+1853,Karthik,Thoothukudi,2025-09-22,20:48,Shawarma,4,325,Card,5
+1854,Kumar,Chennai,2025-11-07,18:26,Dosa,4,199,Cash,3
+1855,Divya,Tirunelveli,2025-01-16,17:54,Shawarma,2,165,UPI,5
+1856,Divya,Coimbatore,2025-05-09,19:46,Parotta,1,269,Cash,3
+1857,Divya,Trichy,2025-02-12,22:18,Shawarma,3,102,Cash,1
+1858,Meena,Salem,2025-04-18,19:34,Dosa,5,164,UPI,1
+1859,Divya,Chennai,2025-10-22,11:21,Biryani,5,299,Cash,2
+1860,Vijay,Salem,2025-03-22,17:58,Fried Rice,4,234,UPI,2
+1861,Divya,Madurai,2025-02-25,15:26,Burger,3,170,UPI,5
+1862,Divya,Trichy,2025-05-07,11:08,Pizza,4,222,Card,1
+1863,Vijay,Trichy,2025-09-04,13:11,Burger,5,249,UPI,1
+1864,Vijay,Thoothukudi,2025-07-18,10:08,Noodles,4,114,Cash,2
+1865,Divya,Chennai,2025-01-12,21:40,Biryani,3,90,UPI,5
+1866,Meena,Coimbatore,2025-10-20,14:30,Fried Rice,2,309,Card,3
+1867,Ravi,Thoothukudi,2025-04-13,13:11,Shawarma,4,252,Card,4
+1868,Ravi,Salem,2025-01-10,20:42,Shawarma,4,318,Card,4
+1869,Priya,Coimbatore,2025-07-28,10:54,Biryani,5,99,UPI,5
+1870,Kumar,Tirunelveli,2025-02-17,12:17,Parotta,1,285,Cash,2
+1871,Divya,Salem,2025-05-17,20:59,Burger,5,125,UPI,4
+1872,Vijay,Chennai,2025-01-25,13:36,Shawarma,5,344,Cash,1
+1873,Anitha,Salem,2025-03-20,20:42,Biryani,4,336,UPI,5
+1874,Vijay,Trichy,2025-06-11,16:08,Fried Rice,4,104,Card,1
+1875,Ravi,Thoothukudi,2025-12-09,18:25,Noodles,4,133,UPI,3
+1876,Meena,Coimbatore,2025-11-25,15:11,Fried Rice,2,271,UPI,2
+1877,Kumar,Coimbatore,2025-02-23,17:45,Shawarma,2,113,UPI,3
+1878,Vijay,Coimbatore,2025-10-16,13:50,Noodles,2,257,Cash,3
+1879,Anitha,Chennai,2025-05-07,22:03,Shawarma,5,246,Card,5
+1880,Meena,Chennai,2025-07-17,22:25,Shawarma,3,111,Card,3
+1881,Arun,Chennai,2025-04-17,13:20,Parotta,2,332,UPI,1
+1882,Divya,Salem,2025-02-24,20:59,Shawarma,4,275,Card,1
+1883,Anitha,Thoothukudi,2025-09-10,19:00,Dosa,4,215,UPI,4
+1884,Karthik,Coimbatore,2025-08-19,22:01,Dosa,1,332,UPI,5
+1885,Anitha,Chennai,2025-08-19,14:14,Dosa,5,143,Card,1
+1886,Suresh,Trichy,2025-03-01,14:19,Dosa,1,95,UPI,3
+1887,Ravi,Madurai,2025-05-10,22:31,Parotta,3,148,Card,2
+1888,Vijay,Tirunelveli,2025-10-24,17:24,Biryani,4,349,Card,3
+1889,Karthik,Trichy,2025-02-19,10:01,Noodles,4,236,Cash,3
+1890,Ravi,Chennai,2025-12-11,19:25,Fried Rice,2,279,Cash,5
+1891,Ravi,Tirunelveli,2025-11-23,13:39,Dosa,5,123,Cash,5
+1892,Divya,Chennai,2025-09-04,13:18,Fried Rice,3,162,Cash,1
+1893,Suresh,Trichy,2025-02-11,14:40,Fried Rice,4,112,Cash,2
+1894,Meena,Thoothukudi,2025-06-27,21:22,Dosa,2,291,Card,2
+1895,Kumar,Salem,2025-05-17,20:55,Biryani,1,287,Cash,4
+1896,Anitha,Chennai,2025-01-01,18:45,Dosa,3,241,Cash,2
+1897,Divya,Chennai,2025-03-25,13:17,Burger,2,243,Cash,2
+1898,Ravi,Madurai,2025-08-09,12:31,Noodles,1,181,UPI,5
+1899,Karthik,Thoothukudi,2025-11-23,17:59,Fried Rice,1,133,UPI,1
+1900,Karthik,Coimbatore,2025-03-01,22:56,Fried Rice,5,320,Card,1
+1901,Vijay,Coimbatore,2025-06-11,11:45,Fried Rice,4,204,Cash,1
+1902,Priya,Thoothukudi,2025-01-27,20:01,Biryani,5,124,Card,3
+1903,Suresh,Thoothukudi,2025-02-01,10:08,Parotta,1,299,Card,1
+1904,Suresh,Trichy,2025-09-13,11:26,Fried Rice,4,266,UPI,4
+1905,Anitha,Madurai,2025-02-20,10:27,Biryani,2,144,Cash,5
+1906,Ravi,Chennai,2025-11-04,14:43,Fried Rice,3,270,UPI,1
+1907,Anitha,Chennai,2025-09-24,10:36,Pizza,1,278,Cash,2
+1908,Anitha,Salem,2025-11-11,21:49,Noodles,4,328,Cash,3
+1909,Meena,Trichy,2025-12-03,13:45,Shawarma,1,149,Card,5
+1910,Meena,Trichy,2025-02-23,10:18,Biryani,1,274,Card,3
+1911,Arun,Tirunelveli,2025-11-15,12:57,Biryani,3,133,Card,1
+1912,Anitha,Thoothukudi,2025-03-11,14:43,Burger,1,103,UPI,5
+1913,Kumar,Tirunelveli,2025-04-24,20:27,Noodles,1,217,UPI,3
+1914,Vijay,Tirunelveli,2025-02-12,12:39,Shawarma,3,307,Card,2
+1915,Vijay,Madurai,2025-04-18,20:19,Noodles,4,294,UPI,3
+1916,Suresh,Madurai,2025-04-01,14:42,Noodles,4,130,UPI,2
+1917,Arun,Trichy,2025-05-27,21:30,Shawarma,2,188,Cash,3
+1918,Vijay,Salem,2025-11-01,12:06,Parotta,5,230,UPI,2
+1919,Ravi,Chennai,2025-02-05,10:57,Parotta,2,249,UPI,4
+1920,Vijay,Thoothukudi,2025-12-28,14:19,Parotta,1,231,Card,4
+1921,Karthik,Tirunelveli,2025-03-16,21:43,Fried Rice,2,302,Cash,2
+1922,Ravi,Madurai,2025-07-02,22:51,Pizza,4,327,UPI,2
+1923,Meena,Thoothukudi,2025-03-13,11:46,Burger,3,274,Cash,3
+1924,Kumar,Coimbatore,2025-06-21,11:12,Parotta,5,173,Card,5
+1925,Kumar,Thoothukudi,2025-07-17,19:51,Parotta,1,229,UPI,1
+1926,Ravi,Tirunelveli,2025-11-03,14:36,Biryani,4,316,Cash,2
+1927,Suresh,Chennai,2025-02-11,17:20,Dosa,3,288,UPI,2
+1928,Meena,Trichy,2025-02-20,12:05,Noodles,1,246,Cash,1
+1929,Karthik,Salem,2025-04-15,15:40,Fried Rice,1,197,Cash,1
+1930,Ravi,Coimbatore,2025-08-03,11:16,Noodles,1,182,UPI,2
+1931,Karthik,Tirunelveli,2025-07-28,20:46,Noodles,5,256,Card,4
+1932,Anitha,Tirunelveli,2025-11-05,12:13,Pizza,1,133,Cash,1
+1933,Karthik,Tirunelveli,2025-02-22,17:39,Biryani,4,138,Card,3
+1934,Suresh,Thoothukudi,2025-11-10,12:26,Fried Rice,1,282,Cash,4
+1935,Meena,Thoothukudi,2025-09-18,22:32,Fried Rice,4,146,Cash,1
+1936,Arun,Coimbatore,2025-10-06,20:05,Noodles,4,307,Cash,1
+1937,Meena,Tirunelveli,2025-06-11,22:17,Noodles,5,234,Cash,1
+1938,Kumar,Salem,2025-12-16,22:48,Shawarma,4,294,Card,3
+1939,Karthik,Salem,2025-04-23,22:09,Noodles,5,335,Cash,5
+1940,Meena,Madurai,2025-01-02,13:40,Fried Rice,5,207,Card,2
+1941,Karthik,Thoothukudi,2025-01-15,16:47,Burger,1,295,Cash,4
+1942,Vijay,Coimbatore,2025-02-14,11:00,Pizza,1,231,Cash,2
+1943,Arun,Tirunelveli,2025-01-23,19:36,Fried Rice,2,203,UPI,5
+1944,Karthik,Tirunelveli,2025-02-20,14:30,Dosa,2,147,Cash,5
+1945,Suresh,Thoothukudi,2025-06-15,12:30,Shawarma,4,96,UPI,5
+1946,Arun,Thoothukudi,2025-03-07,15:50,Pizza,3,119,Card,3
+1947,Anitha,Chennai,2025-06-06,16:05,Shawarma,5,294,UPI,3
+1948,Kumar,Thoothukudi,2025-04-01,18:56,Fried Rice,4,168,Card,2
+1949,Anitha,Tirunelveli,2025-05-03,18:34,Parotta,2,198,Cash,3
+1950,Arun,Madurai,2025-09-27,10:21,Pizza,3,223,UPI,2
+1951,Anitha,Trichy,2025-09-22,14:40,Burger,2,164,Cash,2
+1952,Vijay,Trichy,2025-04-17,13:21,Burger,5,266,UPI,1
+1953,Divya,Coimbatore,2025-02-25,17:20,Burger,3,342,Cash,3
+1954,Anitha,Tirunelveli,2025-01-16,21:02,Parotta,2,297,Cash,1
+1955,Kumar,Salem,2025-08-02,19:00,Pizza,1,177,Cash,1
+1956,Vijay,Thoothukudi,2025-06-26,20:15,Shawarma,4,261,UPI,5
+1957,Priya,Chennai,2025-05-13,14:54,Parotta,4,96,Card,2
+1958,Kumar,Coimbatore,2025-02-12,19:01,Fried Rice,4,277,Cash,3
+1959,Arun,Tirunelveli,2025-02-09,14:07,Parotta,2,241,UPI,3
+1960,Suresh,Salem,2025-06-27,21:09,Biryani,2,116,Cash,2
+1961,Vijay,Chennai,2025-12-21,17:19,Biryani,2,149,Card,5
+1962,Arun,Salem,2025-01-10,19:12,Shawarma,4,167,UPI,3
+1963,Suresh,Trichy,2025-08-24,19:32,Shawarma,4,298,Card,1
+1964,Kumar,Tirunelveli,2025-02-25,16:44,Biryani,1,272,UPI,1
+1965,Ravi,Chennai,2025-02-13,19:38,Burger,1,277,UPI,2
+1966,Karthik,Salem,2025-03-19,18:41,Dosa,4,132,UPI,4
+1967,Meena,Thoothukudi,2025-04-05,12:05,Noodles,4,199,UPI,5
+1968,Meena,Madurai,2025-06-17,21:58,Pizza,5,239,UPI,2
+1969,Karthik,Coimbatore,2025-04-23,17:20,Burger,2,165,UPI,1
+1970,Priya,Madurai,2025-06-09,19:34,Pizza,3,106,Cash,1
+1971,Anitha,Tirunelveli,2025-05-27,22:11,Biryani,1,94,UPI,3
+1972,Ravi,Thoothukudi,2025-07-09,17:09,Noodles,2,195,UPI,1
+1973,Suresh,Chennai,2025-04-19,16:35,Dosa,3,249,Card,1
+1974,Priya,Madurai,2025-09-20,10:42,Fried Rice,1,225,Card,3
+1975,Kumar,Trichy,2025-04-28,10:40,Burger,3,216,Card,2
+1976,Kumar,Thoothukudi,2025-03-11,13:05,Noodles,2,139,UPI,2
+1977,Meena,Chennai,2025-03-27,21:53,Pizza,2,215,UPI,2
+1978,Kumar,Tirunelveli,2025-10-01,16:51,Parotta,2,341,UPI,5
+1979,Divya,Coimbatore,2025-10-16,18:28,Fried Rice,2,342,Cash,2
+1980,Anitha,Trichy,2025-03-24,11:12,Dosa,3,117,UPI,5
+1981,Suresh,Salem,2025-04-17,13:05,Biryani,5,243,Card,3
+1982,Vijay,Thoothukudi,2025-11-20,13:33,Fried Rice,4,277,Cash,4
+1983,Karthik,Thoothukudi,2025-10-01,12:54,Shawarma,3,148,Card,4
+1984,Ravi,Tirunelveli,2025-11-23,20:09,Dosa,2,291,Card,1
+1985,Kumar,Coimbatore,2025-03-04,15:17,Noodles,3,274,UPI,2
+1986,Divya,Madurai,2025-09-20,19:36,Dosa,1,212,Cash,3
+1987,Arun,Chennai,2025-01-23,17:55,Fried Rice,5,123,UPI,2
+1988,Divya,Trichy,2025-06-13,12:33,Fried Rice,4,82,UPI,5
+1989,Suresh,Salem,2025-10-23,20:17,Biryani,2,138,Cash,1
+1990,Priya,Salem,2025-01-28,17:12,Noodles,4,236,UPI,5
+1991,Ravi,Madurai,2025-10-19,16:17,Fried Rice,5,271,Card,3
+1992,Ravi,Coimbatore,2025-03-19,15:49,Noodles,2,349,UPI,2
+1993,Meena,Trichy,2025-12-27,13:48,Burger,3,184,Cash,5
+1994,Arun,Salem,2025-11-19,16:56,Burger,1,349,Cash,1
+1995,Suresh,Trichy,2025-04-15,22:38,Pizza,5,181,UPI,2
+1996,Priya,Salem,2025-11-27,15:06,Shawarma,1,282,Card,3
+1997,Divya,Madurai,2025-09-28,10:07,Shawarma,5,99,Card,5
+1998,Anitha,Salem,2025-09-18,11:39,Pizza,3,289,Card,3
+1999,Suresh,Trichy,2025-01-10,20:38,Dosa,3,165,Cash,3
+2000,Meena,Salem,2025-09-27,20:43,Biryani,5,294,Cash,1
